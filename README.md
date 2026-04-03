@@ -39,6 +39,18 @@ Architecture breakdown of the **Claude Chrome Extension** (v1.0.62, Manifest V3)
 
 Rendered PNG export of the Chrome Extension architecture flowchart.
 
+### [`claude-code-sandbox.md`](./claude-code-sandbox.md)
+
+Deep-dive into the **Claude Code sandbox architecture** based on source analysis of `../claude-code/src/`. Key findings:
+
+- **Two execution contexts:** Host (CLI process) vs. Sandbox (isolated Bash subprocess jail)
+- **Platform runtimes:** macOS uses Seatbelt (`sandbox-exec`); Linux/WSL2 uses bubblewrap + socat; WSL1 and native Windows unsupported
+- **Per-command routing:** `shouldUseSandbox.ts` decides host vs. sandbox per invocation; `dangerouslyDisableSandbox` escape hatch still requires user approval
+- **Filesystem boundary:** Write access scoped to cwd + approved paths; `settings.json`, `.claude/skills/`, and bare git artifacts always write-denied to prevent privilege escalation
+- **Network boundary:** Host-side proxy server filters by domain allowlist; `allowManagedDomainsOnly` locks domains to managed policy only
+- **BashTool permission pipeline:** 7-stage check — AST injection detection → sandbox auto-allow → exact rule match → Haiku classifier → wildcard rules → path validation → user prompt
+- **Settings hierarchy:** 5 layers (policy → flags → local → project → user); policy layer can lock sandbox checkpoints so lower layers cannot override
+
 ## Methodology
 
 - **Static analysis:** `app.asar` extraction, binary string analysis of `.node` native addons
