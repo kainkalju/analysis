@@ -1,6 +1,6 @@
 # Claude Code Sandbox Architecture
 
-Analysis of the host/sandbox isolation model in Claude Code, based on source in `../claude-code/src/` and validated against the [official sandboxing documentation](https://www.anthropic.com/engineering/claude-code-sandboxing).
+Analysis of the host/sandbox isolation model in Claude Code, based on source in [`../claude-code/src/`](https://github.com/tanbiralam/claude-code/tree/main/src) and validated against the [official sandboxing documentation](https://www.anthropic.com/engineering/claude-code-sandboxing).
 
 See also: [Sandbox Runtime Repository](https://github.com/anthropic-experimental/sandbox-runtime) and [macOS Seatbelt Analysis](./macos-seatbelt.md)
 
@@ -13,7 +13,7 @@ Claude Code splits execution into two contexts:
 - **Host** — the real machine; where the CLI process lives, reads settings, and manages state
 - **Sandbox** — a process-isolated jail where `Bash` commands execute
 
-The sandbox implementation is delegated to `@anthropic-ai/sandbox-runtime` (open source, [github.com/anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)). Claude Code wraps it via `src/utils/sandbox/sandbox-adapter.ts` through a `SandboxManager` class.
+The sandbox implementation is delegated to `@anthropic-ai/sandbox-runtime` (open source, [github.com/anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime)). Claude Code wraps it via [`src/utils/sandbox/sandbox-adapter.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/sandbox/sandbox-adapter.ts) through a `SandboxManager` class.
 
 **Platform runtimes:**
 | Platform | Mechanism | Notes |
@@ -24,13 +24,13 @@ The sandbox implementation is delegated to `@anthropic-ai/sandbox-runtime` (open
 | WSL1 | ❌ Not supported | Requires kernel features only in WSL2 |
 | Windows native | ❌ Not yet supported | Planned |
 
-> **Note:** The macOS runtime is [Seatbelt](./macos-seatbelt.md) (Apple's `sandbox-exec` framework), not Apple Virtualization.framework. The VM-based isolation is used by Claude Desktop's Cowork feature — not the CLI. Source: `src/components/sandbox/SandboxDependenciesTab.tsx:57`.
+> **Note:** The macOS runtime is [Seatbelt](./macos-seatbelt.md) (Apple's `sandbox-exec` framework), not Apple Virtualization.framework. The VM-based isolation is used by Claude Desktop's Cowork feature — not the CLI. Source: [`src/components/sandbox/SandboxDependenciesTab.tsx:57`](https://github.com/tanbiralam/claude-code/blob/main/src/components/sandbox/SandboxDependenciesTab.tsx#L57).
 
 ---
 
 ## Per-Command Sandbox Decision
 
-`src/tools/BashTool/shouldUseSandbox.ts` resolves whether a given command runs sandboxed:
+[`src/tools/BashTool/shouldUseSandbox.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/tools/BashTool/shouldUseSandbox.ts) resolves whether a given command runs sandboxed:
 
 ```
 sandboxing globally enabled?
@@ -45,7 +45,7 @@ sandboxing globally enabled?
 
 This parameter is **intentional**. When a command fails due to sandbox restrictions (network connectivity, incompatible tools), Claude is prompted to analyze the failure and may retry with `dangerouslyDisableSandbox: true`. Commands using it go through the **normal permissions flow** requiring user approval — they do not silently bypass security.
 
-Setting `allowUnsandboxedCommands: false` removes this escape hatch entirely: the parameter is ignored and all commands must run sandboxed or be listed in `excludedCommands`. Source: `src/entrypoints/sandboxTypes.ts:113-120`.
+Setting `allowUnsandboxedCommands: false` removes this escape hatch entirely: the parameter is ignored and all commands must run sandboxed or be listed in `excludedCommands`. Source: [`src/entrypoints/sandboxTypes.ts:113-120`](https://github.com/tanbiralam/claude-code/blob/main/src/entrypoints/sandboxTypes.ts#L113-L120).
 
 ---
 
@@ -58,13 +58,13 @@ Two modes are available, toggled via `/sandbox`:
 | **Auto-allow** | Sandboxed commands auto-approved without prompting. Commands that can't be sandboxed fall back to normal permission flow. Deny rules always apply. |
 | **Regular permissions** | All commands go through standard permission flow even when sandboxed. More prompts, more control. |
 
-Auto-allow mode operates independently of the global permission mode. Even outside `acceptEdits` mode, sandboxed bash commands execute without prompting. Source: `src/utils/sandbox/sandbox-adapter.ts` (`isAutoAllowBashIfSandboxedEnabled()`).
+Auto-allow mode operates independently of the global permission mode. Even outside `acceptEdits` mode, sandboxed bash commands execute without prompting. Source: [`src/utils/sandbox/sandbox-adapter.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/sandbox/sandbox-adapter.ts) (`isAutoAllowBashIfSandboxedEnabled()`).
 
 ---
 
 ## Filesystem Boundary
 
-The sandbox filesystem map is constructed in `convertToSandboxRuntimeConfig()` in `src/utils/sandbox/sandbox-adapter.ts`.
+The sandbox filesystem map is constructed in `convertToSandboxRuntimeConfig()` in [`src/utils/sandbox/sandbox-adapter.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/sandbox/sandbox-adapter.ts).
 
 ### Default Write Access
 
@@ -87,7 +87,7 @@ The sandbox filesystem map is constructed in `convertToSandboxRuntimeConfig()` i
 
 ### Filesystem Config Keys
 
-All defined in `src/entrypoints/sandboxTypes.ts`:
+All defined in [`src/entrypoints/sandboxTypes.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/entrypoints/sandboxTypes.ts):
 
 | Key | Behavior |
 |---|---|
@@ -113,11 +113,11 @@ All defined in `src/entrypoints/sandboxTypes.ts`:
 
 ## Network Boundary
 
-Network access is enforced via a **proxy server running outside the sandbox** at `127.0.0.1:<proxyPort>`. All network traffic from sandboxed commands passes through it. Source: `src/utils/hooks/execHttpHook.ts:35-40`.
+Network access is enforced via a **proxy server running outside the sandbox** at `127.0.0.1:<proxyPort>`. All network traffic from sandboxed commands passes through it. Source: [`src/utils/hooks/execHttpHook.ts:35-40`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/hooks/execHttpHook.ts#L35-L40).
 
 ### Network Config Keys
 
-All defined in `src/entrypoints/sandboxTypes.ts`:
+All defined in [`src/entrypoints/sandboxTypes.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/entrypoints/sandboxTypes.ts):
 
 | Key | Behavior |
 |---|---|
@@ -131,13 +131,13 @@ All defined in `src/entrypoints/sandboxTypes.ts`:
 
 ### `allowManagedDomainsOnly` Implementation
 
-When enabled, the `SandboxAskCallback` is wrapped to silently reject any domain not in managed policy — rather than prompting the user. Source: `src/utils/sandbox/sandbox-adapter.ts:743-751`.
+When enabled, the `SandboxAskCallback` is wrapped to silently reject any domain not in managed policy — rather than prompting the user. Source: [`src/utils/sandbox/sandbox-adapter.ts:743-751`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/sandbox/sandbox-adapter.ts#L743-L751).
 
 ---
 
 ## BashTool Permission Pipeline
 
-Before any command executes, `bashToolHasPermission()` (`src/tools/BashTool/bashPermissions.ts`) runs a staged check:
+Before any command executes, `bashToolHasPermission()` ([`src/tools/BashTool/bashPermissions.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/tools/BashTool/bashPermissions.ts)) runs a staged check:
 
 ```
 1. AST parse (tree-sitter WASM, feature-gated)
@@ -185,7 +185,7 @@ Commands that set environment variables are only rule-matchable if the variable 
 
 ## Permission Modes
 
-Defined in `src/types/permissions.ts`. Five external (user-facing) modes plus two internal:
+Defined in [`src/types/permissions.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/types/permissions.ts). Five external (user-facing) modes plus two internal:
 
 | Mode | Behavior |
 |---|---|
@@ -225,11 +225,11 @@ When locked, UI changes are silently rejected (no error surfaced to the user).
 
 ### `failIfUnavailable`
 
-When `sandbox.failIfUnavailable: true`, Claude Code **exits at startup** (exit code 1) if the sandbox cannot start — missing dependencies, unsupported platform, or restricted by `enabledPlatforms`. Default is `false` (warn and continue). Source: `src/entrypoints/sandboxTypes.ts:95-103`, enforced at `src/screens/REPL.tsx:2319-2323` and `src/cli/print.ts:604-608`.
+When `sandbox.failIfUnavailable: true`, Claude Code **exits at startup** (exit code 1) if the sandbox cannot start — missing dependencies, unsupported platform, or restricted by `enabledPlatforms`. Default is `false` (warn and continue). Source: [`src/entrypoints/sandboxTypes.ts:95-103`](https://github.com/tanbiralam/claude-code/blob/main/src/entrypoints/sandboxTypes.ts#L95-L103), enforced at [`src/screens/REPL.tsx:2319-2323`](https://github.com/tanbiralam/claude-code/blob/main/src/screens/REPL.tsx#L2319-L2323) and [`src/cli/print.ts:604-608`](https://github.com/tanbiralam/claude-code/blob/main/src/cli/print.ts#L604-L608).
 
 ### `enabledPlatforms` (undocumented)
 
-An undocumented setting read via `.passthrough()` that restricts sandboxing to specific platforms (e.g., `["macos"]`). Added for enterprise rollouts that want to enable `autoAllowBashIfSandboxed` on macOS only while Linux/WSL support matures. Source comment: `src/entrypoints/sandboxTypes.ts:104-111`.
+An undocumented setting read via `.passthrough()` that restricts sandboxing to specific platforms (e.g., `["macos"]`). Added for enterprise rollouts that want to enable `autoAllowBashIfSandboxed` on macOS only while Linux/WSL support matures. Source comment: [`src/entrypoints/sandboxTypes.ts:104-111`](https://github.com/tanbiralam/claude-code/blob/main/src/entrypoints/sandboxTypes.ts#L104-L111).
 
 ---
 
@@ -484,13 +484,13 @@ Ask Claude Code to run any blocked command (e.g. `curl https://example.com`) and
 
 | File | Role |
 |---|---|
-| `src/utils/sandbox/sandbox-adapter.ts` | `SandboxManager` wrapper around `@anthropic-ai/sandbox-runtime` |
-| `src/tools/BashTool/shouldUseSandbox.ts` | Per-command sandbox/host routing decision |
-| `src/tools/BashTool/bashPermissions.ts` | Full permission pipeline for Bash |
-| `src/types/permissions.ts` | `PermissionMode` type definitions |
-| `src/entrypoints/sandboxTypes.ts` | `sandbox.*` config schema (Zod) — canonical source of truth |
-| `src/utils/permissions/permissionSetup.ts` | Initial permission context construction |
-| `src/utils/permissions/PermissionMode.ts` | Mode string parsing and validation |
-| `src/utils/hooks/execHttpHook.ts` | Network proxy port wiring for HTTP hooks |
-| `src/components/sandbox/SandboxDependenciesTab.tsx` | UI listing sandbox dependencies (confirms Seatbelt on macOS) |
-| `src/screens/REPL.tsx:2319` | `failIfUnavailable` enforcement at startup |
+| [`src/utils/sandbox/sandbox-adapter.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/sandbox/sandbox-adapter.ts) | `SandboxManager` wrapper around `@anthropic-ai/sandbox-runtime` |
+| [`src/tools/BashTool/shouldUseSandbox.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/tools/BashTool/shouldUseSandbox.ts) | Per-command sandbox/host routing decision |
+| [`src/tools/BashTool/bashPermissions.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/tools/BashTool/bashPermissions.ts) | Full permission pipeline for Bash |
+| [`src/types/permissions.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/types/permissions.ts) | `PermissionMode` type definitions |
+| [`src/entrypoints/sandboxTypes.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/entrypoints/sandboxTypes.ts) | `sandbox.*` config schema (Zod) — canonical source of truth |
+| [`src/utils/permissions/permissionSetup.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/permissions/permissionSetup.ts) | Initial permission context construction |
+| [`src/utils/permissions/PermissionMode.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/permissions/PermissionMode.ts) | Mode string parsing and validation |
+| [`src/utils/hooks/execHttpHook.ts`](https://github.com/tanbiralam/claude-code/blob/main/src/utils/hooks/execHttpHook.ts) | Network proxy port wiring for HTTP hooks |
+| [`src/components/sandbox/SandboxDependenciesTab.tsx`](https://github.com/tanbiralam/claude-code/blob/main/src/components/sandbox/SandboxDependenciesTab.tsx) | UI listing sandbox dependencies (confirms Seatbelt on macOS) |
+| [`src/screens/REPL.tsx:2319`](https://github.com/tanbiralam/claude-code/blob/main/src/screens/REPL.tsx#L2319) | `failIfUnavailable` enforcement at startup |
