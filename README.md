@@ -1,6 +1,6 @@
 # Claude Architecture Research
 
-Static analysis and architecture research of Anthropic's Claude products — the desktop app and Chrome extension.
+Static analysis and architecture research of Anthropic's Claude products — the desktop app, Chrome extension and Claude Code CLI.
 
 ## Contents
 
