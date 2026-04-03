@@ -1,6 +1,8 @@
 # Claude Code Sandbox Architecture
 
-Analysis of the host/sandbox isolation model in Claude Code, based on source in `../claude-code/src/` and validated against the official sandboxing documentation.
+Analysis of the host/sandbox isolation model in Claude Code, based on source in `../claude-code/src/` and validated against the [official sandboxing documentation](https://www.anthropic.com/engineering/claude-code-sandboxing).
+
+See also: [Sandbox Runtime Repository](https://github.com/anthropic-experimental/sandbox-runtime)
 
 ---
 
