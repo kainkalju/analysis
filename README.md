@@ -51,6 +51,16 @@ Deep-dive into the **Claude Code sandbox architecture** based on source analysis
 - **BashTool permission pipeline:** 7-stage check — AST injection detection → sandbox auto-allow → exact rule match → Haiku classifier → wildcard rules → path validation → user prompt
 - **Settings hierarchy:** 5 layers (policy → flags → local → project → user); policy layer can lock sandbox checkpoints so lower layers cannot override
 
+### [`claude-code-tracking-swearing.md`](./claude-code-tracking-swearing.md)
+
+Analysis of **Claude Code's passive sentiment-tracking system** (`matchesNegativeKeyword`). Key findings:
+
+- **Telemetry-only:** `matchesNegativeKeyword` in `src/utils/userPromptKeywords.ts` detects profanity/frustration phrases and emits a `tengu_input_prompt` analytics event — it never modifies Claude's behavior
+- **Paired tracking:** Always logged alongside `matchesKeepGoingKeyword` (continuation prompts), letting Anthropic correlate frustration with retry patterns
+- **Data flow:** Booleans flow through `logEvent` → `analytics/sink.ts` → Datadog (GrowthBook-gated) and `BatchLogRecordProcessor` → `POST /api/event_logging/batch` on Anthropic servers
+- **No in-band disclosure:** Detection runs on every prompt with no user-facing notice at runtime
+- **String exclusion by design:** Analytics metadata typed as `boolean | number | undefined` to prevent accidental logging of prompt text
+
 ### [`macos-seatbelt.md`](./macos-seatbelt.md)
 
 Technical reference for **macOS Seatbelt** (`sandbox-exec`) as used by Claude Code's sandbox runtime. Key findings:
