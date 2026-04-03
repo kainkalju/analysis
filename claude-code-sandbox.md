@@ -2,7 +2,7 @@
 
 Analysis of the host/sandbox isolation model in Claude Code, based on source in `../claude-code/src/` and validated against the [official sandboxing documentation](https://www.anthropic.com/engineering/claude-code-sandboxing).
 
-See also: [Sandbox Runtime Repository](https://github.com/anthropic-experimental/sandbox-runtime)
+See also: [Sandbox Runtime Repository](https://github.com/anthropic-experimental/sandbox-runtime) and [macOS Seatbelt Analysis](./macos-seatbelt.md)
 
 ---
 
@@ -18,13 +18,13 @@ The sandbox implementation is delegated to `@anthropic-ai/sandbox-runtime` (open
 **Platform runtimes:**
 | Platform | Mechanism | Notes |
 |---|---|---|
-| macOS | Seatbelt (built-in OS framework) | No dependencies required |
+| macOS | [Seatbelt](./macos-seatbelt.md) (built-in OS framework) | No dependencies required |
 | Linux | bubblewrap + socat | Must install: `apt install bubblewrap socat` |
 | WSL2 | bubblewrap + socat | Same as Linux |
 | WSL1 | ❌ Not supported | Requires kernel features only in WSL2 |
 | Windows native | ❌ Not yet supported | Planned |
 
-> **Note:** The macOS runtime is Seatbelt (Apple's `sandbox-exec` framework), not Apple Virtualization.framework. The VM-based isolation is used by Claude Desktop's Cowork feature — not the CLI. Source: `src/components/sandbox/SandboxDependenciesTab.tsx:57`.
+> **Note:** The macOS runtime is [Seatbelt](./macos-seatbelt.md) (Apple's `sandbox-exec` framework), not Apple Virtualization.framework. The VM-based isolation is used by Claude Desktop's Cowork feature — not the CLI. Source: `src/components/sandbox/SandboxDependenciesTab.tsx:57`.
 
 ---
 
