@@ -51,8 +51,12 @@ Deep-dive into the **Claude Code sandbox architecture** based on source analysis
 - **BashTool permission pipeline:** 7-stage check — AST injection detection → sandbox auto-allow → exact rule match → Haiku classifier → wildcard rules → path validation → user prompt
 - **Settings hierarchy:** 5 layers (policy → flags → local → project → user); policy layer can lock sandbox checkpoints so lower layers cannot override
 
-## Methodology
+### [`macos-seatbelt.md`](./macos-seatbelt.md)
 
-- **Static analysis:** `app.asar` extraction, binary string analysis of `.node` native addons
-- **Runtime observation:** Live mount enumeration (`/proc/mounts`), `uname -a` inside each sandbox, network traffic inspection
-- **Sources:** App bundle at `/Applications/Claude.app`, Chrome extension directory (v1.0.62)
+Technical reference for **macOS Seatbelt** (`sandbox-exec`) as used by Claude Code's sandbox runtime. Key findings:
+
+- **Kernel internals:** MACF (Mandatory Access Control Framework) + `Sandbox.kext` intercept every syscall (file open, network connect, process fork, Mach port access) before the kernel honors it
+- **SBPL profiles:** Deny-by-default Scheme-like DSL; Claude Code generates these dynamically per-session scoping write access to cwd + approved paths
+- **Three critical hooks:** `MAC_VNODE_CHECK_OPEN`, `MAC_SOCKET_CHECK_CONNECT`, `MAC_PROC_CHECK_FORK` — basis for FS, network, and process isolation
+- **Claude Code integration:** `sandbox-runtime` generates and applies SBPL profiles; compared side-by-side against Linux bubblewrap + landlock + seccomp equivalents
+- **Debugging:** `sandbox-exec` violation logging, `log stream` filters, and common gotchas (deprecated but kernel-stable)
