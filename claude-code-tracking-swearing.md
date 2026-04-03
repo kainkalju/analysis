@@ -147,7 +147,7 @@ flowchart LR
         DD[Datadog]
         BATCH[BatchLogRecordProcessor]
         EXP[FirstPartyEventLoggingExporter]
-        ENDPOINT[/api/event_logging/batch]
+        ENDPOINT["/api/event_logging/batch"]
         BATCH --> EXP --> ENDPOINT
     end
 
