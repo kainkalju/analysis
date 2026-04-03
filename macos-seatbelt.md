@@ -14,7 +14,7 @@
 6. [sandbox-exec: The User-Space Entry Point](#sandbox-exec-the-user-space-entry-point)
 7. [Enforcement Flow](#enforcement-flow)
 8. [How Claude Code Uses Seatbelt](#how-claude-code-uses-seatbelt)
-9. [Seatbelt vs Linux (bubblewrap + landlock + seccomp)](#seatbelt-vs-linux-bubblewrap--landlock--seccomp)
+9. [Seatbelt vs Linux (bubblewrap + seccomp)](#seatbelt-vs-linux-bubblewrap--seccomp)
 10. [Important Gotchas](#important-gotchas)
 11. [Debugging Sandbox Violations](#debugging-sandbox-violations)
 12. [Profile Reference](#profile-reference)
@@ -301,27 +301,34 @@ Rules are evaluated **first match wins**. Later rules do not override earlier on
 
 ## How Claude Code Uses Seatbelt
 
-Claude Code's `sandbox-runtime` generates an SBPL profile at launch time from your `settings.json` configuration and passes it inline to `sandbox-exec` via the `-p` flag:
+Claude Code delegates all Seatbelt mechanics to the `@anthropic-ai/sandbox-runtime` package. The source code (`src/utils/sandbox/sandbox-adapter.ts`) contains no SBPL generation — it converts settings into a `SandboxRuntimeConfig` struct and hands that to `BaseSandboxManager` from sandbox-runtime, which generates the SBPL profile and invokes `sandbox-exec`.
+
+> **Correction:** The `/sandbox` command opens an **interactive settings menu** — it does not trigger a sandboxed bash session. Sandboxed bash is spawned for **every bash command** when `sandbox.enabled: true`, via `SandboxManager.wrapWithSandbox()` called inside `BashTool`.
 
 ```mermaid
 sequenceDiagram
     participant U as User
-    participant CC as Claude Code
-    participant SR as sandbox-runtime
+    participant CC as Claude Code (BashTool)
+    participant SA as sandbox-adapter.ts
+    participant SR as @anthropic-ai/sandbox-runtime
     participant SE as sandbox-exec
     participant BP as Sandboxed bash
 
-    U->>CC: runs /sandbox command
-    CC->>SR: read settings.json sandbox config
-    SR->>SR: generate SBPL profile string<br/>(allowWrite paths, denyRead paths,<br/>allowed network domains)
-    SR->>SE: sandbox-exec -p "generated SBPL" bash
+    U->>CC: runs any bash command
+    CC->>SA: wrapWithSandbox(command)
+    SA->>SA: convertToSandboxRuntimeConfig(settings)<br/>(allowWrite, denyRead, denyWrite,<br/>allowedDomains, httpProxyPort, ...)
+    SA->>SR: BaseSandboxManager.wrapWithSandbox(command, config)
+    SR->>SR: generate SBPL profile string
+    SR->>SE: sandbox-exec -p "generated SBPL" bash -c command
     SE->>SE: sandbox_init() → exec(bash)
     SE->>BP: bash process starts (sandboxed)
     BP-->>CC: stdout/stderr piped back
     Note over BP: Cannot write outside CWD<br/>Cannot reach non-allowlisted domains<br/>Cannot read ~/.ssh, ~/.aws, etc.
 ```
 
-The generated profile follows this structure:
+The config Claude Code passes to sandbox-runtime is built from merged settings sources (policy → flag → user → project → local). The sandbox config updates **live** — settings changes re-apply via a subscription without restarting (`sandbox-adapter.ts:776-781`).
+
+The generated profile follows this structure (unverifiable from Claude Code source — inside sandbox-runtime):
 
 ```scheme
 (version 1)
@@ -353,18 +360,24 @@ The generated profile follows this structure:
 (deny file-read* (subpath "/Users/me/.aws"))
 
 ; Network — route through proxy
+; macOS: port-based proxy (httpProxyPort / socksProxyPort from settings.json)
+; Linux: Unix socket paths (getLinuxHttpSocketPath / getLinuxSocksSocketPath)
 (allow network-outbound
-    (remote unix-socket "/path/to/proxy.sock"))
+    (remote tcp "127.0.0.1:<httpProxyPort>"))
 (deny network-outbound)  ; block everything else
 ```
+
+> **Correction:** Claude Code uses **port-based proxying** on macOS (`httpProxyPort`, `socksProxyPort` in `settings.json`), not a Unix socket. The `(remote unix-socket ...)` form used in the SBPL above is the Linux path. On macOS the proxy is reached via TCP on a local port. See `SandboxNetworkConfigSchema` in `src/entrypoints/sandboxTypes.ts`.
 
 Network traffic from the sandbox is routed through a proxy running outside the sandbox that enforces the domain allowlist from `settings.json`.
 
 ---
 
-## Seatbelt vs Linux (bubblewrap + landlock + seccomp)
+## Seatbelt vs Linux (bubblewrap + seccomp)
 
 Claude Code uses different mechanisms per OS to achieve the same two-boundary security model:
+
+> **Correction:** Landlock LSM was previously listed here but is **not confirmed** in the Claude Code source. Only bubblewrap (namespaces/bind mounts) and seccomp (BPF syscall filtering) are evidenced. Linux also requires `socat` as a dependency (`apt install bubblewrap socat`).
 
 ```mermaid
 graph LR
@@ -372,27 +385,28 @@ graph LR
         SB["sandbox-exec\n+ SBPL profile"]
         SB --> SK["Sandbox.kext\n(MACF hooks)"]
         SK --> FS1["Filesystem isolation"]
-        SK --> NET1["Network isolation"]
+        SK --> NET1["Network isolation\n(port-based proxy)"]
     end
 
-    subgraph Linux ["Linux — Three-layer stack"]
+    subgraph Linux ["Linux — Two-layer stack"]
         BW["bubblewrap\n(namespaces)"] --> FS2["Filesystem isolation\n(bind mounts, pivot_root)"]
-        LL["landlock LSM"] --> FS3["Filesystem rules\n(path-level ACLs)"]
-        SC["seccomp\n(BPF filters)"] --> SYS["Syscall filtering\n(blocks AF_UNIX socket creation)"]
+        SC["seccomp\n(BPF filters)"] --> SYS["Syscall filtering\n(cannot filter by socket path)"]
     end
 ```
 
-| Property | macOS Seatbelt | Linux bubblewrap+landlock+seccomp |
-|----------|---------------|----------------------------------|
-| Mechanism | Kernel extension (MACF hooks) | Namespaces + LSM + BPF |
-| Filesystem isolation | SBPL `(allow/deny file-*)` | bubblewrap bind mounts + landlock rules |
-| Network isolation | SBPL `(deny network-*)` + proxy | Network namespace (none) + SOCKS5 proxy |
+| Property | macOS Seatbelt | Linux bubblewrap+seccomp |
+|----------|---------------|--------------------------|
+| Mechanism | Kernel extension (MACF hooks) | Namespaces + BPF |
+| Filesystem isolation | SBPL `(allow/deny file-*)` | bubblewrap bind mounts |
+| Network isolation | SBPL `(deny network-*)` + port-based proxy | Network namespace (none) + HTTP/SOCKS5 proxy |
 | Syscall filtering | Implicit via MACF | Explicit seccomp BPF filter |
-| Nested sandbox (Docker) | `enableWeakerNestedSandbox` mode | Requires `--privileged` or user namespaces |
+| Unix socket filtering | Per-path via `allowUnixSockets` | Not possible — seccomp cannot filter by socket path |
+| Nested sandbox | `enableWeakerNestedSandbox` mode | `enableWeakerNestedSandbox` mode |
 | Documentation | Undocumented, deprecated API | Well-documented kernel features |
 | Overhead | Minimal (kernel evaluation) | Minimal (BPF JIT compiled) |
-| Granularity | Very fine (per-path, per-operation) | Fine (landlock) + coarse (namespaces) |
+| Granularity | Very fine (per-path, per-operation) | Coarse (namespaces) |
 | Escape resistance | Very high (irreversible at exec) | High (namespace teardown requires CAP_SYS_ADMIN) |
+| Extra dependencies | None (Seatbelt is built-in) | `bubblewrap`, `socat` |
 
 ---
 
@@ -413,11 +427,20 @@ Without `(allow file-map-executable)`, `dyld` cannot map shared libraries into m
 ### 4. Computer use runs on the real desktop
 When Claude Code uses computer use (controlling your screen on macOS), it runs **outside** the sandbox on your actual desktop. Seatbelt only applies to bash subprocesses.
 
-### 5. Built-in file tools bypass the sandbox
-Claude Code's `Read`, `Edit`, and `Write` file tools use the permission system directly — they do not run through the sandbox. Only bash commands and their children are sandboxed.
+### 5. Built-in file tools do not use sandbox-exec
+Claude Code's `Read`, `Edit`, and `Write` file tools operate at the application layer — they check permissions via `checkReadPermissionForTool` / `checkWritePermissionForTool`, not via the OS sandbox. Only bash commands (and their children) are wrapped with `sandbox-exec`. This is an architectural separation: the sandbox enforces bash-level isolation; the permission system enforces tool-level policy.
 
 ### 6. `enableWeakerNestedSandbox` mode
-When running inside Docker on Linux, sandbox-runtime can't create full bubblewrap namespaces without `--privileged`. The `enableWeakerNestedSandbox` flag enables a weakened mode. Only use this when the Docker container itself provides the outer isolation boundary.
+The `enableWeakerNestedSandbox` flag reduces sandbox constraints to allow nested sandboxing scenarios. The source gives no Docker-specific framing — it applies to any context where the outer environment already provides isolation. Use with care.
+
+### 7. `enableWeakerNetworkIsolation` — macOS only, trust store access
+`enableWeakerNetworkIsolation: true` allows access to `com.apple.trustd.agent` inside the sandbox. Required for Go-based CLI tools (`gh`, `gcloud`, `terraform`) to verify TLS certificates when using `httpProxyPort` with a MITM proxy and custom CA. **Reduces security** — opens a potential data exfiltration vector through the trustd service. Default: `false`. (`src/entrypoints/sandboxTypes.ts:125-133`)
+
+### 8. Settings files are always write-denied (sandbox escape prevention)
+Regardless of user config, `convertToSandboxRuntimeConfig()` unconditionally adds all `settings.json` paths to `denyWrite`. This prevents a sandboxed bash command from modifying Claude Code's permission rules to escape its own sandbox. Similarly, `.claude/skills` is always write-denied. (`src/utils/sandbox/sandbox-adapter.ts:232-255`)
+
+### 9. Git bare-repo escape mitigation
+If `HEAD`, `objects`, `refs`, or `hooks` exist in cwd, they are added to `denyWrite` at sandbox init time. If they don't exist, they are scrubbed after each sandboxed command via `scrubBareGitRepoFiles()`. This blocks an attacker from planting a fake bare git repo in cwd with a `core.fsmonitor` hook that would execute outside the sandbox when Claude Code's unsandboxed git process runs. (`src/utils/sandbox/sandbox-adapter.ts:257-413`, issue `#29316`)
 
 ---
 
@@ -526,4 +549,4 @@ Start with `(deny default)` plus only `process-exec*` and `sysctl-read`, then ru
 
 ---
 
-*Last updated: April 2026. Based on Anthropic Claude Code sandbox-runtime source, Apple Developer documentation, and macOS security research.*
+*Last updated: April 2026. Based on Claude Code source (`claude-code/src/`), `@anthropic-ai/sandbox-runtime` (bundled, not available as source), Apple Developer documentation, and macOS security research. Inaccuracies corrected against source on 2026-04-03.*
