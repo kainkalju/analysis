@@ -7,7 +7,7 @@ This archive contains **4 comprehensive research documents** totaling over **40,
 ---
 
 ## Document 1: Complete Research Archive Summary
-**File**: `FINAL_SUMMARY_Complete_Archive.md`
+**File**: [`FINAL_SUMMARY_Complete_Archive.md`](FINAL_SUMMARY_Complete_Archive.md)
 
 ### Contents:
 - Overview of all research topics covered
@@ -34,7 +34,7 @@ The iPod's success came from a complete system approach combining:
 ---
 
 ## Document 2: iPod Financial Impact - Quick Reference
-**File**: `iPod_Financial_Impact_Quick_Reference.md`
+**File**: [`iPod_Financial_Impact_Quick_Reference.md`](iPod_Financial_Impact_Quick_Reference.md)
 
 ### Contents:
 - Quick-lookup financial metrics and milestones
@@ -57,7 +57,7 @@ Best for quick lookups and understanding the scale of financial impact without d
 ---
 
 ## Document 3: The iPod's Financial Impact on Apple - Detailed Analysis
-**File**: `iPod_Financial_Impact_Stock_Price_Valuation.md`
+**File**: [`iPod_Financial_Impact_Stock_Price_Valuation.md`](iPod_Financial_Impact_Stock_Price_Valuation.md)
 
 ### Contents:
 - **Part 1**: Initial market reaction (October 2001)
@@ -94,7 +94,7 @@ Best for quick lookups and understanding the scale of financial impact without d
 ---
 
 ## Document 4: Toshiba Exclusive Deal Strategic Analysis
-**File**: `Toshiba_Exclusive_Deal_Strategic_Analysis.md`
+**File**: [`Toshiba_Exclusive_Deal_Strategic_Analysis.md`](Toshiba_Exclusive_Deal_Strategic_Analysis.md)
 
 ### Contents:
 - Jon Rubinstein and Steve Jobs' exclusive Toshiba negotiation
