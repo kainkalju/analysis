@@ -50,6 +50,12 @@ Claude is the most sophisticated agent tool overall, especially in how it reason
 
 [Codex.app for macOS: a static technical overview](codex-research-by-codex.md) by Codex
 
+### Claude.app
+
+[Claude.app Architecture Diagram](../research-claude-desktop-architecture.md) 
+[Claude.app Research Notes](../research-claude-desktop-virtualization.md)
+[Claude Code Sandbox Architecture](../claude-code-sandbox.md)
+[Claude Code: Tracking User Frustration](../claude-code-tracking-swearing.md)
 
 ## Cost
 
