@@ -18,6 +18,14 @@ Prepared by Manus AI.
 Scope: macOS desktop applications and their architecture, local execution model, sandboxing/isolation, cloud dependency, and security posture.
 Primary sources: uploaded reverse-engineering and research notes for Manus, Codex, Claude Desktop, and Claude Code sandboxing.
 
+### Comparison with user tests
+
+The Manus-authored comparison presents Manus as the most accessible office-worker tool: it has native document-style output, strong multimedia handling, and a polished non-technical user experience. The hands-on tests mostly confirm that, but add an important practical correction: Manus can be excellent, especially for audio transcription, wide research, image work, and beautiful generated webpages, but it is painfully expensive in credits. Its generated webpages can also be tied to the Manus hosting/runtime model; using them outside the `manus.space` domain may require a special web server setup. Manus can read and generate images, using Nano Banana 2 from Google Gemini for image generation.
+
+Codex looks less polished in the report for non-technical office workers, but the user tests show why it is still very strong: it works directly with local files, keeps generated results in `Documents/Codex/`, and avoids accidental overwrites by working in its own output area. Word, Excel, and PowerPoint skills are built in. Codex can read images and generate images through ChatGPT image generation models, and it is especially good when the task benefits from local files, shell tools, repeatable scripts, and transparent artifacts.
+
+Claude is the most sophisticated agent tool overall, especially in how it reasons, structures work, and can be guided by careful prompting. The report's privacy and local-execution strengths for Claude Cowork still matter, but the user tests show clearer capability limits: Claude reads images well, including OCR-style extraction, but does not generate or edit images. It also has no native audio transcription support; audio work requires an added skill, local model such as Whisper, remote API, or MCP provider. Claude does not have a dedicated Wide Research or Deep Research mode here, but it can be prompted toward deeper research behavior with enough context and guidance.
+
 ### ChatGPT
 
 [macOS Desktop Agentic Tools Compared](deep-research-report-3.md)
