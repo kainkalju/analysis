@@ -1,11 +1,18 @@
 # Desktop agent tooling comparison June 2026
 
+## Executive overview
+
+This research compares Manus, OpenAI Codex, and Claude Desktop as practical desktop agents for office-style work on macOS. The tests mix technical inspection with hands-on user tasks: spreadsheet analysis, image understanding, image generation, audio transcription, reusable skills, deep research, and web-page artifact generation. The main pattern is that each tool has different strengths: Codex is strongest when it can use local files, shell tools, and existing developer workflows; Manus is effective for hosted agent tasks and produced the best Estonian lecture transcription; Claude is polished for chat and document-style output but depends more on product mode and external skills for some desktop tasks.
+
+The comparison also highlights cost and quota differences. All tests used roughly comparable $20 consumer/pro subscriptions where possible, but Manus charges finite credits per task, while ChatGPT Plus and Claude Pro are quota-limited by usage windows. That makes apparently similar tasks feel very different in practice, especially for long-running work such as transcription or generated web artifacts.
+
 ## Introduction
 
 ### Manus
 
-[macOS Desktop Agentic Tools for the Office Worker](macos-desktop-agent-comparison.md) A Sophisticated Comparison: Manus, Claude Desktop (Chat · Cowork · Code), and OpenAI Codex
-Prepared by Manus AI
+[macOS Desktop Agentic Tools for the Office Worker: A Sophisticated Comparison of Manus, Claude Desktop (Chat, Cowork, Code), and OpenAI Codex](macos-desktop-agent-comparison.md)
+
+Prepared by Manus AI.
 
 [Comparison of Manus, Codex, and Claude Desktop macOS Applications](manus-codex-claude-desktop-macos-comparison.md)
 Scope: macOS desktop applications and their architecture, local execution model, sandboxing/isolation, cloud dependency, and security posture.
@@ -38,67 +45,71 @@ Primary sources: uploaded reverse-engineering and research notes for Manus, Code
 
 ## Cost
 
-All comparisons where made with $20 subscriptions - Manus Pro, ChatGTP Plus, Claude Pro
+This section compares the practical cost model of each product during the tests. All comparisons were made with $20 subscriptions: Manus Pro, ChatGPT Plus, and Claude Pro.
 
 ### Claude Pro
 
-Quota limited. Resets weekly and in every 5 hours
+Quota-limited. Usage resets weekly and every five hours.
 
 ![Claude usage](Claude-usage.png)
 
 ### ChatGPT Plus (for Codex)
 
-Quota limited. Resets weekly and in every 5 hours
+Quota-limited. Usage resets weekly and every five hours.
 
 ![Codex usage](Codex-usage.png)
 
 ### Manus Pro
 
-Finite monthly credits. Free additional daily credits for lite model usage. Manus is most expensive. Credits spend is similar like API pricing per Millions of tokens.
+Finite monthly credits. Manus also provides additional free daily credits for lite-model usage. Manus is the most expensive option in these tests. Credit spending feels similar to API pricing per million tokens.
 
 ![Manus usage](Manus-usage.png)
 
 ![Manus credits history](Manus-credits-history.png)
 
-Single audio transcription consumes 25% of montly credits!
+A single audio transcription consumed about 25% of the monthly credits.
 
 ## Create expense overview from Excel worksheet
 
-PROMPT: Read hobby.xls worksheet "fotokas" and create overview about the expenses. Write new Excel file with diagrams
+This test checks whether the agent can inspect a real spreadsheet, understand which rows belong in the analysis, avoid a hidden trap, and produce a new Excel workbook with useful charts.
 
-There was a catch/trick in the excel worksheet. After main rows there was "shopping list" with whichful items not bought. So if agent ignored that then it got wrong total sum. Also in the first row there was =SUM() formula with correct range.
+PROMPT: Read hobby.xls worksheet "fotokas" and create overview about the expenses. Write new Excel file with diagrams.
+
+There was a catch in the Excel worksheet. After the main rows, there was a "shopping list" with wishlist items that had not been bought. If the agent ignored that boundary, it got the wrong total sum. The first row also contained a `=SUM()` formula with the correct range.
 
 ### Claude Cowork
 
-2 minutes. Generated Excel looks nice. Includes pie chart with expence categories. Total sum is right
+2 minutes. Generated Excel looks nice. Includes a pie chart with expense categories. Total sum is correct.
 
 ![Claude excel](fotokas-excel-claude.png)
 
 ### Codex
 
-7 minutes. Generated Excel looks fine. Includes column chart "Expenses by category" and "Top 10 single expenses". Total sum is right
+7 minutes. Generated Excel looks fine. Includes column charts for "Expenses by category" and "Top 10 single expenses". Total sum is correct.
 
 ![Codex excel](fotokas-excel-codex.png)
 
 ### Manus
 
-Credits used 94. Time worked 3m 30s. Generated Excel looks nice. Includes pie chart and column chart with expence categories. Also worksheets by category and all items. But the total sum is incorrect because "shopping list" was also included.
+Credits used: 94. Time worked: 3m 30s. Generated Excel looks nice. Includes a pie chart and a column chart with expense categories. Also includes worksheets by category and all items. However, the total sum is incorrect because the "shopping list" rows were included.
 
 ![Manus excel](fotokas-excel-manus.png)
 
 ## Identify fighter plane (from image)
 
-Pasted image with resolution 2048 × 1365
+This test checks visual identification and reasoning from an image. The agent had to look at a photo of aircraft, infer the likely fighter model, and explain the evidence rather than just describe the image.
+
+Pasted image with resolution 2048 x 1365.
 
 ![fighter planes](pasted_image_QSm41Z.png)
 
 ### Claude
 
-[identify-fighter-plane-claude.md](identify-fighter-plane-claude.md) 
+[identify-fighter-plane-claude.md](identify-fighter-plane-claude.md)
 
 ### Codex
 
-[identify-fighter-plane-codex.md](identify-fighter-plane-codex.md) 
+[identify-fighter-plane-codex.md](identify-fighter-plane-codex.md)
 
 ### Manus
 
@@ -106,7 +117,9 @@ Pasted image with resolution 2048 × 1365
 
 ## Image generation from existing photo
 
-PROMPT: Two people sitting on swing. Generate picture where those two are clowns like Piip and Tuut
+This test checks whether the agent can transform an existing photo into a new generated image while preserving the basic scene and following a culturally specific style prompt.
+
+PROMPT: Two people sitting on swing. Generate picture where those two are clowns like Piip and Tuut.
 
 ### Codex
 
@@ -118,26 +131,28 @@ PROMPT: Two people sitting on swing. Generate picture where those two are clowns
 
 ### Claude
 
-Claude is not supporting image generations
+Claude does not support image generation in this setup.
 
 ## Audio transcription
 
-Source: https://www.youtube.com/watch?v=weJlLDyMrIg
+This test checks long-form audio transcription for Estonian speech. It compares whether the agent can handle a nearly two-hour lecture, what transcription backend it uses, how long the work takes, and whether the resulting text is good enough for summarization.
+
+Source: [YouTube lecture](https://www.youtube.com/watch?v=weJlLDyMrIg)
 
 Title: Eesti.ai töötuba: Arutelupartnerist töökaaslaseni ehk kuidas tehisaru toetab töötamist
 
-Audio file in mp3 format. Total length 1h 57m
+Audio file in MP3 format. Total length: 1h 57m.
 
-Prompt: Transcribe that Estonian language lecture
+Prompt: Transcribe that Estonian language lecture.
 
-Manus is clear winner here. Transcript is high quality and so is the summary.
-Codex and Claude rely only on local Whisper transcription model which is comparably slower (on my machine) and quality do not much with Manus.
+Manus is the clear winner here. The transcript is high quality, and so is the summary.
+Codex and Claude rely on local Whisper transcription, which is much slower on my machine, and the quality does not match Manus.
 
-For comparison see also transcription from Gemini NotebookLM - [gemini-notebooklm-transcription.txt](gemini-notebooklm-transcription.txt)
+For comparison, see also the transcription from Gemini NotebookLM: [gemini-notebooklm-transcription.txt](gemini-notebooklm-transcription.txt).
 
 ### Manus
 
-260625_092911_00.mp3
+`260625_092911_00.mp3`
 Audio · 107.16 MB
 Transcribe that Estonian language lecture
 Got it! I will transcribe the Estonian language lecture for you now.
@@ -150,8 +165,8 @@ Additional prompt: Tee mulle kokkuvõte jagades loengu olulisemateks teemadeks
 
 [Loengu kokkuvõte: Tehisintellekti praktiline kasutamine ja vaipkoodimine](<Loengu kokkuvõte_ Tehisintellekti praktiline kasutamine ja vaipkoodimine.md>)
 
-Credits used 926
-Time worked 22m 26s
+Credits used: 926.
+Time worked: 22m 26s.
 
 ### Codex
 
@@ -183,27 +198,29 @@ Before starting the full pass, I’m checking whether PyTorch can use Apple Sili
 
 So basically Codex found whisper in my computer and tried to use that for transcription without any existing skills
 
-[Whisper transcription in srt format](260625_092911_00.txt)
+[Whisper transcription in text format](260625_092911_00.txt)
 
-Whisper is using local models. This actual transcription was generated with "large-v3-turbo" model. Transcrition takes several hours because I do not have GPU
+Whisper uses local models. This transcription was generated with the `large-v3-turbo` model. Transcription takes several hours because I do not have a GPU.
 
 ### Claude Cowork / Code
 
-You can get skill for Claude from Github - https://github.com/spillwavesolutions/whisper-transcribe
+You can get a skill for Claude from GitHub: [spillwavesolutions/whisper-transcribe](https://github.com/spillwavesolutions/whisper-transcribe).
 
-Without the skill Claude will not do anything with mp3 audio files.
+Without the skill, Claude will not do anything with MP3 audio files.
 
-Claude does not support audio transcription in the server side.
+Claude does not support server-side audio transcription in this setup.
 
 ## Skills
 
-All the 3 apps are supporting skills
+This test checks skill/plugin support across the three apps by using the same Supadata skill to fetch a YouTube transcript and generate an Estonian summary.
 
-Testing the same Supadata skill for generating summarys from Youtube transcriptions
+All three apps support skills.
+
+Testing the same Supadata skill for generating summaries from YouTube transcriptions.
 
 ### PROMPT
 
-/supadata fetch native transcript https://www.youtube.com/watch?v=H-SgQP3Hif0
+/supadata fetch native transcript [https://www.youtube.com/watch?v=H-SgQP3Hif0](https://www.youtube.com/watch?v=H-SgQP3Hif0)
 Tee eesti keelne kokkuvõte
 
 ### Manus
@@ -220,6 +237,8 @@ Tee eesti keelne kokkuvõte
 
 ## Deep research / Wide research
 
+This test compares long-form research modes. ChatGPT has Deep Research, Manus has Wide Research, and Claude was tested with a prompt that asked it to perform "Deep Research" even though it does not expose an equivalent dedicated mode here.
+
 [ChatGPT Deep Research](https://en.wikipedia.org/wiki/ChatGPT_Deep_Research)
 
 From Wikipedia, the free encyclopedia
@@ -230,58 +249,60 @@ Release: February 3, 2025
 
 ### PROMPT
 
-My company is using Microsoft M365 for e-mail, calendars, Teams and Sharepoint for files. If we change to the Google Workspace what are the major changes? What we might miss? We have E5 license (1200 users) and we choose Enterprise license for Workspace
+My company is using Microsoft 365 for email, calendars, Teams, and SharePoint for files. If we change to Google Workspace, what are the major changes? What might we miss? We have E5 licenses for 1,200 users, and we would choose the Enterprise license for Workspace.
 
 ### ChatGPT Deep Research
 
-Codex does not directly support this feature but since the subscruption allow to use https://chatgpt.com/ web usage also then we tried that
+Codex does not directly support this feature, but since the subscription also allows use of [chatgpt.com](https://chatgpt.com/), we tried that.
 
 [Migration from Microsoft 365 E5 to Google Workspace Enterprise](deep-research-report-1.md)
 
 ### Manus Wide Research
 
-Since Manus desktop app is basically frontend of https://manus.im/app then the functionality is basically the same
+Since the Manus desktop app is basically a frontend for [manus.im/app](https://manus.im/app), the functionality is basically the same.
 
 [Migration from Microsoft 365 E5 to Google Workspace Enterprise](manus-wide-research-1.md)
 
 ### Claude chat
 
-Since the Claude does not have direct comparabe method I applied sentence "Deep Research" to the prompt.
+Since Claude does not have a directly comparable method, I added the phrase "Deep Research" to the prompt.
 
 [Migration from Microsoft 365 E5 to Google Workspace Enterprise](claude-deep-research-1.md)
 
-## Artifact / Web page from research
+## Artifact / web page from research
 
-After doing research with chat you can produce Web page as artifact for more interactive view
+This test checks whether research output can be turned into a usable, visual web artifact. The comparison used a Canon EOS R5 versus EOS R5 Mark II research task, then asked each tool to create a richer interactive or artifact-style page.
 
 ### PROMPT
 
-Compare two Canon cameras 
-https://www.the-digital-picture.com/Reviews/Canon-EOS-R5.aspx
-https://www.the-digital-picture.com/Reviews/Canon-EOS-R5-Mark-II.aspx
+Compare two Canon cameras:
+
+[Canon EOS R5 review](https://www.the-digital-picture.com/Reviews/Canon-EOS-R5.aspx)
+
+[Canon EOS R5 Mark II review](https://www.the-digital-picture.com/Reviews/Canon-EOS-R5-Mark-II.aspx)
 
 ### Claude chat
 
 [Canon EOS R5 vs. Canon EOS R5 Mark II — Comprehensive Comparison](claude-deep-research-2.md)
 
-Additional prompt: Create fancy Claude Artifact with illustration Find and add photos and illustrations about the actual products and memory cards they support and batteries and grips etc.
+Additional prompt: Create fancy Claude Artifact with illustration. Find and add photos and illustrations about the actual products, memory cards they support, batteries, grips, etc.
 
-![alt text](1afce8ee-a8d4-4169-a02a-ee5fa0ea32f6.png)
+![Claude artifact page](1afce8ee-a8d4-4169-a02a-ee5fa0ea32f6.png)
 
-### ChatGPT Custom - HTML + CSS + Javascript
+### ChatGPT custom - HTML + CSS + JavaScript
 
 [Canon EOS R5 versus Canon EOS R5 Mark II](deep-research-report-2.md)
 
-Additional prompt: Find and add photos and illustrations about the actual products and memory cards they support and batteries and grips etc.
+Additional prompt: Find and add photos and illustrations about the actual products, memory cards they support, batteries, grips, etc.
 
-![ChatGTP Web page](d9bd72a1-4b2b-4c53-b9c5-a15a9116faae.png)
+![ChatGPT web page](d9bd72a1-4b2b-4c53-b9c5-a15a9116faae.png)
 
 ### Manus
 
-Most expensive result page from "Generate a webpage from the "manus-wide-research-2.md" file
+Most expensive result page from: "Generate a webpage from the `manus-wide-research-2.md` file."
 
-Credits used 526
-Time worked 22m 22s
+Credits used: 526.
+Time worked: 22m 22s.
 
 [Canon EOS R5 vs. Canon EOS R5 Mark II — Comprehensive Comparison](manus-wide-research-2.md)
 
@@ -311,5 +332,4 @@ The app is a single-page editorial-style comparison site with these sections (ea
 
 It also includes a `ManusDialog` component and `vite-plugin-manus-runtime` in devDeps, suggesting it was **generated or scaffolded by the Manus AI agent platform** as a demo/showcase project.
 
-![Manus Web page](005e3e3c-b24e-4901-8387-6bfc7ff255b8.png)
-
+![Manus web page](005e3e3c-b24e-4901-8387-6bfc7ff255b8.png)
