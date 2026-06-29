@@ -26,7 +26,7 @@ Codex looks less polished in the report for non-technical office workers, but th
 
 Claude is the most sophisticated agent tool overall, especially in how it reasons, structures work, and can be guided by careful prompting. The report's privacy and local-execution strengths for Claude Cowork still matter, but the user tests show clearer capability limits: Claude reads images well, including OCR-style extraction, but does not generate or edit images. It also has no native audio transcription support; audio work requires an added skill, local model such as Whisper, remote API, or MCP provider. Claude does not have a dedicated Wide Research or Deep Research mode here, but it can be prompted toward deeper research behavior with enough context and guidance.
 
-### ChatGPT
+### Overview by ChatGPT
 
 [macOS Desktop Agentic Tools Compared](deep-research-report-3.md)
 
