@@ -52,9 +52,12 @@ Claude is the most sophisticated agent tool overall, especially in how it reason
 
 ### Claude.app
 
-[Claude.app Architecture Diagram](../research-claude-desktop-architecture.md) 
+[Claude.app Architecture Diagram](../research-claude-desktop-architecture.md)
+
 [Claude.app Research Notes](../research-claude-desktop-virtualization.md)
+
 [Claude Code Sandbox Architecture](../claude-code-sandbox.md)
+
 [Claude Code: Tracking User Frustration](../claude-code-tracking-swearing.md)
 
 ## Cost
