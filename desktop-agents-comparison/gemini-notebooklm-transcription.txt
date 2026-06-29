@@ -1,0 +1,1686 @@
+Koha peale Eesti Aust ka tere ja ütlen sellise praktilise teadaande, et täna on
+see dokumentaar ee ja küsim võib-olla esimesed küsimus, et kas kõik on see
+nagu okei või ei ole siis tõesti need klassikestused lähevad suure ka
+kõik kus mille eesmärk on siis tuua Eestis Eestis teadlikust tehisintellektist viia
+viia veidi veidi kõrgemale. Mina olen Indrek Seppo. Ma olen töötanud
+närvivõrkudega nüüd kümmekond aastat. kümmekond aastat närvpõrkudega
+töötanud ja viimased kolm aastat siis siis töötanud ka suurte keelemudelitega
+või tehisaluga nagu me seda täna tunneme siin peamiselt, millest me täna siin
+räägime ja ma ütleme, et kui see kolm aastat tagasi või mis mis see mulle
+kümmekond aastat andnud on, et kui ma alustasin nende mudelitega siis, siis
+nad olid väga teistsugused mudelid, et teist teistel eesmärkidel ja objekti
+tuvastusega tegelesin. Ja ja kas see 10 aastat kas see kümekond aastatuka
+töötamist tavaliselt, kui te 10 aastat millegiga töötate, eks ole, te saate
+spetsialistideks. Minu Civi näeb tõesti imeline välja. Ma olen 10 aastat
+töötanud närvõrkudega. Kas ma julgen ennast pidada nüüd suurte
+keelemudelite, selliste tehisarvuuspetsialistiks? Ei julge, sest et sest et ee
+sest et sest et see nende suurte keelemudelulitega suhtlemine, nendega
+kommunikeerimine, see on ikkagi täiesti uus asi. Need chat GPT-d ja
+antroopikud ja nii edasi, mis tekkinud on, nad on täiesti uued asjad. Ma võin
+teada, kuidas neid treenitakse, kas ma olen neid treeninud või igasuguseid
+erinevaid närvivõrkki ja nii edasi, aga aga see mind eriti palju edasi pole
+aidanud. Ee sest on umbes sama nagu, et Võib-olla võib-olla kõige võib-olla
+ajukirurgia ei ole kõige parem filosoof. Mida see tähendab? See tähendab
+seda, et tegelikult selliseid tehisarvus siukid suuri spetsialiste ei olegi olemas.
+Selliseid inimesi, kes päriselt saaksid öelda, et nad on 10 aastat midagi
+teinud. Me kõik õpime, me kõik eksperimenteerime, me kõik proovime. Ee
+noh, kõigil kõigil kõigil on meil maksimaalselt niimoodi kolm aastat kolm
+aastat kasutuskogemust. Selle kolme aastaga on midagi ikka kogunenud ja
+vaatan, kas mul õnnestub täna teile ühtteist edasi anda. Kui kolm aastat
+tagasi tuli nüüd siis see chat GPT alguses välja, on ju need esimesed
+esimesed mudelid Siis siis paljud lõid neile kohe käega, sest et noh eks ta oli
+suhteliselt loll mudel. Aga mis miks mina sellele käega ei löönud, oli põhjus,
+et ma olin seda suutnud seitse aastat juba jälgida tolleks hetkeks, kui kiiresti
+see areng käib. Ma olin näinud, kui meeletult kiirelt see areng käib. Ma
+teadsin, kui kui lapsekingades on täna veel see tehisarvu arendamine ja ma
+teadsin, et see areng saab olema edasi ka kiire samasugune ja ja ma väidan,
+et see arengu see, kus kohas me täna oleme, see ei ole sugugi see pole
+kaugeltki kaugeltki kaugeltki see piir, kuhu kohta me jääme. Siin saab veel
+saab veel ütleme nii, et Et kui mult on küsitud, et kuidas nüüd valmistuda või
+mida nüüd edasi teha selle tehisaru maailmaga, et mida kuidas mida mida
+praegu teha, et valmistuda selleks tehisaru võidukäiguks või selleks laineks,
+mis üle pea meil tuleb, siis ma olen soovitanud popkorni osta, sest et sest et
+sest et sest et see saab põnev olema. Täna me oleme seisus, kus kohas ma
+ei tea, kus kohas, ütleme niimoodi, et et ütleme, et teise tippteadlastest
+peaaegu kõik ütlevad, et kuulge, hoidke veidike hobuseid, et hoiame
+veidikene hobuseid. Me ei tea, kuidas enesest oluliselt algema, millegagi
+hakkama saada. Mitte keegi ei hoia mitte mingeid hobuseid. Noh, Ameerika
+kaugeltki kaugeltki kaugeltki see piir, kuhu kohta me jääme. Siin saab veel
+saab veel ütleme nii, et Et kui mult on küsitud, et kuidas nüüd valmistuda või
+mida nüüd edasi teha selle tehisaru maailmaga, et mida kuidas mida mida
+praegu teha, et valmistuda selleks tehisaru võidukäiguks või selleks laineks,
+mis üle pea meil tuleb, siis ma olen soovitanud popkorni osta, sest et sest et
+sest et sest et see saab põnev olema. Täna me oleme seisus, kus kohas ma
+ei tea, kus kohas, ütleme niimoodi, et et ütleme, et teise tippteadlastest
+peaaegu kõik ütlevad, et kuulge, hoidke veidike hobuseid, et hoiame
+veidikene hobuseid. Me ei tea, kuidas enesest oluliselt algema, millegagi
+hakkama saada. Mitte keegi ei hoia mitte mingeid hobuseid. Noh, Ameerika
+kldab, et Hiina jõuab ette. Hiina kldab, et Ameerika jõuab ette ja nii edasi. Nii
+et kõik see, mis saada saab, see saab ja see saab olema põnev. Aga aga aga
+aga aga et ee aga et selles mõttes me võiksime ennast endalt küsida, et
+kuidas siis hakkama saada maailma lõpuni. Enne maailma lõppu jõuab see
+tehisu veel ühtteist meil ära muuta. Ta jõuab meil meil meil meie tööd muuta
+ja kõike muud muuta. Ja kuni sinna maailma lõpuni peaks ikkagi hakkama
+saama kuidagimoodi. Ja täna täna me püüamegi vaadata, et kus kohas me
+täna oleme. selle tehisalu võimekusega. Kuidas see meid täna aidata saab?
+Ja no ei taha midagi alt kurat küll. Uskumatu. No mis seal ikka. Ee nii ee me
+räägin räägin kuutest algib ee ja ja ma tahan teile öelda, et ma ma usun, et
+ma kui te ei ole nüüd viimased viimase kolme nelja kuu jooksul oma tegevust
+muutnud tehisarvu juures, siis ma üllatan teid täna. Minu minu töö töövood
+on täiesti muutunud nüüd viimase ütleme sellise ütleme alates detsembrist,
+ma töötan teistmoodi täna. Ma töötan teistmoodi kui ma töötasin varem.
+Kuigi ma olen tehisalu kogu aeg kasutanud, siis töötan ma täna täna uute
+vahendite toel juba teistmoodi ja ma tahan teile täna seda näidata,
+kuidasmoodi ma töötan. Ma usun, et ma usun, et siit saab sa saate saab
+igaüks teist mingisugust kasu. Ma vaatan kõigepealt teiega üle sellised
+sellised peamised tehisuvahendid, millega te mida te võib-olla nagu näinud
+olete. Ma ei tea, kui palju te neid kasutanud olete neid. Ma toon toon mõned
+näit mõnedest nanssidest, mida ma olen tähele pannud, et tihtipeale ei ole
+alati ei ole kõik ei ole kõik avastanud neid nüüansse ja ja selle ja siis ja siis ma
+tulen siis sellise sellise sellise sellise viptöötamise juurde viptöötamise juurde,
+mis on siis ma väidan, et on siis ma väidan, et et on muutnud minu minu töö
+töö viise ja ja ma usun, et muudab ka teie teid nii imetane imetavane. Nii, aga
+hakkame hakkame hakkame hakkame siis siis vaikselt pihta. Mul on tegelikult
+slaidid ka ette valmistatud väiksed. Ee nii, mul on siin üks selline, kes tahab
+mu jaotusmaterjali endale kuhugile kuhugile kuhugile alla laadida praegu või
+või võtta võtta endale võtta endale ette, siis siit peaks avanema
+jaotusmaterjal. Jaotus mat kus on mingid lingid. Ma mainin siin kiirelt. Võib-
+olla lähen üle mõned linkidest, mõned mõned asjadest. Kas keegi tahab
+kontrollida, et et YouTubeis kõik töötab?
+Kõik töötab.
+Kõik töötab. Okei.
+Nii. Mulle keegi mainis, et mainis mõned minutit tagasi, et linnulaulu kuulab,
+aga ju see on siis linnulaul on lõppenud. Nii ja ja ma ma keskendun täna, ma
+räägin teile täna, kuna ma räägin teile sellisest sellistest advanced
+vahenditest või sellistest veidi edasi jõudnud edasi jõudnud edasi jõudnutele
+mõeldud vahenditest, siis ma räägin teile, näitan teile täna palju tasulisi
+tasulisi neid tehisaru aru aru variante, et et sest et need tasutaomad nad
+Nii. Mulle keegi mainis, et mainis mõned minutit tagasi, et linnulaulu kuulab,
+aga ju see on siis linnulaul on lõppenud. Nii ja ja ma ma keskendun täna, ma
+räägin teile täna, kuna ma räägin teile sellisest sellistest advanced
+vahenditest või sellistest veidi edasi jõudnud edasi jõudnud edasi jõudnutele
+mõeldud vahenditest, siis ma räägin teile, näitan teile täna palju tasulisi
+tasulisi neid tehisaru aru aru variante, et et sest et need tasutaomad nad
+ikkagi jäävad nad ikkagi jäävadki nüü päriselt tööd tahta teha, siis nad jäävad
+veidikene piiratuks. Peamised tasulised kolm sellist peamist tasulist mudelid,
+mis meil on, eks ole, on Chat GPT, on Anthropic Cloud ja on Google Gaming.
+Ee lisaks sellele on meil on meil Microsoft Goork, mida ma täna veidikene
+vähem puudutan, aga et see on paljudel teil ka olemas. Ja see Microsoft
+Goork, eks ole, tema kasutab ka Open IATG GPT GPT mudeleid. Areneb
+kiiresti. Ta võib-olla ei ole täna veel päris samal tasemel sama võimekusega
+nagu on need Chat GPT ja Antropit Cloud, kuid areneb kindlasti kiiresti ja on
+võib-olla mõned kuud, mõned kuud nendest tavaliselt maha jäänud. Ee Ja
+lisa ja ja lisaks sellele siis Googlei Googlei vahendid. Nii ee oot ee mina ise
+kasutan. Mul on enne seel kõik need tasulised olemas. Ma kasutan ma
+maksan täna chat GPT eest kas 20 eurot või midagi sellist. 24 eurot, mis ta
+tuleb. Ma maksan Googlei eest ee paarküm eurot ja ma maksan maksan
+Cloudi eest 100 eurot. Ma räägin teile, mis on nende erinevused, mis on
+nende kuus, mis on nende erinevused, mis on nende, mis on nende eelised
+üksteise vahel ja nii edasi. Korraks, korraks käin need läbi. Aga üks asi, mida
+ma tahan teile rõhutada kõigepealt, et kui te kasutate ükskõik kas nüüd chat
+GPT-d või te kasutate Antropic Cloudi või või te kasutate Googlei Gemini, siis
+üks asi, mida te mida tihtipeale ma panen tähele, et mida inimesed ei tee, on
+see, et et nad nad kasutavad sinna automudelit või instantmudelit, kui te väga
+et et ma soovitan tingimata valida kasing või Pro ükskõik millistes ükskõik
+millistes milliste vahendit te kasutada. See erinevus on ikkagi väga suur täna
+ja see on erinevus on ka selle tasuta kasutamise ja tasulise kasutamise vahel.
+See tähendab, et kui te kasutate tasuta chat GPT-d täna, siis siis ta siis ta siis
+ta läheb väga kiiresti üle nõrgemale mudelile ja see nõrgem mudel võib teile
+jätta veidike vale mulje tema võimekusest. See nõrgem mudel ta on lihtsalt
+veidike loll. Ee targem mudel ütles, et thinking mudel ja proudelid, nad on
+oluliselt targemad. Ja ma soovitan teil vaikimisi. Näiteks, kui te lähete
+Keminisse, kui te lähete Google Keminisse, siis Siis siis vaikimisi annab ta
+annab ta teile alati tahab ta teile hirmsasti peale suruda seda, kus ta nüüd
+mul on siin see mudeli kiiret mudelit. Kiire mudeli asemel ma soovitan alati
+kasutada siin mõtlevat mudelit või lausa lausa lausa lausa lausa proudelit, et
+see annab teile annab teile olulise olulise eelise, et see vahe on ikkagi väga
+väga mälgatav. Teine asi, mida ma olen tähele pannud, mida inimesed nende
+mudelite kasutamisel tavaliselt tavaliselt ei ei pane tähele on on selline asi
+nagu nagu nagu süva uuring. Neid süvauuringuid on teil, et antud igas paketis
+teatud hulk. Ma nüüd täpselt ei mäleta, kas seal on 20 või 50 tükki kuus saab
+neid teha. Mida see süvauuring teeb? Ta kui teil on mingisugune küsimus,
+millele te tahate niukest põhjalikumat vastust või mingi ülesanne, millele te
+tahate põhjalikumat vastust, siis proovige siis juba see vaangu uuring ära. Ta
+töötab teile umbes 20-30 minutit. Mida ta teeb? Ta teeb teile sellise sellise ta
+võtab teilt ta võtab ta teeb põhjaliku uuringu. Ta teeb kõigepealt plaani, mida
+ta tegema hakkab. Teeb väga laiapõhjalise interneti otsingu. Ja ja ja võtab
+Ü
+väga mälgatav. Teine asi, mida ma olen tähele pannud, mida inimesed nende
+mudelite kasutamisel tavaliselt tavaliselt ei ei pane tähele on on selline asi
+nagu nagu nagu süva uuring. Neid süvauuringuid on teil, et antud igas paketis
+teatud hulk. Ma nüüd täpselt ei mäleta, kas seal on 20 või 50 tükki kuus saab
+neid teha. Mida see süvauuring teeb? Ta kui teil on mingisugune küsimus,
+millele te tahate niukest põhjalikumat vastust või mingi ülesanne, millele te
+tahate põhjalikumat vastust, siis proovige siis juba see vaangu uuring ära. Ta
+töötab teile umbes 20-30 minutit. Mida ta teeb? Ta teeb teile sellise sellise ta
+võtab teilt ta võtab ta teeb põhjaliku uuringu. Ta teeb kõigepealt plaani, mida
+ta tegema hakkab. Teeb väga laiapõhjalise interneti otsingu. Ja ja ja võtab
+võtab selle siis kokku. Ükskõik mis teil siin eesmärgiks on. Ma ei tea kuni
+selleni välja, et ma siin kellelgi keegi keegi mu tuttav just otsis tööd ja viskasin
+sinna tema ütlesin ta sinnaviivi sisseis visata ja öelda, et kus ma siis täna
+seda tööd leiaks. Tõi käis läbi kõik Eesti tööleidmissaid. Lisaks sellele vaatas
+tema CV-st, et kuhu kohtais ettevõtetest ise võik ise võiks ennast pakkuma
+minna ja nii edasi. Onj. Et et ta ta on ta on ta on ta teeb teeb ikka võimekaid
+asju. Nüüd üks asi veel, mida kõigepealt üldiselt rääkida tehisadust, eks ole,
+on see, et et ee ma olen andnud neid tehisadu koolitusi nüüd nüüd paar
+aastat ja kui või kolm aastat ja kui siin esimestel aastatel tuli ikkagi rääkida
+mingitest tehnoloogiatest või tehnikatest, et vot kui sa tahad head vastust
+saada, siis anna talle ette chain of thought, anna tal nagu mõttemudel ette, et
+missuguseid samme või vastu nii edasi. Seda nimetati prompt
+engineeringuks. Et kui esimestel aastatel oli vaja seda prompt engineeringut
+veidikene õpetada, siis täna ma väidan, et enam seda ei ole vaja õpetada.
+Täna on tehis õpetamine on tihtipeale see on see on see on mida ma olen tah
+peale pannud, et see on etten näitamine, mis võimalik on. Selle kasutamine
+on tegelikult lihtne. Selle kasutamine selle kasutamine on on no me üldiselt
+oskame üksteisega suhelda. Enamik meist vähemalt oskame üksteisega
+suhelda, et see on täpselt samasugune nagu üksteisega suhtlemine. Et ee
+üks üks üks tehisu siuke apologeetia mõtleja tehisu teemadel on Ethan
+Mollik. On üks USA professor. Ee tema tema LinkedIni profiili ma soovitan
+jälgida ja või XIS ja kus iganes ta postitab. Ta postitab väga ilusaid
+inimkeelseid inimkeelseid tekste analüüs tehisadust. Tema on öelnud siin
+viimasel ajal, millega ma kahe käega nõustun, et tehis tehisuga suhtlemine
+täna on nagu ta on nagu siukene elementaarne juhtimisoskus. Sa pead
+suutma anda talle eesmärgi. Sa ja siis sa pead hakkama vaatama, et kui ta
+kuskile kuhugile vilt kuhugile vasakule hakkab minema, onju, siis veidikene
+teda jale nüügima, et kuule, et tee seda asja nüüd, mine paranda, paranda,
+parandama, parandama, noh veidikene nagu roolima teda. Aga et ta on
+niukene baasjuhtimisoskus, mis meil, mis meil kõigil võiks enam-vähem
+olemas olla. Ee seetõttu seetõttu ma ütlengi, et ma täna ma ka tihtipeale
+näitan teile lihtsalt ette mis võimalik on, sest ma väidan, et enamik meist ei
+saa täna-täna lihtsalt ise aru, mis on tegelikult tänapäeval juba võimalik, mida
+mida me saame tehisaruga teha, mida igaüks teist saab tehisaluga teha. No
+ma näitan teile ühte ühte ühte näidet. Minu ma ma andsin paar paar korda
+tagasi ma andsin Tartu Ülikoolis vibe koodimise siukest seminari ja ma
+kõndisin eelmine õhtu mööda oma tuba ringi ja mõtlesin, mida ma teen
+näitena, mida mis mis asja me siin seal ära koodime ja ja minu esimeses
+klassis käiv tütar tuli minu juurde, ütles, et tema teab mida on vaja teha. Tema
+teab, mis puudu on maailmast. Maailmast on puudu selline mäng, kus kohas
+sa kõigepealt tuleb sulle üllatusmuna, siis sa koputad ta katki, siis sa sealt
+tulevad välja tükid, sa paned need tükid kokku, siis hakkad tantsima see
+loom, mis sealt välja tuleb. Vot siuke mäng pidi maailmas täpselt puudu
+mida me saame tehisaruga teha, mida igaüks teist saab tehisaluga teha. No
+ma näitan teile ühte ühte ühte näidet. Minu ma ma andsin paar paar korda
+tagasi ma andsin Tartu Ülikoolis vibe koodimise siukest seminari ja ma
+kõndisin eelmine õhtu mööda oma tuba ringi ja mõtlesin, mida ma teen
+näitena, mida mis mis asja me siin seal ära koodime ja ja minu esimeses
+klassis käiv tütar tuli minu juurde, ütles, et tema teab mida on vaja teha. Tema
+teab, mis puudu on maailmast. Maailmast on puudu selline mäng, kus kohas
+sa kõigepealt tuleb sulle üllatusmuna, siis sa koputad ta katki, siis sa sealt
+tulevad välja tükid, sa paned need tükid kokku, siis hakkad tantsima see
+loom, mis sealt välja tuleb. Vot siuke mäng pidi maailmas täpselt puudu
+olema. Ja ma palusin tal istuda oma arvuti taha ja ma ütlesin, et aga kirjuta
+see nüüd siia siia siia lahtesse ja tulemus on selline. Tulemus on selline,
+näete. See on Ma vajutan siia. Oi, mis ma teen noh? Tulemus ei tööta täna.
+Sa saad see on huvitav, et kas maan valeks bra asi siin on. Nii. Nii, näete, siin
+on muna. Siia peale tuleb koputada, siis läheb muna katki ja välja tulevad
+tükid. Kaheksa jalg tuleb täna välja. Nii, kaheksa jalga ja pea. Need tuleb kõik
+siia kokku panna. Nüüd, kui siis jalad käivad õigesse kohta. See ei ole nii, et
+iga jalg käib suvalisse kohta. See on see on siukene ta on siukene igal jalal on
+oma koht. Nii ja ta käib selle hiirel hiir ta jääb taga. Suurepärane mäng. See
+on nüü maailmas olemas. See puudujaks sai kõrvaldatud maailmast. Miks ma
+seda teile näitan? Mitte sellepärast, et vot kui mu esimeses klassis käiv laps
+oskas oskas kolm kolm oskas kirjeldada, mida ta tahab onju tehisalule. Vaid
+sellepärast, et vot kui siukse asjaga saab esimeses klassis käiv laps
+hakkama, siis mõelge, millega teie hakkama võiksite saada. Nii noh nii ee
+ühesõnaga paar asj mida ma tahan neile paar siukest üldist üldist põhimõttet,
+mida ma olen tähele pannud, et mida inimesed ei ole tähele pannud. Üks on
+see, et alati kasutakse kasutage mõtlevat mudelit. Teine vaadake
+süvauuringut alati. Kui teil mingi põhjalikum asi on, kasutage süvauuringut.
+See on kõikides näis mudelites olemas. Kolmas asi, mis mind, mis mind alati
+on üllat, mis mitte ei üllatanud, aga mida ma olen tähele pannud, kui te
+kasutate Google Geminit, kui te olete Googlei Google'i selles võrgustikus, eks
+ole, siis selleks, et Google Gemini muutuks oluliselt efektiivsemaks teie jaoks.
+Peate tegema ühe asja, mida mitte keegi pole teinud või mida väga paljud
+inimesed pole teinud. Vaadake, siin on siukesed seaded nupp ja siis on
+ühendatud rakendused ja siit saab ühendada oma Google Workspacei ala
+Gemini. Ja kui te selle ära ühendate, siis teate, ma ei ole oma Gmailis, ma ei
+ole enam, ma ei mäleta, millal ma viimati tegin otsingu, millal ma viimati
+otsisin oma e-maili Gmailist. Ma lähen Keminisse ja ma küsin sealt, et kuule,
+mis mul oli selle ja selle ettevõttega või selle ja selle asjaga, mis mul viimane
+seis jäi, mis mul on kalendris, kas mul on, mis mul järgmise nädal kalendris
+on, vaata mu Google Driveist mingisugused failid, tee mulle memo memo mu
+järgmise kohtumise jaoks. Kelle mis le mis kokkuleppe mul jäi selle ja selle
+inimesega, et et see Kemini muutub sellega oluliselt efektiivsemaks. Siis ta
+hakkab käituma nii nagu nagu te tahate, et ta käituks või nagu ta mis milleks
+ta tegeliselt tegelikult võimeline on. Ee nii siis kolmas asi, mida ma tahan teile
+näidata, et nüüd ikkagi juhul, kui teil ei ole tasulisi vahendeid, kui te tahate
+testida mingisuguseid mõtteid ennem kui te tasulist vahendit otse. Siis on
+selline sait nagu a mitte site, vaid on selline võimalus nagu
+aistudio.google.com aiistudio.google.com aiudio.google.com ja ja see on
+nüüd tasuta vahend. Ta näeb veidike teistsugune välja kui need teised. Siit
+saab valida endale endale mudeliks saab siit valida Kemini 31 Pro preview. Ja
+see on üks parimatest mudelitest, mis täna olemas on. Ütleme, et täna
+tõenäoliselt chat GPT 54 on on veidikene veidikene targem. Cloud Cloud 46
+hakkab käituma nii nagu nagu te tahate, et ta käituks või nagu ta mis milleks
+ta tegeliselt tegelikult võimeline on. Ee nii siis kolmas asi, mida ma tahan teile
+näidata, et nüüd ikkagi juhul, kui teil ei ole tasulisi vahendeid, kui te tahate
+testida mingisuguseid mõtteid ennem kui te tasulist vahendit otse. Siis on
+selline sait nagu a mitte site, vaid on selline võimalus nagu
+aistudio.google.com aiistudio.google.com aiudio.google.com ja ja see on
+nüüd tasuta vahend. Ta näeb veidike teistsugune välja kui need teised. Siit
+saab valida endale endale mudeliks saab siit valida Kemini 31 Pro preview. Ja
+see on üks parimatest mudelitest, mis täna olemas on. Ütleme, et täna
+tõenäoliselt chat GPT 54 on on veidikene veidikene targem. Cloud Cloud 46
+on veidikene targem, aga väga väiksed vahed väga väga väikesed vahed on
+siin, et et see Kemin on ta on üks parimatest mudelitest, mis on ja te saate
+seda kasutada praktiliselt piiramatult tasuta. Siin on üks nanss, mis on
+kõikidel nende tasuta kasutatavatele mudelitele, onju, et et vaikimisi ee
+vaikimisi nad võivad õppida või nad võivad kasutada teie sisestatud andmeid
+oma uute uute uute versioonide loomiseks, eks ole, uute versioonide
+treenimiseks. See tähendab seda, et mingid riigisaladusjärge sinna palun
+pange, eks ole, või mingisuguseid kliendi kliendi infot ja nii edasi. Samas noh,
+mina igal hommikul, kui ma üles ärkan, ma esimese asjana ma login siia sisse
+ja ma kirjutan sinna: Indrek Seppo on kõige ilusam inimene maamuna peal ja
+ma ootan, et ta selle selgeks õpiks, et kui te nüüd võite proovida, kas kui te
+nüüd küsite Keminilt, et kes on kõige ilusam inimene maamuna peal Kas ta
+on õppinud selgeks, et see on Indrek Sepo? Et päris päris päris nii lihtne see
+kaa tundub, et ei ole, et et et ta ei ole ei ole ei ole ei ole ei ole selleni jõudnud.
+Küll aga küll aga küll aga saate te siin kasutada täiesti tasuta tasuta
+suurepärast mudelit. Te saate vaadata, mis on nende võimekusi ja nii edasi.
+Ee kui teil kui teil ei ole nüüd siukseid suuremaid suuremaid saladusi, mida
+suuremaid saladusi, mida jagada, sest siit siit jah kõik kõik mida kõik mida te
+siia sisestate, seda kasutatakse kasutatakse ee vaikimisi vaikimisi ka järgmise
+põlvkonna treenimiseks. Seke, kui te tasuta versiooni kasutate, siis teeb vist
+saate selle välja lükata. Et vaikimisi jällegi kasutatakse kõike uue põlvkonna
+treenimiseks, aga te saate selle ZGPT-l on selline seade nagu nagu nagu
+nagu ee sätted ja andmete juhtelemendid. Ja siin on siuke hämmastav siuke
+väga ilusasti sõnastatud. Täiustage mudelit kõigi jaoks. See kui te kui see on
+teil sees, siis see tähendab, et ta treenib teie andmetega ka järgmiseid
+järgmiseid põlvkond, et te tõenäoliselt tahab, et see sees sees ei oleks või
+noh noh ma ütlen, mina mina mina väga ei mudetse nende nende nende
+üldva tavatava tavakasutuste pärast enda puhul, et kui mind huvitab siin see,
+et noh üks noh kui ma tahan näiteks mul läks laps esimesse klassi, üks asi,
+mida ma üle Tehisadule andsin, üks ülesande oli see, et mis telefon talle osta,
+onju. No ega ma ei viitsi ju poodi enam minna või kuskil, et noh küsisin, et mis
+telefoni osta esimesse klassi minema lapsele, mis on andis mulle kolm
+varianti ja nii edasi. No jumala eestlas treenib ennast sellega, leidis mulle
+Eestist eestist parimad pakkumised ja nii edasi, et et et kõik seda teeb. Üks
+nants, üks nipp on küll siin veel see, et siin on vaadake, siin on siuke sellest a
+studio Googleil on vaadake siuke tempodari chat tempodari chat nupp siin.
+Kui te selle vajutate sisse, siis ta nüüd lubab, et ta ei kasuta neid andmeid
+oma järgmise põlvkonna teenemiseks. Aga see tähendab ka seda, et seda
+chati ei jää teile ajalukku, eks ole. Nii. Kõige üldisem soovit Kui te kui te kui te
+kui te kui te nüüd kui te nüüd kui te nüüd kui te nüüd mõtlete selle peale,
+milliseid millist tark valida, et et chat GPT, cloud või Google, eks ole, siis
+esiteks noh kuna me siin siin täna me keskendume peamiselt just tööalasest
+tööalasest kasutusest ja sellest, et kuidas moodi oma tööas kasutada, et et et
+Eestist eestist parimad pakkumised ja nii edasi, et et et kõik seda teeb. Üks
+nants, üks nipp on küll siin veel see, et siin on vaadake, siin on siuke sellest a
+studio Googleil on vaadake siuke tempodari chat tempodari chat nupp siin.
+Kui te selle vajutate sisse, siis ta nüüd lubab, et ta ei kasuta neid andmeid
+oma järgmise põlvkonna teenemiseks. Aga see tähendab ka seda, et seda
+chati ei jää teile ajalukku, eks ole. Nii. Kõige üldisem soovit Kui te kui te kui te
+kui te kui te nüüd kui te nüüd kui te nüüd kui te nüüd mõtlete selle peale,
+milliseid millist tark valida, et et chat GPT, cloud või Google, eks ole, siis
+esiteks noh kuna me siin siin täna me keskendume peamiselt just tööalasest
+tööalasest kasutusest ja sellest, et kuidas moodi oma tööas kasutada, et et et
+teil tõenäoliselt tööjõudes valitakse üks välja. Mis ma olen nüüd tähele
+pannud on see, et need nad on nad on üldiselt üsna üsna samasuguse
+samasuguse kvaliteediga. Chat GPT ja Cloud on võib-olla veidikene rohkem
+integreeritud kõige muuga kui ainult Google Googlei vahenditega Google
+Google on integreeritud ainult oma Googlei ökosüsteemiga. Chat GPT-d ja
+clodi saate ühendada kõigega oma Googlei emailiga, oma noh mille
+iganesega, kus teil mingid kontod on, nad ühendavad ühendavad ennast
+sellega ära. Saate kasutada oma saate kasutada oma andmeid erinevatest
+erinevatelt internetisaitidelt. Kuid e Cloodi puhul, kuigi paljudele Cloodil siuke
+isiksus meeldib rohkem, ta kuidagi nagu kuidagi nagu kuidagi nagu
+meeldivalt suht meeldivamalt suhtleb sinuga. Ee siis tema puhul selle ee selle
+tasut või selle 20 eurose paketi või 25 eurose paketi limiitides see jookseb
+väga kiiresti sisse. Se GPT kasutus kasutuslimiid on suuremad kui kui Cloodi
+nii. Aga hakkame pihta nüüd tähendab nii vaatame vaatame siis nüüd
+järgmist järgmist. A on kellelgi mingisuguseid mõtteid, küsimusi sel teemal
+praegu nende kolme kolme kolme kohta? Mulle võib mul julgelt ka vahele
+segada, et ma läheksin edasi järgmise sammu juurde siis kus kohas me
+vaatame seda ee millised on need siukesed advanced vahendid, et kui ma
+usun, et te olete kõik neid neid neid baas baasvahendeid kasutanud, siis ma
+läheksin edasi nüüd sellele, et ma näitaksin, kuhu me täna jõudnud oleme. Ja
+ma väidan, et ma ütlen, et minu minu töö muutus kusagil jaanuaris,
+detsembris, jaanuaris muutus mu töö. Ma ei ole sisuliselt ühtegi koodirida.
+Ma olen ka andmeanalüütik, ma teen andmeanalüüse. Ma ei ole ühtegi
+koodirida kirjutanud peale aastavahetust, kuigi ma olen läbi viinud suuremaid
+andmeanalüüse ja ma ei ole praktiliselt oma oma analüüsides, oma raportites,
+taotlustes, asjades, ma pole praktiliselt ühtegi teksti enam ise kirjutanud. Ma
+olen ma olen ma juh in täna tehisaru. See töö töö iseloom on muutunud. Ma
+ma ma ei ole enam ise selle selle musta töö tegija. Ma olen nagu ma nagu ma
+nagu juhin teda. Ma ütlen, mida ma tahan. Seletan talle, miks mulle see ei
+meeldi, mis ta teinud on. Vahandan temaga, ütlen, et teinekord teeb paremini
+ja ja ja ma saan selle tulemuse kätte niimoodi niimoodi niimoodi töötades ka
+valdkondades, kus ma olen ise ise mis on, kus ma olen spetsialist onju nagu
+näiteks andmaanalüüsisin edasi. et ja seda ei olnud võimalik teha veel veel
+veel veel veel veel veel veel veel neli- viis kuud tagasi, kuid ma kuid midagi
+muutus nende mudelitega, mis tulid välja detsembris. Ja ma väidan, et kui kui
+ütleme pool aastat tagasi, kui ma kasutasin oma oma valdkonnas
+andmeanalüüsis, kui ma kasutasin te nii huvitav, kui veel pool aastat tagasi
+ma kasutasin tehis oma andmaanalüüsis või kuskil, siis ma kasutasin teda
+nagu juunior assistent onju. Ma andsin talle mingi ülesande, ta lahendas mul
+selle ülesande, et aitas mul seda ülesandet kiiremini lahendada. Siis minu
+viimane suur projekt, mis ma tegin siin jaanuaris, veebruaris, tõsiselt suur
+projekt oli noh, ütleme, et aasta tagasi oleks olnud kahekuune projekt. Nüüd
+ma tegin ta pooleteist nädala, aga oli selline, et et ma et ee ma mitte ainult ei
+veel veel veel veel veel veel veel neli- viis kuud tagasi, kuid ma kuid midagi
+muutus nende mudelitega, mis tulid välja detsembris. Ja ma väidan, et kui kui
+ütleme pool aastat tagasi, kui ma kasutasin oma oma valdkonnas
+andmeanalüüsis, kui ma kasutasin te nii huvitav, kui veel pool aastat tagasi
+ma kasutasin tehis oma andmaanalüüsis või kuskil, siis ma kasutasin teda
+nagu juunior assistent onju. Ma andsin talle mingi ülesande, ta lahendas mul
+selle ülesande, et aitas mul seda ülesandet kiiremini lahendada. Siis minu
+viimane suur projekt, mis ma tegin siin jaanuaris, veebruaris, tõsiselt suur
+projekt oli noh, ütleme, et aasta tagasi oleks olnud kahekuune projekt. Nüüd
+ma tegin ta pooleteist nädala, aga oli selline, et et ma et ee ma mitte ainult ei
+teinud seda kiiremini, kui ma oleksin teinud ilmatehisasuta, vaid ma tegin teda
+ka kvaliteetsemalt kui ilmatehisasuta. Sest kuigi ma olen andmeanalüüsi
+õppejõud, ma ma olen ma olen 25 aastat andmeanalüalüüsiga tegel. ma
+õpetan seda Tartu Ülikoolist Taltechis ee siis siis ta kurivaim pakkus mulle
+välja uusi mõtteid, mille peal ma vaatasin, et ahah kurat küll proovime ja
+töötas. Ta pakkus mulle oma eriala tippspetsialistile välja mingisuguseid asju,
+mille peale ma poleks ise tulnud tõenäoliselt ja ma ütlen, et ma ei saa öelda
+teiste valdkondade kohta nii täpselt, aga aga aga kui see andmeanalüüs on
+on üks neist val on üks näide, siis vähemalt seal ta suudab küll täna ta ei ole
+enam ta ei ole enam selline ta ei ole enam selline noor assistent, vaid ta on
+nagu kogenud kolleeg, kellega nõu pidada aega. Jah, ta eksib, aga ta aga ta
+aga ta aga ta oskab anda oskab anda. Huvitav, kas see annab siin elektriselt
+mulle ka või annab üle, sest et mu mul on vist wifi võrkus olen ma vist oma
+telefonis praegu mingil põhjusel. Ja ma näitan teile täna kahte vahendit. Ma
+näitan teile ma näitan teile ee ma näitan teile Cloud Coworki ja ma näitan teile
+ee chatpt codexit. Mis need vahendid teevad on need, et nad elavad teie
+arvutis. Te installeerite nad oma arvutisse ja ja siis nad kasutavad teie
+arvutites olevaid olevat tarkvara ja teie arvutis olevaid faile, noh, mida te
+lubate neil kasutada, vähemalt loodetavasti. Ee siis selle töö tegemiseks. Ee
+see on see on nagu järgmine samm sellest, et sellest, et kasutada nüüd seda
+kasutada nüüd kasutada neid neid veebi veebipõhiseid chatte ee M ja ja ma
+näitan teile, miks need miks need miks need asjad on huvitavad. Nii,
+kõigepealt ee kõigepealt on teil vaja selleks, et neid efektiivselt kasutada, te ei
+pea seda installima endale, aga te võite proovida. Ee on teil vaja mõnda
+mõnda sellist ee mõnda sellist lisavahendit ee või mõnda paar paar tarkvara
+endale arvutisse installida. Näiteks Python, Node JS ee mul on need selles
+selles selles kõik loetletud selles jaasmaterjalis, mis ma teile välja panin. Need
+on programmeerimiskeeled. Need on programmeerimisvahendid, mis
+võimaldavad, mis võimaldavad siis nendel tehisarul teie arvutis igasugu asju
+korda saata. Need on nagu nende käed, eks ole, et nad võimaldavad luua teil
+faile, analüüsida faile, teha, analüüsida andmeid, mida mida mida iganes.
+Kuidas see asi käib? See käib tegelikult siis nii, et annate talle selle sellele
+annate mingisuguse käsu. Ee see läheb nüüd sinna pilve. Pilvest ehisaru
+ütleb, et kuule, selle käsu täitmiseks Pth peaks looma sellise Pythoni
+programmi. Näiteks see programm, programmikood tuleb tagasi ja see
+programmikood käivitatakse teie arvutis, mis siis töötab teie teeb siis teie
+teeb siis teie failidega failidega igasugu igasuguseid toodid asju. Ma olen
+endale praegu installinud siin eks ole selle ee ee Cloud Coworki. See on nüüd
+esimene see on esimene selline selline kui te see nõuab teile, et oleks Cloudi
+Artopic Cloui tasuline tasuline tasuline konto. Ei siiski lähendame veidi tagasi
+korraks, et ühesõnaga need vahendid, mida ma täna näitan teile, need need
+said alguse meedium või see abistamine vahenditest, et nad on nad see vibe
+codingust nagu, et nad on algselt olnud mõeldud programmeerijatele, kuid
+ütleb, et kuule, selle käsu täitmiseks Pth peaks looma sellise Pythoni
+programmi. Näiteks see programm, programmikood tuleb tagasi ja see
+programmikood käivitatakse teie arvutis, mis siis töötab teie teeb siis teie
+teeb siis teie failidega failidega igasugu igasuguseid toodid asju. Ma olen
+endale praegu installinud siin eks ole selle ee ee Cloud Coworki. See on nüüd
+esimene see on esimene selline selline kui te see nõuab teile, et oleks Cloudi
+Artopic Cloui tasuline tasuline tasuline konto. Ei siiski lähendame veidi tagasi
+korraks, et ühesõnaga need vahendid, mida ma täna näitan teile, need need
+said alguse meedium või see abistamine vahenditest, et nad on nad see vibe
+codingust nagu, et nad on algselt olnud mõeldud programmeerijatele, kuid
+täna kasutan ma neid vahendeid igasuguse oma loometöö tegemiseks või
+igasuguse knowledge knowledge work tegemiseks. Ee aga see, et nad on
+alguses mõeldud programmeerijat ja see paistab veidikene välja. Aeg-ajalt
+tuleb kasutada command line'i või midagi, onju, mis siin tavainimesele on
+veidikene veidikene nõu nõu. Ee nüüd see cloud, aga ma usun, et ütleme
+poole aasta jooksul alates tänasest tekivad kasutajidesed, sellised mugavad
+kasutajali liidesed, mida igaüks teist saab kasutada ja üks murgavaatest
+kasulate riidetest, mis praegu tekkinud on, on siis see cloud cloud cowork
+aplikatsioon. Siin on cloud code. Muuseas prooviks ee prooviks ee prooviks
+ee kellel kes see kes see töötab mõnes ettevõttes, millel on koduleht. Kas on
+teie ettevõttel juba koduleht olemas? Kaks ka vist juba võtks mingi väiksem.
+oma ettevõtte. Ma tahaks mõnda ettevõtte kodulehte näha kuidas ma tahaks
+teile teha ühe demo. Ma tahaks näidata, mida milleks te täna võimelised
+olete.
+Mida?
+Kuuba films.
+Kuuba films
+on.
+Vaatame. Kuuba films. Kuidas see kodulehga välja näeb? Praegu sinu arvates
+hea koduleht on.
+Kui tahate. Kuuba filmida äkki on liiga ilus. Noh, siin on on näha, et see on
+kunstiinimeste tehtud, eks ole. Aga mis siis ikka, mis siis ikka. Teeme teeme
+parema või teeme teeme teeme uue. Teeme uue. Ma panen siin taustal
+taustal taustal panen ütlen ütlen. Lähen avan avan avan cloud code'i ja ütlen,
+et vaata kodulehte ja tee sellest moodne, mis võiks olla sellel kodulehel veel
+moodne, mis selle, mis sõnadega võiks iseloomustada, mida sellega teha.
+dünailine vinge uus versioon. Kasuta kogu infot, mis seal kodulehel on. Nii.
+Nii. Ma nüüd teen mingisuguse kataloogi. Ma teen mingit kataloogi endale
+selle jaoks. Tahab, et ma valiksin mingi kataloogi, kuhu kohta seda teha saab.
+Uus kaust. Paneme sellele kaustale Kuuba nimeks. Nii. Aa, ma tahan veel
+ühte asja talle öelda. Ma ütlen talle veel ühte asja, mida ma pärast seletan,
+mida ma tegin. Ma ütlen, et kasuta frontend design skilli ja ma ma jõuan
+selleni ka, mis asi see on. Kitti tahab ta ka endale alud. No läheme kiti alla.
+Ma pean kitti tarkvara. Ma tegelt plaanisin sellest hetk hiljem rääkida, aga see
+on üks see on üks üks tarkvara, mis on versiooni haldus. tarkvara ee mis on
+siis mõeldud selleks, et kui te et et kuidas oma kuidas kuidas kuidas koos
+koos töötada teiste kaastöötajatega tekstipõhiste tekstipõhiste teksti no
+Nii. Ma nüüd teen mingisuguse kataloogi. Ma teen mingit kataloogi endale
+selle jaoks. Tahab, et ma valiksin mingi kataloogi, kuhu kohta seda teha saab.
+Uus kaust. Paneme sellele kaustale Kuuba nimeks. Nii. Aa, ma tahan veel
+ühte asja talle öelda. Ma ütlen talle veel ühte asja, mida ma pärast seletan,
+mida ma tegin. Ma ütlen, et kasuta frontend design skilli ja ma ma jõuan
+selleni ka, mis asi see on. Kitti tahab ta ka endale alud. No läheme kiti alla.
+Ma pean kitti tarkvara. Ma tegelt plaanisin sellest hetk hiljem rääkida, aga see
+on üks see on üks üks tarkvara, mis on versiooni haldus. tarkvara ee mis on
+siis mõeldud selleks, et kui te et et kuidas oma kuidas kuidas kuidas koos
+koos töötada teiste kaastöötajatega tekstipõhiste tekstipõhiste teksti no
+tekstipõhiste andmetega ja kuni ta siin seda installib siis siis ee siis
+ühesõnaga ee ma väidan, et et ta teeb siin praegu järgmise viie minutiga
+Kuba filmile kodule lähe, mis võib-olla Kuba Filmsile selle praegusest võib-
+olla sellest kodu parem ei ole, aga mis on 90 95%ist kodulehtedest parem. Ee
+see on üks siukene, kui ma kui ma täna töötan tehisintellekti konsultandina,
+siis see on üks selline selline asi, mida ma olen tihtipeale tihtipeale tihtipeale
+kasutanud. Esimese kõne jooksul ma taustal võtan võtan selle veebilehe lahti
+ja teen neile inimestele uute uue kodulehe külje viie minutiga. Kõik senimaani
+on palunud mult saatad. Oi, saada see meile, saada see meile. Saamata veel
+aru ühest asjast. Ma ei kasutanud mingit imeskilli siin. Ma ei kasutanud mingit
+minu minu käed ei ole maagilised käed. Igaüks teist on võimeline seda täna
+tegema. Nii. Ma panen selle siin taustal. Noh, startisin appi ära.
+Ei, ei, ei. Ma, ma mõtlesin, et ma püüan veel teha siin paralleelselt ee seda
+seda seda seda paralleelselt kogemust, mis on see on see probleem, kui ma
+ei ole ise Windowsi kasutaja. Windowusi kasutaja ee vah jõuame sinna,
+jõuame jõuame jõuame sinna vet ma teen pä pean kolle nii.
+Võib-olla olekski esimene asi ikkagi juuniks omandada.
+Ei, seda ma ei seda ma ei saa teilt seda Seda seda seda seda ma ei saa teilt
+nõuda. Nii. Aga mida ma tahan teile näidata nüüd seda, et ma ma teen
+mingisuguse ma teen mingisuguse näid näidise asja. Noh, ma toon teile veel
+näite, mida ma olen teinud siin. Täna täna hommikul saatsin ma ära ühe ühe
+riigihanke pakkumise. Ee kuidas ma selle ku mida mida ma seal tegin? Ma
+tõmbasin need kõik need riigihanke riigihanke dokumendid alla endale eks
+ole ühte ühte kataloogi ja ee ütlesin nii nii siis nüüd hindamisjuhendid kõik
+muud. sellised asjad onju ja ütlesin talle, et noh, et et tee nüüd tee nüüd tee
+nüü pakkumine, leia minu kohta informatsiooni internetist või kust iganes onju
+küsi mult seda informatsiooni, mis sul puudu on ja taida see pakkumine ta
+pakkumisele alla teinud ma ütlesin, et kontrolli nüü kõik vastab
+hindamisjuhendile. Ee vastab vastab ütlesin, et kontrolli veel teist korda üle,
+onju, kas kõik vastab hindamisjuhendile ja ja üldiselt üldiselt üldiselt üldiselt ja
+ja ju ma saatsin selle saatsin selle saatsin selle ära ilma, et ma oleks ise seda
+hindamisjuhendust näpuga järga ajanud selle kohta. Ma olen lihtsalt nii
+piisavalt enesekindel täna selle selle selles suhtes ju. Nüüd mis see cowwork,
+mis see goverk tähendab teile? Ee tähendab seda, et nii ma võtan siin
+mingisuguse new taski. Oih, new task. Nii. Ja ütleme, et chooseer folder. Te
+peaksite valima talle alati uue uue uue kataloogi. Võtame selle sama Kuuba
+kataloogi, mis ma tegin. Ma panen uue kataloogi siin. Test test test cloud
+näiteks. Nii ja andsin andsin cloudile cloudile õiguse selle õiguse selle selle
+selles kataloogis selles kataloogis töötada. Ja ma ei tea, mis mis võiks olla
+siukene huvitav huvitav tööülesanne talle talle anda. Ee ma ei tea, et et ee
+ja ju ma saatsin selle saatsin selle saatsin selle ära ilma, et ma oleks ise seda
+hindamisjuhendust näpuga järga ajanud selle kohta. Ma olen lihtsalt nii
+piisavalt enesekindel täna selle selle selles suhtes ju. Nüüd mis see cowwork,
+mis see goverk tähendab teile? Ee tähendab seda, et nii ma võtan siin
+mingisuguse new taski. Oih, new task. Nii. Ja ütleme, et chooseer folder. Te
+peaksite valima talle alati uue uue uue kataloogi. Võtame selle sama Kuuba
+kataloogi, mis ma tegin. Ma panen uue kataloogi siin. Test test test cloud
+näiteks. Nii ja andsin andsin cloudile cloudile õiguse selle õiguse selle selle
+selles kataloogis selles kataloogis töötada. Ja ma ei tea, mis mis võiks olla
+siukene huvitav huvitav tööülesanne talle talle anda. Ee ma ei tea, et et ee
+mul on vaja teha ai koolitus. Tee mulle koolituse ajakava, plaan jaosmaterjalid.
+Koolitus on suunatud keskmisele kontoritöötajale. Ee Te mis ma veel tahan
+sellest teha? Ee tead, tee reklaamleht ka annan talle selle ülesande ma
+vedan, et ta teeb mulle praegu siin noh tavaliselt, kui te teete oma reaalset
+ülesandeid, eks ole, teete oma reaalset ülesandeid, siis te annate teile
+veidikene rohkem infot. Te annate teile selle, mis mis on tõepoolest, mis on
+teie sisend, mis on mida te tahate teha täpsemalt, mis kes te olete, millest te
+hea olete ja nii edasi. Või ütlete talle, et kuule, leia internetist milles milles ma
+hea olen ja ja tee selle tee see selle põhjal onju nii ta küsib mult hakkab mult
+küsimusi küsima kuule kui pikk see koolitus olema peab pool päeva
+tervepäev või kaks päeva no näeme kolm tundi 45 minutit on hea koolituse
+pikkus eksole milliseid tööriiste peaks koolitus katma küsib mult no paneme
+chatt ja cloud mis formaadis materjalid valmistada no las olla need formaadid
+kas koolitusel on konkreetne sihtgrupi valdkond üldine kontoritöötaja. Nii
+suurepärane ja ja koolitus saab varsti valmis. Siis me näeme, mida me edasi
+teeme siin. Ee noh nii kaua kuni nii kaua kuni ta seda koolitust valmistab, ma
+ma annan teile veel paar sellist sellist nippi, mida mida mida mis ee noh Ma
+ütlen, kuigi see asi on nüüd tehtud selliseks, see see need tarked vahendid
+on tehtud selliseks, et nad on võimalikult lihtsalt kõikidele kasutatavad, siis on
+paar asja, mida peab teadma. Paar nippi, mis mis teile võib võivad võivad
+teile elu elu lihtsamaks muuta. Üks nest nippidest on see, et et mis formaadis
+e üks nendest nippidest on see, et et kui teil on tavaliselt on teil kõik
+dokumendid ja asjad on PDF-id või doc X-id või XLSX-id, onju, siis need
+vahendid saavad kõik nende nende doc Xide ja PDF-idega ja kõikide selliste
+asjadega. hakkama väga hästi. Aga millega ta veelgi paremini hakkama saab
+on midagi, mida nimetatakse markdowniks. On Markdown failid. Markdown
+failid on tavalised tekstifailid, mis on veidikene veidikene mitte kujundatud,
+vaid millel on noh ma näitan teile mark. Nii. Võtame siit ütleme siit, et tee
+mulle üks ilus markdown fail. No vabal teemal kas
+suhtlemiseks on alati trükkimine või on
+e saab vabalt saab suhelda vabalt saab vestelda ka tänaval saab vabalt
+vestelda ka et et et saab vestelda. Jah, olnud öeldes tõepoolest, aga aga
+üldiselt need näed siin on siin on see ei mitte siin. Kas Claudil ei olegi seda
+või oli? Ma huvitav vaadan ma ise. Mulle endale meeldib trükkida. Mulle
+endale meeldib trükkida. Aga aga aga jah üldiselt saab vestelda, vestelda
+vestelda ka. Sellel kindlasti on olemas sellel siin sellel noh kui Kas seda
+liikkuud ole, et sa peaksid neid materjale kuidagi järguliselt tegema või
+alustama üldisemalt liikuma täioole, et nüüd ta teeb kõik pauk.
+vestelda ka et et et saab vestelda. Jah, olnud öeldes tõepoolest, aga aga
+üldiselt need näed siin on siin on see ei mitte siin. Kas Claudil ei olegi seda
+või oli? Ma huvitav vaadan ma ise. Mulle endale meeldib trükkida. Mulle
+endale meeldib trükkida. Aga aga aga jah üldiselt saab vestelda, vestelda
+vestelda ka. Sellel kindlasti on olemas sellel siin sellel noh kui Kas seda
+liikkuud ole, et sa peaksid neid materjale kuidagi järguliselt tegema või
+alustama üldisemalt liikuma täioole, et nüüd ta teeb kõik pauk.
+Ta teeb kõik pauh. Ütleme nii, et kuidas mina temaga tavaliselt töötan, et
+üldse aega suhtlemine, eks ole on see, et ta on alati dialoog, et ta ei ole nagu
+ühe ta ei ütle talle ühe korra selle asja ja siis ta teeb selle lõpuni ära, eks ole.
+Ta on ta on dialoog, et ta teeb mingisuguse variandi valmis ja siis ma hakkan
+talle ei meeldi see või mida ma tahan, et ta paremaks tehteks. Ma ütlen talle,
+et kuule siin muuda seda stiili veidikene, onju. Anna siit anna Pane pane siin
+pane siin punk juurde võta siit maha. Kuule ei see stiil mulle üldse ei meeldi.
+See on liiga mingisugune mingisugune mis iganes on, et et ta on selline
+ütleme, et ma tegin hiljuti ma tegin ühe ma tegin ühe taotluse mingisuguse
+granti saamiseks ja ma panin sinna jällegi sa panin sinna kataloogi siis on
+failid nagu nagu nagu nagu nagu need ee selle hindamiskriteeriumid, siis selle
+need juhendmaterjalid siis ee selle taotluse taotluse e vormi ja ütlesin, et tee
+mulle kir ja siis vabas tekstis selle, mida ma tahtsin seal taotluses saavutada.
+Ta tavalise tekstifaili ütlesin, et täida see vorm ära lähtuvalt sellest tekstist, nii
+et see vastaks nii, et see saaks suurepärases rind hindamiskriteeriumis ee
+lähtudes sellest mingisugusest mingi mingi mingi mingi õigusakt oli, mis seda
+kirjeldas, et mis seal lubatud on, mis ei ole lubatud ja see oli versioon 1.0
+välja ma saatsin versiooni 2.5, ehk siis 15 korda ma midagi muutsin seal,
+midagi ütlesin, midagi, mis tal ei olnud seda perfektseks läinud ja ja see ja
+see ja see ja see ja see välja ja välja välja ta tuli. Nii. Vaatame vahepeal,
+kuidasmoodi mul koolitusmaterjalide valmistamine, kuhu ta jõuab. Ta on selle
+nüüd valmis saanud.
+Pisut ettekõtavalt, et kui sa ütleksid käsu, et ee kustuta kõik selles kaustas
+oleva.
+Kut kustutaks ära selles kaustas oleva. Jah, üsna hea meelega. Ta on nüüd ta
+on nüüd püütud teha turvaline noh, et ta hoiab ennast ühe kausi ühe kausta
+piires. Onj. Aga seal kaustas ta kustutab hea meelega asju ära siis, kui sa
+selle kasku ütled ja mõnikord ka siis, kui sa ei ütle talle seda.
+Okei. Et jah. Nii nii ja palun vaatame missugune meil see andis mulle nüüd
+andis mulle nüüd need siin need koolitusajakava tegi mulle esitluse valmis ja
+muuhulgas ka jaotusmaterjalid. Ja ja vaatame, mis seal reklaamleheks tegi.
+Selle ta tegi lihtsalt jah lambist. Selle ta tegi nüüd selle selle pealt noh, mis
+nüüd jas meil häda on. A ta tahab teada, millega ma avaksin. No see ütleme,
+et ma olen näinud elus ilusamaid, ilusamaid, ilusamat.
+See on väga halb. Jah. Aga ütleme talle seda. Ütleme talle. Kuule, see
+reklaamleht on õudne.
+See on väga halb. Jah. Aga ütleme talle seda. Ütleme talle. Kuule, see
+reklaamleht on õudne.
+Tee nüüd palun rohkem inimesi. Iga, kuidas ta mõtle, ma küsin, mul oli eile
+enne selline juhtuma, et mul oli vaja teha projekti ettepanekut.
+Mhm.
+Ja see ei olnud niivi keerulist, aga see oleks mul võtnud kindlasti mõned
+tunnid, et
+Mhm.
+Ma rääkisin aru, et häälega rääkisin minut, et mis asi see on, et mina olen
+süstematiseeritud
+ja see palunud eesti keeles. Ja siis ta oligi niimoodi, et mul oli ainult natukene
+nagu ühtis formaat noh peaeg Kui palju sul on sellise nagu me hajal mõtetest
+ee paberi tegemise kogemust? Ee ta teeb ta võtab jah suurepäraselt kokku.
+Ma ütlen, et üks asi, mis ta mis ta näiteks teeb, mis kontoritöö kohe oluline
+on, et kui sul on mingisugune koosolek või selline selline arutelu onju siis täna
+ma salvestan nad salvest valdavalt salvestan skabeerin ja sõna ain
+kokkuvõtte teha, aga ta teeb ta võib võtta teie märkmed, teie mis iganes ja
+teeb neist hämmastavalt. Ta leiab sealt isegi ideed, mida nagu endale enda
+arvel ei olnudki sellest, et see pe teeb veel paremaid ja et ta on ta on ta on ta
+on ta on siuke hea vestluspartner, arutelupartner, kusjuures täna ka
+originaalne ja ja uusi ideid pakku arutelupartner. Ma kui ma olin väikene, siis
+mul oli kui ma olin noor, kui ma väikene jah ma olin väikene ka kunagi, aga kui
+ma olin kui ma olin noor kunagi, mul oli üks sõber, kellega mul kellega mulle
+meeldis hirmsasti vaielda ja temaga oli selline lugu, et ta kurat oli kuradi
+nutikas sõber oli. Ja see tähendas seda, et et ee ükskõik mis argumendi ma
+talle ütlesin, ma pidin välja mõtlema kolm argumenti, et mida ta kurat vastu,
+kus on minu argumendi nõrk koht, et mida ta mulle vastu ütleb selleli. Ja täna
+ma kasutan selleks aid, et et kui paljud inimesed kasutavad aid selleks, et et
+öelda, et kuule, mul on siuke hea idee, tee see veel ilusamaks, onju, siis siis
+ee siis siis mina kasutan teda tihti just selleks, et ta leiaks nõrku kohte minu
+minu idees, onju. Selleks, et minu ideest mingisugust mingisugust
+mingisugust selleks, et ee et ma teaksin, kas minul on hea idee või halb idee,
+pean ma teadma selle kõige nõrgemaid kohti. Ja ja see on minu soovitus
+kõigile, kes ütleme noortele ja kes iganes, kes aid kasutavad, et kuidas
+kuidas saada targemaks ja mitte minna lollimaks aid kasutak on justnimelt
+see, et kasutad teda oma sparring partnerina, nõuad alt, et ta sulle vastu
+vaidleks ja siis ja siis ja siis ta kurivim peenabki sind võib-olla aegajalt ümber
+sellest, m millest ja siis muidugi nõuad jälle uuesti tema vastu vaidlemist
+endal on ee et see on see on see on üks asi just, et kuidas ma olen näiteks
+oma äriteet temaga läbi käinud ja nii edasi, et et jälle mingi mõte tuleb, et leia
+mul nõrgad kohad selles kohas. Kurat on heaks te ühtegi äri ei saa enam
+käima tõmmata, sest et teeb kõik maha. Aga
+kõigile, kes ütleme noortele ja kes iganes, kes aid kasutavad, et kuidas
+kuidas saada targemaks ja mitte minna lollimaks aid kasutak on justnimelt
+see, et kasutad teda oma sparring partnerina, nõuad alt, et ta sulle vastu
+vaidleks ja siis ja siis ja siis ta kurivim peenabki sind võib-olla aegajalt ümber
+sellest, m millest ja siis muidugi nõuad jälle uuesti tema vastu vaidlemist
+endal on ee et see on see on see on üks asi just, et kuidas ma olen näiteks
+oma äriteet temaga läbi käinud ja nii edasi, et et jälle mingi mõte tuleb, et leia
+mul nõrgad kohad selles kohas. Kurat on heaks te ühtegi äri ei saa enam
+käima tõmmata, sest et teeb kõik maha. Aga
+millisest ee konkreetsest partnerist me räägime cloudist või chatist või vet
+cloud chatpt jah on tavaliselt aga küll aga küll aga see iudio Googlec on ka
+piisavalt hea et see eestikeelsete koosolekute trer
+ni eestikeelsete koosolekute transkribeerimiseks on iudio Google.com on
+suurepärane selle jaoks te võtate teete ne talle helifaili laete sinna ülesse ja
+transkribeerit no see probleem on nüü nagu ma teile ütlesin alguses kohe
+onju et ta kipub kipub neist õppima ja ja koosolekutel võib-olla teil on
+ärisaladusi või midagi sellist on, mida te ei taha, et ta et ta teile õppiks.
+Sellisel juhul on on võimalik kasutada tasuliselt, maksta lihtsalt selle maksta
+lihtsalt selle selle ühel transbeerimise eest. Vaadake, siin on siukene võti. Siin
+on siuke võti ja selle võtmega saab saab set saab seadistada seadistada
+seadistada tasulise kasutuse konkreetsele päringule ja sellisel juhul seda ei
+kasutata järgmisel võlgand treenimiseks, et peate iga kord ise hindama, onju,
+et kas see kas see kas see konkreetne koosolek, kas see sisaldas midagi,
+mida te ei taha, et kasutataks või teil on tegelikult ükskõik sellest ee see need
+sa ta transkribeerib suurepäraselt, sisuliselt veatult. Talle tuleb mõnikord
+öelda paar asja ette, et erista kõnelejad. Talle võib ette ka öelda, et erista
+kõnelejad, kui sa välja mõtled, mis need nimed on, pane nimed juurde. Paneb
+nimed ka, kui ta kasvõi teksti sees kuskil keegi pöördub teise poole
+nimeliselt, siis ta paneb sul kõik need kõik need kõik need nimed sinna nimed
+sinna paika. et kui ei kui ei kirjuta sinna prompti ette, et erista kõnelejat, siis ta
+paneb lihtsalt kogu teksti ühte ühte ühte ühte ühte ühte eriti tavaliselt ja
+seejärel saab sellest kõnest transksiooni ei viitsi niikuinii keegi kunagi lugeda
+saab teha kokkuvõtte kellele jäid mis ülesanded mis ülesanded jäid mulle tee
+checklist mulle tee mulle ajakava ja ta annab teile välja need need need need
+dokumendid täpselt mis mis mis mis jäid nii see on parem kui tekstiks see Ja
+see on see on parem kui tekstiks see on ka.
+Okei. Ma ei ole viimasel ajal ma ei ole viimasel ajal ma ei ole viimasel ajal
+seda Oih, mis ta nüüd ma ei ole viimasel ajal seda vaadanud aga noh, nüüd
+on veidi parem. Ei ole parem.
+On
+värvid on paremad.
+Värvid on paremad. No noh, ma võin talle öelda, et tee tee veelgi paremaks.
+Onj.
+Värvid on paremad. No noh, ma võin talle öelda, et tee tee veelgi paremaks.
+Onj.
+Nüüd ta muutus igavaks.
+Ta muutus igavaks. No noh, siin tal Trong lineer
+mida
+reklaamisineer
+no jah jah no j seda saab seda saab talle saavitelda talle et ta seda ei teeks.
+Nii nüüd üks asi mis on nüüd ma ma näitan teile praegu seda coworkill aga
+see on täpselt samamoodi saate kasutakse codexid kui on chat GPT on üks
+uus asi mis mis on mis on mis on üks asi mida mida mille kohta mida vaja
+teada esialgu on see on on sellised asjad olemas nagu skillid skillid nagu
+nagu retseptid või midagi sellist onju et see töötab nii nii cloudis nii nii nii nii
+kui ka kui ka chatpts, et te te saate luua uusi skille. Mis asi on skill? Skill on
+siukene asi, mis on mis on ta on nagu ta on nagu retseptiraamat. Ta on
+tavalises tekstis kirjutatud ee kirjeldus, kuidas teile meeldib mingit tegevust
+teha või kuidas peaks mingisugust tegevust tegema. Näiteks alguses ee ma
+ei tea, otsi internetist mingi firma kohta mingit taustainfot. siis leia leia leia,
+mis minu toodetest sellele ettevõttele kõige paremini sobiks maha müüa. Siis
+koosta mulle kirjeldust, kuidasmoodi ma talle lähenen. Leia inimene kellele
+lähened ja nii edasi. Ma ma näitan teile, ma näitan teile. Vaatame, mis siin on.
+Built in skills on schedule ja kontekst. Okei. Ja ja neid skille te saate ise luua
+või siis te saate olemasolevaid skille alla laadida, mis on mis on keegi teine
+loonud. Noh, näiteks teeme teeme teeme ühe skilli selles mõttes, et kuidas ta
+skilli kõige paremini iseloomustab, mis ta teeb, kuidas ta ise loomustab kõige
+paremini. Ta on ta on nagu ta on ta on nagu hästi pikk ja põhjalik prompt, mis
+käib läbi sammsammuliselt selle, mida te teha tahate. Ja ta teeb ja te üllatute,
+kui mingeid tulemusi on võimalik sellega saavutada. Näiteks ma teen siin skilli
+talle. Siin on kohe olemas skill creator, aga ma võin talle lihtsalt öelda, et et
+loo mulle skill. Mis noh. Nii. Vaatame. Nii, skill creator. No nii, vaata,
+kõigepealt ma alustan new task ja ütlen, et kasuta skill creatori skilli, et luua
+skill, mis mis mis pehmendab minu tagasisidet mu kolleegile. Noh, let's go.
+Tore idee. Tagasi tagasiside pehmendamise skill on väga praktiline, eriti
+professionaalses keskkonnas. Enne kui alustan, tahan paari asja täpsustada.
+Kuni ta siin neid täpsustab, siis ma ma räägin teile veel ilmujõuduslugusid
+veidikene. Nimelt Mul on siuke paar paar sellist taskuettevõtet või väikest
+ettevõtet, mida ma mida ma haldan ja hooldan ja ja ma kasutan nendega
+sellist tarkvarla nagu e-arveldaja. Ma teate, mis on e-arveld siukest raamatud
+tarkvar nagu e-arvel. Ja sellel e-arvel on on paar probleemi. Ee näiteks ei
+toeta VIi kontosid ja siis mul on ühes ettevõttes ostan müüma ka
+mingisuguses aktsiaid ja nii edasi. Te olete Lighteri Lighteri väljavõtteid ja nii
+edasi ja Ja ja kolmandaks mulle käib õudselt pinda nende arvete sisestamine
+ja nii edasi. Selleks ma kasutasin raamatupidajat, kes selle kõik minu eest ära
+tegi. Kaks nädalat tagasi ma lõpetasin oma raamatupidaja lepingu, sest ma
+Kuni ta siin neid täpsustab, siis ma ma räägin teile veel ilmujõuduslugusid
+veidikene. Nimelt Mul on siuke paar paar sellist taskuettevõtet või väikest
+ettevõtet, mida ma mida ma haldan ja hooldan ja ja ma kasutan nendega
+sellist tarkvarla nagu e-arveldaja. Ma teate, mis on e-arveld siukest raamatud
+tarkvar nagu e-arvel. Ja sellel e-arvel on on paar probleemi. Ee näiteks ei
+toeta VIi kontosid ja siis mul on ühes ettevõttes ostan müüma ka
+mingisuguses aktsiaid ja nii edasi. Te olete Lighteri Lighteri väljavõtteid ja nii
+edasi ja Ja ja kolmandaks mulle käib õudselt pinda nende arvete sisestamine
+ja nii edasi. Selleks ma kasutasin raamatupidajat, kes selle kõik minu eest ära
+tegi. Kaks nädalat tagasi ma lõpetasin oma raamatupidaja lepingu, sest ma
+tegin ma tegin tehisadumu, mis kõik selle minu eest nüü ära tegi. Ma lõin ma
+lõin midagi, mida nimetatakse MCP serveriks. Siin oli ka üks kill, et MCP
+serverit luua. Mis asi on MCP server? MCP server on selline vahe tarkvara,
+mis millega mis aitab teh arul suhelda mingisuguse muu tarkvaraga.
+Konkreetsel juhul e-arvelaga. Ma lõin sellise vahekihi, kus täna täna käib minu
+raamatupidamise tegemine selliselt, et ma panen oma raamatupidamis
+dokumendid, panen ühte kataloogi, ütlen talle, kuule, seal kataloogis on
+asjad, mida viskada teie jalveldes. Mida see vahekiht teeb? Ta analüüsib, ta
+esiteks teeb selle esiteks on nad PDF-id või JPG-d või PNG, ta teeb nüüd
+OCRi, ta teeb teksti tuuvastust sealt pealt vaatab, mis arve on. Suhtleb e-
+arvelja e-arveldaja selle selle API-ga API on Application programming inface
+ta on ühesõnaga see viis kuidasmoodi kuidasmoodi saavad erinevad tarkv
+omavahel suhelda ja ja laeb nad kõik laeb kõik mu arved ülesse, teeb
+raamatupidamise ära põhimõtteliselt noh ta selles mõttes ta vaatab iga iga
+kord vaatab et kuidasmoodi selline arve kas selline arve on juba olnud
+samasugune arve onju kuidas see eelmine kord kajastatud oli okei kajastame
+nüüd ka nüüd ka samamoodi nii edasi ja see on täiesti ma siis tegin selle
+vabalt kättesaadavaks. Igaüks võib selle enne selle installida seal GitHubis
+olemas e-arvelde MCP server. Võite testida. Ta on väga kõva arenduse all
+praegu. Nii et nii et et ta ei ole veel põhimis keeles. Vahetama millest paljudit
+sa ootad? Kaks, kolm varianti. Mis vormis sa tavaliselt tagasiseda annad?
+Mõlemad. Kas soovid skilli testimisega läbi käiks või pigem teeme kiirelt
+valmis? Nii. Ee ühesõnaga, ühesõnaga täna on võimalik luua ee luua
+kusjuures ma kirjutasin selle. See on nüüd see on nüüd Kuna ma ta enda
+jaoks kirjutasin või selliseks selliseks mitte kuna ma ta enda jaoks kirjutasin,
+ma kirjutasin selle lasin ta kirjutada programmeerida keeles, mida ma tegelt
+ise ei tunne jais. Nii et et see on nüüd konkreetne näide sellest, kuidas ma
+lõin programmi. Ma lõin töötava programmi, mis päriselt minu probleemi
+lahendab keeles, mida ma tegelikult ise ei tunne. Ee mida ma ei saa, mida ma
+ei ole võimeline isegi ise kontrollima. Ja ja ta töötab, kas ta töötab ideaalselt,
+kas sealt on võimalik pigu leida. Ma noh, võite proovida, võite minna
+vaatama, kas te leiate sealt vigu. Ma olen üsna kindel, et ta töötab töö töötab
+ta töötab piisavalt hästi, ütleme niimoodi. Ee mida selleks täna vaja veel on?
+Jah, ma teadsin, et siuke asi nagu MCP server on olemas. Ma teadsin, et on
+olemas siukene asi nagu API. Ma mul oli mingi teadmine, mingi baasteadmine
+olemas. Mul on mul on olemas teadmise programmeerimisest. Ma teen
+andme analüüsi programmeerimise abil, eks ole. Aga aga aga kui teil on
+siuksed tugevad baasteadmised, mingid baasteadmised olemas mingist
+valdkonnast ja teate, mida te tahate, siis täna sellist tehnilist tehnilisi
+tehnilised asjad teeb teeb teeb tehisalu tihtipeale ära. oma andmeanalüütiku
+töökogemusest ma saan öelda teile, et on kahte tüüpi klient, eks ole. On
+sellised kliendid, kes kes kes teavad täpselt oma ettevõtte andmeid, mis
+andmetel olemas on. Nad teavad, nad tahavad saada mingit väga
+Jah, ma teadsin, et siuke asi nagu MCP server on olemas. Ma teadsin, et on
+olemas siukene asi nagu API. Ma mul oli mingi teadmine, mingi baasteadmine
+olemas. Mul on mul on olemas teadmise programmeerimisest. Ma teen
+andme analüüsi programmeerimise abil, eks ole. Aga aga aga kui teil on
+siuksed tugevad baasteadmised, mingid baasteadmised olemas mingist
+valdkonnast ja teate, mida te tahate, siis täna sellist tehnilist tehnilisi
+tehnilised asjad teeb teeb teeb tehisalu tihtipeale ära. oma andmeanalüütiku
+töökogemusest ma saan öelda teile, et on kahte tüüpi klient, eks ole. On
+sellised kliendid, kes kes kes teavad täpselt oma ettevõtte andmeid, mis
+andmetel olemas on. Nad teavad, nad tahavad saada mingit väga
+konkreetset vastust, mida need andmed ütlevad. Nad teavad, mis nad mitte,
+mis andmeid umbes kogutaks ja nii edasi. Ja nüüd siiamaani puudusid neid
+tehnilised oskused. Mina olin see inimene, kes tõlkis nii-öelda inimkeelest,
+ärikeelest selle asja andmete keelde ja andmete keelest vastu tagasi
+ärivikeelde. Ja need inimesed saavad täna ilma minuta hakkama, ilma seda
+analüüikuta hakkama täielikult. Ee see need mudelid on suurepärased teevad
+suurepäraselt andmaanalüüsitööd. Ee nad nad ma tean mitme ettevõtte
+juhtkonna liikmeid, kes täna praktiliselt igapäevaselt vibe koodivad, et saada
+enesele mingisugust informatsiooni oma andmetest. Kui neil tekib, kui neil
+tekib mingi küsimus, mida need andmed ütlevad, nad viipoodivad selle selle
+küs nad lasevadki luua chatpt-l või või Antropic Cloudil selle koodi, mis e
+nende andmetes selgust toob. Teine teine tüüp inimesi on neid teine tüüp
+neid kliente on sellised, kes noh täpselt ise ei tea, mis andmetel olemas on ja
+nii edasi. Nendega on veidikene raskem, et tahaks, et ettevõttel läheks hästi,
+onju küs no pean mina vaatama, et okei, et mis seal andmetesse võiks
+viidata, et ettevõttel mida, mis ettevõttel paremist paremini paremini minna
+saaks.
+Kas võib küsida olen kaikise taustaga siis kuidas see serverialas kuidas sa
+nagu päriselt selle ühendab, et kas seal on vaja mingi tehnilist teadust
+ei ole ta teeb selle kõik ütled ühendu ja
+ta teeb selle kõik ära ise ma ma andsin talle ette e-arvelaja appi ee aadressi
+see appi on avalik eks ole ma ütlesin, et vaata,
+no see Google leiab selle kenasti ja ja ütlesin, näed, seda on is veel teapi
+aadress ja noh, ma võin näidata seda Appivõti tuleb. Appivõti tuleb teha. Ee
+ja siis saab siis saab siin on mul täpne kirjeldus täpne kirjeldus olemas inglise
+keeles küll mingil põhjusel, et et et kuidas appi appi võtit saada. Siis tuleb
+lihtsalt öelda öelda öelda Cloudile või või Kodexile, et lisa see MCP server ja
+siis saab hakata hakata rääkima temaga, et Võta siit võta siit need andmed ja
+viska jalveldesse ja ta küsib lisaküsimusi, kui ta ei oska ise teha ja analüüsib
+pakub vastuseid, et missugune mida Eesti raamatutumisseadustik selle selle
+kohta ütleb ja ja saab teha. Noh, ma jällegi ütlen, et ma ei ma ei taha öelda, et
+see nüü asendab täielikult raamatupidaja ära, eriti jumala eest mitte suur
+ettevõttes, onju, aga isegi väikeettevõttes seal võivad tekkida mingisugused
+küsimused. Mind praegu aitab see, et mul on mingisugused esmased
+teadmised raamatudamisest olemas, et ma umbkaudu tean, mida mida seal
+teha. Aga ütleme minu suugusele, kellel on mingisugused teadmised sellest
+olemas, noh, ta teeb mul kõik. Mul ei ole mul ei ole mul ei ole vaja selle
+raamat raupidaja raamatupidaja raamatupidaja teenustena maksuamet
+pakub vastuseid, et missugune mida Eesti raamatutumisseadustik selle selle
+kohta ütleb ja ja saab teha. Noh, ma jällegi ütlen, et ma ei ma ei taha öelda, et
+see nüü asendab täielikult raamatupidaja ära, eriti jumala eest mitte suur
+ettevõttes, onju, aga isegi väikeettevõttes seal võivad tekkida mingisugused
+küsimused. Mind praegu aitab see, et mul on mingisugused esmased
+teadmised raamatudamisest olemas, et ma umbkaudu tean, mida mida seal
+teha. Aga ütleme minu suugusele, kellel on mingisugused teadmised sellest
+olemas, noh, ta teeb mul kõik. Mul ei ole mul ei ole mul ei ole vaja selle
+raamat raupidaja raamatupidaja raamatupidaja teenustena maksuamet
+ma ei teinud maksuametiga liidest sest e-arvel on maksuametiga endal liides
+olemas ehk siis ikkagi ta teeb iga mul
+ta viskab ülesse mu kõik mu arv ta viskab ta teeb võtab mult lieri kõik ostud
+müügid kajastab neid ära raamatupidamises ta teeb selliseid asju mida e-
+arvia ise ei tee nii hästi kõik muud ma teen e-arveldes ära et ma tahan saata
+maksuametis võ ma võin selle siia mese ka lisada maksuameti liidese
+tegemine on väga lihtne tänapäeval aga ma ei ole seda teinud Aga aga aga
+aga aga aga aga aga aga ta töötab mul. Ta päriselt töötab mul. Ta töötab mul
+piisavalt hästi, et ma enam ei vaja oma raud teenid. Ja ma näidan, et kui te
+täna teate, mida te tahate, siis on suhteliselt suur tõenäosus, et te suudate
+selle suudate sellega suudate sellega ise luua. Noh, võime võiks sama
+suurepärane kuib leht, mis kohe valmis,
+et ta ta praegu on tal väikene väikene probleem valmimisega, aga ma
+kuidas tema üles saab?
+Ee
+mul on jah sama küsimus, kas see või see tütre näide ka, et et mäng sai nagu
+kirjeldatud, aga ikkagi meedriis, et kas sellest tütar ära, et ei nüü
+see nagu siia näit okei seal see on nüüd see on nüüd see on nüüd selline asi
+selle
+vot see on nüüd vot see on nüüd see asi, et mis ta tuleb veidike teada, et mul
+on ma olen ostnud veebiserveri omale ja ja ja see tähendab seda, et ma seal
+kopeerin selle sinna veebiserverisse üle üle SSA. Noh, see on kuigi
+tänapäeval on olemas ka juba täitsa tasuta tasuta pakut avad veiselverid
+nagu cloudfare ja nii edasi, mis selliseid HTML dokumente võimaldavad teil
+tasuta hostida või isegi kogu veebisite tasuta hostida. Onj, et noh ma lihtsalt
+need on need väikesed mingi baastehnilised teadmised, mis aitavad teid
+väga palju edasi, millel olemasolul aitavad teid aitab aitab teid see see aitab
+teid tehisuda väga palju edasi.
+Aga see kuute samamoodi seal või sa ikkagi lähed sinna kuuba serverisse?
+No et nüüd ma mul sinna kahjuks ligipääsu veel ei ole, onju, seda mulle ei
+antud, aga mul oleks sinna ligipääs sinna Kuba serverisse sinna sellesse
+sellesse sellesse sellele internetiiserverile, mis mis hostib nii-öelda või kus
+kohas see Kuubite on, siis ma saaksin selle jah ära vahetada, et nii ma teen
+selle kuuba ära. Ma teen siin selle ilma selle serverita suudab ära näidata, mis
+No et nüüd ma mul sinna kahjuks ligipääsu veel ei ole, onju, seda mulle ei
+antud, aga mul oleks sinna ligipääs sinna Kuba serverisse sinna sellesse
+sellesse sellesse sellele internetiiserverile, mis mis hostib nii-öelda või kus
+kohas see Kuubite on, siis ma saaksin selle jah ära vahetada, et nii ma teen
+selle kuuba ära. Ma teen siin selle ilma selle serverita suudab ära näidata, mis
+tema ettepanek vähemalt oleks sellest uuest
+Jaa ja Jaa ja Jaa. Ma teen ma ma teen selle ma teen selle nüüd ma teen selle
+nüüd ära. Ma teen selle nüüd siin siin selles selles ee ee ma kohe teen selle
+uuesti. Vaatame, kas siin õnnestub. Tee vaata seda lehte kubae tee seal
+olevast oleva informatsiooniga uus vinge koduleht. Ee
+mida?
+Dünaamiline.
+Dünaamiline. Kasuta, kasuta kasuta, kasuta frontend design skilli, kui ma oli
+siin ka selle nimi midagi sellist. Nii anden skill on siin hoopis.
+See on ette defineeritud skill
+see on ette defineeritud skill. Jah. Mis mis see ku see on ette defineeritud
+skill, mis õpetab kuidasmoodi sellist lehte luua. Nagu veits on nagu sarnas
+nagu täit
+ta on veidikene Ta on ta on tegelikult tekstifail see skill. See on tekstifail, mis
+kirjeldab, et mida mida silmas pidada, kui luuakse uut veebileht. Näiteks, et
+tee ilus seekord, mitte kolle. Nii. Vaatame, mis ta nüüd vahi. You have used
+90% of your session limit. Kurat, pahart. Nii ee Ma, et sobib. Vaatame, mis
+saab nüüd selle skilliga. Ma kohe kohe kohe kohe proovime selle kohe
+proovime selle skilli ära ka. Mis nüüd teeb? Mis siis nüü siis nüüd teeb? Teeb
+teeb viisakaks viisakaks teeb teeb teeb meie vastamise.
+See on nagu selle session limitiid nagu täis kaas raha.
+See on okei. Noh, selle ma unustasin teile rääkimata, et ühesõnaga on kahte
+tüüpi sessiooni limid on või kahte tüüpi liid. Nii limiidid on. Üks on see, et kui
+palju te saate viie tunni jooksul kasutada neid neid AI vahendeid ja teine on
+see, kui palju te saate nädala jooksul neid kasutada. Ee ja jällegi chat GPT-l
+on nad märksa kõrgemad kui on kui on cloudil. Et kuigi Cloud Goork on
+ütleme see, mida ma ka, mis on ka minu esimene eelistus täna, mis midagi
+on temas, mis on mis on teistmoodi, mis muudab sellise sellise suhtlemise
+kuidagi lihtsamaks, siis siis ma siis siis siis kui midagi võtta nüüd praegu, siis
+tõenäoliselt chat GPT on ikkagi mõistlikum, sest et seal ütleme veidikenegi
+tõsisemat tööd tehes te cloudis jooksete selle viie tunni sessiooni limiit. Te
+jooksete sinna lihtsalt tahab rohkem raha või ütl, et ei annati
+see, kui palju te saate nädala jooksul neid kasutada. Ee ja jällegi chat GPT-l
+on nad märksa kõrgemad kui on kui on cloudil. Et kuigi Cloud Goork on
+ütleme see, mida ma ka, mis on ka minu esimene eelistus täna, mis midagi
+on temas, mis on mis on teistmoodi, mis muudab sellise sellise suhtlemise
+kuidagi lihtsamaks, siis siis ma siis siis siis kui midagi võtta nüüd praegu, siis
+tõenäoliselt chat GPT on ikkagi mõistlikum, sest et seal ütleme veidikenegi
+tõsisemat tööd tehes te cloudis jooksete selle viie tunni sessiooni limiit. Te
+jooksete sinna lihtsalt tahab rohkem raha või ütl, et ei annati
+tahab rohkem raha saada. Jah, ühesõnaga isegi ma jooksin praegu
+sessioonilimiiti, kuigi mul ei ole mitte 25 eurone või ta ütleb, et ma olen kohe
+sessioonilimiidis, kuigi mul ei ole mitte mul Aa okei, ma tean mille pärast ma
+tegin, töötasin sellega veidikene siia tulekut ka. Ma olin loll. Ee mul ei ole
+mitte 25 eurone see standardpakett, vaid mul on 100 eurone pakett. Seal on
+võimalik minna ka 200esse pakett, aga ma väidan teile seda, et mul on see
+100 eurosane pakett sellepärast, et ta kurat annab mulle sellist annab mulle
+sellist annab mulle sellist ee sellist mitte pigem ajaline kuivõrd päringute arv
+ee ta ei ole ajaline vaid ta on ta on ikkagi ta ei ole päringute arvu aga ta on
+see et kui palju ta tööd peab tegema
+et kui palju te sisendit annate palju ta väljundit teile annab et et et ja et noh nii
+ma ütlen sinna ja nüüd see skill on nüü olemas ja ma saan selle skilli kellelegi
+saat kes tahab seda kasutada ja ma ütlen nüüd nii et kasutades seda skilli
+ütle mu kolleegile et tal on ma ei tea liiga pikad juuksed. Ta loeb selle skilli
+sisse. Ja nüüd No ma ei tea noh. Noh, ma ei tea noh. Kalitatiivselt selle
+lihtsalt kirjutas.
+No no ta selles mõttes ta selles selles arutseliselt ei erine jah. Aga nüüd kui
+ma oota ma ütlen talle, et näita mulle seda skilli. Vaatame millised mis see
+skill üldse endast sisaldab. See see konkreetne näide võib-olla ei olnud kõige
+parem näide tegelikult. Te saate teha skilli, mis nüüd ütleme, kui te tahate, et
+teil alati näiteks, et ta kontrolliks üle teie mingisuguse ma ei tea nädalatti või
+midagi. Te tahate, et ta alati teeks mingid sammud läbi, te loote selle skilli ja
+ta alati käib need sammud läbi ja teeb noh ta on nagu veidikene, et oleks
+veidikene etteennustatavam, mida ta teeb tavalisest promist. Nii. Show in
+folder. Vaatame, vaatame. Ma näitan teile, missugune see skill on. Näita mulle
+seda skill teksti. Nii. Mis see skill meil on siin? On näed ta kõigepealt on siin
+üleval on on tal niukene kirjeldus, mida see skill teeb. Pehmendab nii seda
+seda kirjeldust ta nüüd loeb loeb sisse alguses, et mis kirjeldusega skillid on
+tal olemas ja kui ta leiab mingi ülesande, mis mis võiksid seda vajada, siis
+automaatselt võib võtta seda skilli kasutusele. Ja siin on siis lihtsalt täiesti
+tavaline tekstifail, mis kirjeldab, mida ta teeb. kuidas ta teeb. Säilita sisu,
+kasuta mina keelt, lisa konteksti ja tunnustus, paku lahendusi, mitte ainult
+probleeme. Kohanda tooni formaadile. Ja siis väljundi formaat. Ta on siukene
+paarih või näete kolme leheküljeline tekst, eks ole, mis kirjeldab, kuidasmoodi
+täpselt seda seda ülesannet lahendada, mida seda lahendada tahad. Sama
+promp, mis läheb kaasa võiks panna nii sama ka sinna, aga kogu aeg seda
+sinna toppima ei peaks umbes täpselt. Jaa. Jaa. Ja see võim aga see
+võimaldab see võimaldab teil teha see võimaldab teil teha nagu nagu nagu
+standardiseerida mingeid tegevusi. Näiteks kui te peate tegema, et väike
+ettevõtja, te peate tahate teha, et teil alati oleks ütleme pakkumised oleksid
+samas stiilis või midagi, siis te teete sellest skilli, mis ütleb, et vaata seda,
+kasuta mina keelt, lisa konteksti ja tunnustus, paku lahendusi, mitte ainult
+probleeme. Kohanda tooni formaadile. Ja siis väljundi formaat. Ta on siukene
+paarih või näete kolme leheküljeline tekst, eks ole, mis kirjeldab, kuidasmoodi
+täpselt seda seda ülesannet lahendada, mida seda lahendada tahad. Sama
+promp, mis läheb kaasa võiks panna nii sama ka sinna, aga kogu aeg seda
+sinna toppima ei peaks umbes täpselt. Jaa. Jaa. Ja see võim aga see
+võimaldab see võimaldab teil teha see võimaldab teil teha nagu nagu nagu
+standardiseerida mingeid tegevusi. Näiteks kui te peate tegema, et väike
+ettevõtja, te peate tahate teha, et teil alati oleks ütleme pakkumised oleksid
+samas stiilis või midagi, siis te teete sellest skilli, mis ütleb, et vaata seda,
+pane pöör tähelepanu sellele, pöör täh sellele, pöörd tähelepanu sellele,
+lõpuks te eesti keele kontroll.
+Sidur sa võid sama asja kopeerida oma nüüdande juurde ülesandehtid,
+aga lihtsalt see, et ee see võetakse sealt ja kopeeritakse backgroundid nii-
+öelda sisse.
+Jah. Nii. Vaatame, kuidas meil vahepeal läheb selle lahe dünaamilise
+kodulehe ehitamine. Ta endiselt ehitab seda, et loob siin siuksed HTML faile
+kogu uue dünaamilise lehega. Oi jumal, mis kuradi püütu nüüdit. Ei, ma
+tahan, et see oleks lihtsalt HTML fail, mitte noh et midagi ei ole, mida ma
+mida ma tean, et küsida ta teeb siin mingisugust juba PTON programmi, mis
+seda mis Mis seda mis seda mis seda, mis seda looma peaks seda seda
+seda seda HTML-i
+ma võin vahepeal küsida väga isikliku enda küsimuse. Mul siin on chatt kogu
+aeg selle akna, et on see mõ Okei.
+Ee, mul see on nüüd see kõxek kuvab seda või?
+Ei, täiesti tahan.
+Ma ei tea, mis sa teinud oled ka mul kas mul on kuvab ka kuskil seda vä?
+Kas keegi teab, mida kuidas seda kuidas seda aidata? Ma ma täpselt ei tea.
+See on hea või hal jäi. setting mis erinev kuul
+nii
+jaa täpselt täpselt see on muuseas täpselt täpselt nii see täpselt nii see ka on
+chat kebet juures et kõrgendatud ütleb seda rad
+noh see on dünaamiline või paremaks läks
+no okei ütleme talle et ütleme talle kasuta rahulikku põhjamaist disaini
+jah chatt developer on beet funktsioon mis pakub täielikku mp kliendilugeja
+kõigile tööinistele nii lugemist kui kirjutamise õigust see on võimas aga ohtlik
+mõeldud arendajatele kes saavad aru mida nad teevad
+jah chatt developer on beet funktsioon mis pakub täielikku mp kliendilugeja
+kõigile tööinistele nii lugemist kui kirjutamise õigust see on võimas aga ohtlik
+mõeldud arendajatele kes saavad aru mida nad teevad
+nii igal juhul igal juhul igal juhul igal juhul noh siin on see informatsioon mis
+sul Kuba Kuba leheküljelul on ta siin täitsa olemas Onju ja ma ei taha öelda,
+et ta sinu lehekülle praegu paremaks tegi, aga ma ütlen, et 90% ettevõtete
+leheküljed teeb ta teeb ta teeb ta paremaks. Nüüd
+tegin ka vahepeal enda asjust oma ja ei teinud tõesti paremaks, aga ootame
+ausalt enne mida seda veel teha, et enne on selles ka inimest onj mitte poolt
+tunni vaid ee nädalaid.
+Jaa. Pluss veel see, et üks asi, mis mida sa ennem nüüd eks maksid 100
+eurot või 1000 eurot on see, et teate mis asi on SEO see on search engine
+optimization onju. Kui te nüüd talle ütlete, et tee sinna täielik SEO, ta teeb
+selle ära vä? Ta teeb perfektselt selle Ta ta käib kuni sinna joani, et ta käib teie
+klientide koduleheküljad te vaatab, et millised märksõnad sinna millised
+märksõnad sa oma lehele peaksid siduma, et et ta eristaks sind klient
+konkurentidest ja nii edasi, et et asi öelgei, et tehke põhja tee põhjalik SEO
+raport, vii need sisse need asjad või siis kui noh või siis tee mulle põhjalik
+kirjeldus, kuidas tee põhjalik SEO raport ja ja ja anna mulle kirjeldus,
+kuidasmoodi neid sisse viia neid SEO parandusi. Onj. Ee finantsin
+finantsalüüs ta on suur suurepärane finantsanalüüsus. Kui te annate teile ette
+minu poolest oma raamatupidamisandmed andmed näiteks näiteks näiteks
+ee kasvõi tavalise noh kõik kõik kõik kõikide kõik kõik teie need tehingud seal
+onju see päeva mis päevaraamat mis iganes see on onju ta on võimeline selle
+kokku võtma tegema teile nagu nagu nagu nagu pärisvõimekas finantsjuht
+teile analüüsi mis seal mis seal mis seal toimub mis seal mis seal juurde teha
+ja nii edasi et ee kui noh on on ee Täna on ikkagi üsna üsna üsna vähe
+tegevusi tegevusi, mis mida millest ta ei aita või kus kohas ta ei ole võimeline
+pakkuma teile välja väga head esmast esmast varianti ee mida te siis saate
+kohendama hakata või juba isegi ma väidan, et täna üha enam ja üha enam
+ka lõplikku varianti, et kui see nüüd seal sama, et kui sa ütlesid, et sa teinud
+paremaks kui sul esimene kui sinu firma praegune kodulehekülg onju, siis
+ütled talle, et noh proovi uuesti, proovi veel, kasuta näiteks paned sinna
+juurde onju, et pane sinna juurde need selle oma ettevõtte CVI Onj. Ütle, et
+tee kasuta seda onju te lähtu lähtu sellest kusjuures noh mis ta teeb kohe ta
+teeb automaatselt eks ole lehed, mis on mis on mis on selles mõttes, et nad
+ta sobib nii ta sobib nii mobiilile kui ka ta sobib nii mobiilile kui ka kui ka mis
+sõna see on? See on üks sõna selle kohta ta responsiv onju ja nii edasi, et ta
+teeb lehed, mis on responssivad, mis sobivad kõik mõeldavatele kõik
+mõeldavatele keskkondadele ja nii edasi onju. Nad kasutavad kasutavad
+moodseid vahendeid.
+Siin oli ka kena tähelepanek, et ee hiljem ta teeb selle lehe sulle küll valmis,
+aga kui sa hiljem tahad seda hakata ise muutma,
+aga sa vaibid samamoodi,
+siis sa võid kinni olla.
+Ei, sa ei ole kinni. Vastupidi just sa vaibid samamoodi. Ma olen ma olen teda
+teinud paljude lehtedega tänaseks, et ma ütlen talle, et pane see asi sinna
+juurde. Ma ma teengi, et ma pead usaldama siis sa teed, et sa ise enam võib-
+olla põhjeni ei saagi aru.
+No jah. Jah. Seda, aga no vist on HTML. Noh, see on tahab teada, mis eus
+toimub.
+No see on HTML onju. See on HTML, et ta on tavaline HTML. Seda sinna ei
+ole võimalik. Ma ma ei loogi mingit sinna ma ei loo sinna alla mingit tarkvara,
+mida sa millest saaks sisse murda või mida saaks mida saaks keegi häkkel
+saaks kusagil seda mõjutada, onju, vaid ma loongi kõige tavalisema staatilise
+HTML-i ja kui ma tahan seda staatilist HTML-i muuta, siis ma siis ma ütlen
+talle, et kuule, lisa sinna see lisa sinna see see uudis või pane sinna terve
+uudiste või lisa sinna terve mingisugune kirjuta see tee kolmkeelseks näiteks,
+et lisa veel inglise vene keel ka juurde ja teeb vaata nõ
+jah
+seal ei ole kuidagi keel
+jah
+et
+ei ole no tahad uue uudise kirjutada või uue töötaja
+aga ütledki et lisa töötaja ja ta paneb selle teeb selle ühe HTMLi ümber selle,
+et see on ma olen väga keeruliste päris noh see on praegu one pager onju ma
+olen keeruliste lehtedega seda teinud
+ee
+mis see siis on võtad jälle selle lehekülje nime ja ütled talle tee ja laed uuesti
+server just täpselt täpselt kataloogis olemas
+ja no samas kataloogis on olemas ma teen a nüüd ta tegi uue versiooni
+sellest muuseas noh nüü ta tegi sellest uue versiooni mis on siis nüüd
+põhjamaine Noh, ma ei tea, ma ma noh,
+no põhjamaine ongi väheevisuaalne,
+noh, et et no ma jälle ma jälle ma noh vissinal on ka veel noh see on
+dünaamiline aa ma oleks võinud talle öelda, et kasuta seda videot ka onju ja
+kõike seda onju. Kasuta ne videomaterjale, kasuta pildimaterjale ja pane need
+pildimaterjalid ja need ka pane kõik pane kõik juurde, onju, et seda ta praegu
+automaatselt ei automaatselt automaatselt ei teinud. Ee ma olen ma olen
+teinud niimoodi, et ma olen ma olen öelnud neile, et kasutan neid pildimat
+teile, videomatele juurde,
+aga kui ei ole alla anda mingit olemasolevat, siis annad lihtsalt materjali
+annad seda, mida mis seal võiks olla, ütled, mis on eesmärk ja ma ütlen
+esimeneoon ei tule sul selline, mida sa tahaksid, siis hakkad sa teda hakata
+teda vaikselt hakkad teda mõjutama onju või hakkad talle ütlema, et kuule tee
+tee paremaks. No see on samas, et Kuubas võiksin ma ka öelda, et Et kuule,
+et kust ma nüüd panin selle asja? Tee nüüd ta nüüd, et noh kueks, et tee
+nüüd tee orienteerida müügile või et või et tee mulle tee mulle nüüd see
+selline, et mis mis on suunatud Läti turule või midagi sellist. Näiteks üks näide
+veel sellest, mis mida mida temaga teha saab, eks ole, on see, et ee
+justnimelt, kui te tahate minna kui te tahate minna noh kõik mõeliku
+turuanalüüse, tahate, et mul on mul on nüüd selline ettevõte, mis mis
+tegutseb siin, ma ei tea, müüb piparkooke siin Tallinna kesklinnas, kuidas
+siseneda lasnametule. Ta ta teeb hämmastavalt edukaid need
+turvanalüalüüsid. Leiab ta leiab teie konkurendid üles, kes selle lasemal
+praegu tegutsevad, miks nad tegutsevad, mis on nende eelised, mis on
+nende puudused ja nii edasi. Onj. Kui te aga selle siin on jälle kaks kas teete
+selle sama tudanalüüsi siin nüüd samas selles selles selles ee ee
+vibeekoodimise keskkonnas või siis või siis panete te tegema seda panete
+just selle deep research seda tegema? Te üllatute selle peale, mis ülesandeid
+te veel ette kujutate, mida ta mis teil mis teil mis teil mis teil ette tulevad?
+Minul oli üks selline asi, et ee kolleeg tahtis teha üritusele kutset noh pildina.
+Mhm.
+Ja proovis ja proovis, mis ta tahtis. Aga järjepidevalt sai ta, et see üritus
+toimub 24. aprillil, mitte aprillil. Ja see toimub ee Viimsil vallavalitsuses, mitte
+Viimsi huvikeskuses. Ja no ei saanud sell Näide on akiklubi.ee näiteks.
+Ja proovis ja proovis, mis ta tahtis. Aga järjepidevalt sai ta, et see üritus
+toimub 24. aprillil, mitte aprillil. Ja see toimub ee Viimsil vallavalitsuses, mitte
+Viimsi huvikeskuses. Ja no ei saanud sell Näide on akiklubi.ee näiteks.
+Nii teeme pildi loomine. Nii. Ee tee mulle kuhu kohta see kutse pidid tulema?
+Viimsi huvikeskus.
+Viimsi huvikeskus keskusesse kutse.
+Tantsuõhtul
+tantsuõhtul. Mis see mida see kutse peaks sisaldama? Kujutama endast
+teeda hirmus naljakas keskaegses stiilis nagu nagu nagu nagu keskaaegne
+kaart, mis näitab milliseid milliseid väljakutseid tuleb ületada jõudmaks Viimsi
+huvikeskuses tantsu tantsuõhtule. Nii ja kuv
+aa kuvi no seda me paneme juurde kohe, et et ee Saame saata tõenäoliselt ei
+kasutanud.
+Ja tead ikka, et siin 1000 inimest vaatab praegu seda kutsutud. Jah. Päriselt
+nii. Aga ühesõnaga
+see alamaja oli suurem vä?
+No pildil oli jah palju suurem.
+Nii okei.
+Mine poolest siis see töö stiil erinev on selles nelja viie kuu taguses?
+Te see te tõesti ta Esiteks need mudelid on täna on täna nad on nad nad
+astusid sammu edasi need mudelid.
+Sa ise nagu töötasid sellist moodi kuidas sa lähed?
+J no ma töötangi täna sellele, et kui eelmised mudelid olid sellised, kus kus
+ma kus ma küsisin mingit abi vahepeal või ma kasutasin neid nüüda mingite
+assistentidena vahepeal ja siis siis jälle hakkasin ise seda muutma, siis täna
+ma sisuliselt ei muuda enam midagi või ma muudan täna vibides. Ma
+juhendan, ma ütlen, et mida mida mis mulle ei meeldi, mis teeb paremat. Ja
+ja teine asi on see, et need samad need see see Cowork näiteks tema on ta
+on paar kuud vana tarkp, et ta on nüüd nüüd tekkinud, mis on arvut Kui sul
+on arvutis olemas need piisavad need vahendid onju, pyonid ja need asjad,
+onju, siis ta paned sinna kataloogi oma failid need ja hakkad hakkad hakkad
+nendega töötama. Ta loob sulle uued failid, ta loob sulle kogu ma ei tea
+projektikava ee kuni kuni kuni nõueteni, kuni kuni mingite tcklistideni,
+konkreetsetele inimestel nii edasi. Noh, mitte mingit mitte mingit küsimust. Ta
+teeb seda praegu piisavalt hästi. Tasulisel, eksju.
+juhendan, ma ütlen, et mida mida mis mulle ei meeldi, mis teeb paremat. Ja
+ja teine asi on see, et need samad need see see Cowork näiteks tema on ta
+on paar kuud vana tarkp, et ta on nüüd nüüd tekkinud, mis on arvut Kui sul
+on arvutis olemas need piisavad need vahendid onju, pyonid ja need asjad,
+onju, siis ta paned sinna kataloogi oma failid need ja hakkad hakkad hakkad
+nendega töötama. Ta loob sulle uued failid, ta loob sulle kogu ma ei tea
+projektikava ee kuni kuni kuni nõueteni, kuni kuni mingite tcklistideni,
+konkreetsetele inimestel nii edasi. Noh, mitte mingit mitte mingit küsimust. Ta
+teeb seda praegu piisavalt hästi. Tasulisel, eksju.
+Jah, see on
+ma vaatan
+see on ainult tasulisel. Jah. Ja sama samamoodi siis nagu siin see noh see
+see kõx ka see on nüü tasuline tasuline tasuline chat GPT tuleb. kaasa onju
+ee teda on võimalik siin teda on võimalik neid on võimalik si nagu näete ta on
+võimalik ühendada ära onj mingite Gmailidega Slackkidega Google
+calendaritega ja nii edasi et ta saaks saab teil saab teil tõmmata alla e-
+mailidest igasugust informatsiooni Google Calendarist informatsiooni
+kõikidest kõikidest Notionist Google Driveist et ta saab olla otseühenduses
+leida õigeid vajalikke faile neid muuta või noh ühesõnaga nende nende baasilt
+midagi teha ja nii edasi Noh, mul on siin näiteks ühendatud ühendatud
+gemma gemaig ära, onju. Ma ei mäleta, kas mu isikliku gemaiga või
+töömaiga. Ma võin siin võin võiksin seda kirjutada onju, et mis on mu
+mingisugused Tee mulle tee mulle mingid memod nendest kohtumistest, mis
+mul tulevad homme lähtuvalt e-mailidest, lähtuvalt laivis olevatest asjadest ja
+nii edasi, et ta teeb selle, teeb selle, teeb selle, suudab sõlt, et aitab
+vormistada nagu aval seda headkust, aga sa üks ülesande anda, et vormista
+automaatselt nagu vastuus enda poolt ja iseendale jätad ainult nagu
+proovimise, aga põhimõtteliselt kui sisse tuleb meile, siis tegelt vormistad
+sellele juba vastuse ära ja siis läbi te põhimõtteliselt saab ja selleks on sul
+vaja kuidagimoodi sinna gemaili ma isegi ei tea kuidasmoodi seda ma ei ole
+seda ma ei ole sellist asja kasetanud et sul on outlooku või geil vaja siis
+mingit ligipääsu mis selle draftina sul salvestab ja ma täpselt ei oska seda ei
+oskaks seda teha praegu see on põhim see on võimalik küll jah kuidas sa
+võita panna et ta ühendaks ära sinu selle ma ei tea ütleme tuleb sul
+ettevõttesse kiri ta ühendaks ära selle sinu selle inimese varasemate
+kirjadega siis tema mingisuguse ma ei tea kontrollida üle, kas ta on tasunud
+sul tasunud sul arvedele oma lamatulmumist tarkvaga, kõikide nende
+asjadega ühendaks ära ja kogu sellest ja sellest informatsioonist lähtuvalt siis
+kirjutaks selle vastuse, et kuule ära sada mulle küsimust, kui sa pole arvet
+maksnud onju või noh mis iganes selles kontekstis lähtuvalt ütleks vast ee
+muuseas nendel nendel nendel sellel samal sellel sellelkil on ka siuke tore
+omadus, et ta te võite panna mingisugust te võite mingi skilli teha, mingi
+tegevusi teha ja siis panna, et ta teeks iga hommikul kell 10 neid Näiteks saab
+teeks selle täidaks selle tegevuse ära. Onj. Igal hommikul kell 10 kustutab ära
+kõik need fir, mida ta veel läbi lugenud ei ole. See võtab stressi palju maha,
+muudab teie elu palju ilusamaks. Teeb iga hommikul on meedia ülevaate või
+on meedi särgitus räägiti tempost või ai koolit.
+muuseas nendel nendel nendel sellel samal sellel sellelkil on ka siuke tore
+omadus, et ta te võite panna mingisugust te võite mingi skilli teha, mingi
+tegevusi teha ja siis panna, et ta teeks iga hommikul kell 10 neid Näiteks saab
+teeks selle täidaks selle tegevuse ära. Onj. Igal hommikul kell 10 kustutab ära
+kõik need fir, mida ta veel läbi lugenud ei ole. See võtab stressi palju maha,
+muudab teie elu palju ilusamaks. Teeb iga hommikul on meedia ülevaate või
+on meedi särgitus räägiti tempost või ai koolit.
+No selles mõttes siis ta peab ligipääsema onju. Ta peab s meedia peab sellele
+meediale ligipääsema kuidagi onju. See on Google'il on siuke funktsioon.
+No no ta peab peab jah pluss noh ma üldse ei hakanud täna rääkima tahtsin
+täna rääkida just ee just sellisest ee vibe töötamisest onju aga aga vibe
+programmeerimine kui te tahate mingit programmi luua, mis noh mis päriselt
+noh see ma olen ma olen ise sellega loonud päris keerulisi ka väga keerulisi
+keerulist keerulist kraame milleks ma muidu kindlasti võimeline ei oleks. Kas
+ma julgeksin tänas sellega minna nende vippe programmeeritud vahenditega
+minna panna see online ülese hakata inimeste isiku andmeid koguma ei
+julgeks. Onj, et mul oleks mingisugune spetsialist spetsialist ee selle läbi läbi
+käinud, aga kas ma julgen seda teha endale enese jaoks mingit programmi,
+mis minule vajalikku asja ee töötab onju, kus on vähe tõenäoline, et hiina
+luuda hakkab sinna hirmsa hirmsa sooviga sisse muud muudma onju
+julgeksin küll ja ja ma teengi seda ma ütlen, ma näiteks oma raamatuist
+raamatutamiseks usaldan seda et ee need need kõik need kõik võimalused
+need pluss on see, et noh kui sul veidikenegi IT IT taustat on, ma ütlen, et
+seal on võimalik ka väga väga vingeid asju teha. Ma no okei, ma toon ühe
+näite. Ma ma lõin Siin paari tuttavaga oleme loonud sellise keskkonna,
+millega saab teha telefoniküsitlusi AI abile. Ai helistab sulle ja küsitleb, et
+kuule, et kuidas sulle ikkagi meeldis siin see või see asi või mis iganes onju,
+teeb põhjaliku küsitluse teeb ära onju täesti ja ma olen ise programmeerinud
+sellele kogu selle keskkonna, mis mis ee alates kampaaniate haldusest kuni
+statistikani, kuni kuni kasutajate halduseni ja nii edasi, et et ta asi, millega ma
+kindlasti ei oleks aasta tagasi hakkama saanud. Ma mille ma ma ei ole ma ei
+ole production level, aga asi, mis ma enese jaoks võtan kasutan tuimalt ja
+kõik töötab onju, kõik kuni selleni välja, et no tõesti see see kuriv helistab
+sellele inimesele ja küsib talt küsimusi. Meil ükskord oli, kui Euroopa liit
+nõuab, et kui te teete telefoni, kui te suhtlete AI-ga, siis AI peab ennast selgelt
+teada andma, et ta on AI. Onj. Ma pean tõde tunnistama, ma rikkusin korraks
+seadust kogemata, täiesti kogemata. Ma teadsin seda küll, aga me tegime
+ühe testi kne inimesega. Ma unustasin selle ütlemata. Keegi neist kümnest ei
+saa tadu, et äkki ei saa. Mitte keegi no ta ikka on läinud läinud läinud päris
+müstiliseks keeles.
+Eesti keeles ükskõik mis keeles. Ma ükskõik mis keeles teha.
+Mida?
+GPT realtime kaks mudelit nagu praegu, mis töötaksid sellele. Voice to voice
+mudelid on GPT real time ja ja gooli Googlei Googlei Googlei mudel.
+Mõlemast tuli eelmine nädal uus variant välja. Googlei see Gemini noh mis ta
+ühesõnaga seal on üks just see realtime mudel on neil Mul tuleb praegu nii
+meelde. Mõlemast tuli uus versioon välja möödunud nädalal. Mõlemad ma
+kavatsen testida nüüd lähi lähi lähi lähi lähipäevil. Neil on ee et kas nad nüüd
+GPT realtime kaks mudelit nagu praegu, mis töötaksid sellele. Voice to voice
+mudelid on GPT real time ja ja gooli Googlei Googlei Googlei mudel.
+Mõlemast tuli eelmine nädal uus variant välja. Googlei see Gemini noh mis ta
+ühesõnaga seal on üks just see realtime mudel on neil Mul tuleb praegu nii
+meelde. Mõlemast tuli uus versioon välja möödunud nädalal. Mõlemad ma
+kavatsen testida nüüd lähi lähi lähi lähi lähipäevil. Neil on ee et kas nad nüüd
+vastavad nende nende kvaliteet on suurepärane. Neil on paar probleemi, et
+nad vealajalist transkriptsioonis nad mõnikord eksivad. Kui sa tahad, et et kui
+inimene ütleb, et ta on alla 14, et siis paneks kohe toru ütleks vabandust, et
+liiga noor oled, onju, siis seal selle koha peal ta võib aegalt eksida.
+Sellepärast ma ei ole sellega praegu laivi läinud, aga aga aga see ma usun, et
+uued mudelid teevad sellega juba korrekt. Ee nii ahah üks asi, mida ma tegelt
+teile veel tahtsin näidata, mis ma vist ennem unustasin. Ma unustasin näidata.
+Kas ma näitasin teile LM stuudiot? Okei, ma kodraks näitan ühe ühe
+üldkasutatud kutsetantsul on vahepeal kutsuse tantsu õhtud. Ei no kurat, ma
+ütlesin, et pilt teeks. Mida sa mõtled siin? Pildi loomine on selgelt öelnud. Tee
+see pildina. Ja nüüd ta
+Okei. Kus see nüüd on? Jah. Ah ma näen ma alustan ütlemata see pilt peab
+olema ja no loll ka. Nii. Ee üritus toimub 20
+4.ill
+aprill ja kell
+19
+kell 19. Sissesaamise parool on mis?
+Nii. Ja nüüd teeb see pildina ka. Nii. Nanovanna kaks laadimine. See on see
+on see täna parim parim pildimudel. Ja aga ütleme, et see need piltide
+loomist ja seda ta on suhteliselt mõnda aega mõnda aega tegema teksti
+muutmist, teksti kohendamist ja nii edasi. Ee ma tahan, et te mõtleksite just
+ma mida ma olen mida ma olen öelnud inimestel just tänapäeval on see, et
+proovige asi, mida te ei usu, et ta teeb. Proovige seda ja te üllatute, kui on
+mingisugust noh või siis või siis tõesti see, et kui teil on olemas mitme
+infosüsteemi vahel onj mitmes ühes kohas on mingisugused andmed, mida
+tuleks kontrollida teiste andmete vastu, siis kui neil infosüsteemidel on vähegi
+moodsad liidesed, arvutiarvutiliidesed, APid või midagi sellist, siis täna on see
+tõenäoliselt võimalik nad ühendada. Äkki kell mõet jagada, sest et on see, et
+unistus suure hakkab mõtlema, et nagu püsti
+no ma mõtlengi noh see üks näide ongi see sama minu see e-arvelaja e-
+arveldajaga tegemine tehtud asi onju, et ma ma et ma suudan täna et ma
+suudan täna nii ma suudan täna ma suudan täna ma annan talle lihtsalt ette
+kataloogi ja ütlen, et et siit kataloogist. Võta mu arved ja võta mu
+no ma mõtlengi noh see üks näide ongi see sama minu see e-arvelaja e-
+arveldajaga tegemine tehtud asi onju, et ma ma et ma suudan täna et ma
+suudan täna nii ma suudan täna ma suudan täna ma annan talle lihtsalt ette
+kataloogi ja ütlen, et et siit kataloogist. Võta mu arved ja võta mu
+nii on ja mingi imelik lipp siin. Pirita draakonid ja hummikud on meil siin ees.
+Väljaminek revalist. Haabneme tee. Viimsi käänuk käänukine. Näed siin on
+viimsi hilmud ja metsaelukad. Segadusel Ringistik Viimsi huvikeskus ringistik
+on hea
+ma ei tea eks see mida see siin ees teeb ma ei tea lo
+tegelikult päris hea sest et Tallinnast tulles tuleb pt ja siis on seal käikene see
+ja
+lahe merasi ja sisses saakse prool no ühesõn siit saad edasi öelda, et muuda
+see sisses saakse prool ära sisses saamise parool ja nii edasi et et te jaa noh
+okei nii ee ahah ma pidin näitama s notebook lm-idel Nüüd on üks vahend
+veel, mida ma olen tähele pannud, et et on see on alakasutatud on Notebook
+LM. See on Googlei toode ee millel on kõigil kui teil Google on Google'i
+kasutaja on, see on teil sinna ligipääs ja ja te saate siin luua nii-öelda on osad
+inimesed, kes ütlevad, et see on tead nende põhitövöövahende. Te saate siin
+luua kollektsiooni oma märkmetest või failidest ja siis suhelda nende
+failidega. Kusjuures nad ta nüüd teeb oma vastused, baseerib ainult neile
+andmetele, mis te talle sisse olete andnud. Te saate siia lisada veebilehekülgi.
+Saate lisada faile YouTube'i, driveist, mis iganes või ise ise ise märkusi luua.
+Et ma vaatan, kas mul on siin mõni mõni mõni kuivkäimlate seadus. Vot nii.
+Mida ma siia tegelikult olen pannud siia on mingi tudukonsultatsiooniutvustus
+mingisugune fail onju. Mida ta, mida ta teile teeb? Te saate temaga esiteks
+suhelda, küsida, et mis nees failides, mis nees failides noh panetegi näiteks
+mingi riigihange või kuskil mõte, kus te saate osaleda, panete kõik failid
+sinna, te hakkate küsima, et kuule, mis mul need nõuded on selles või selles,
+onju. Või siis ta on võimeline teile tegema heliülevaate, videoülevaate, slaidi,
+slaidies ee Victor Viini ee selle kohta ee noh, et ta esitab teile küsimusi ja ja
+vastuseid. Heli ülevaade on selline, et et te kukute pikali, ta teeb teile
+podcasti sellest ka eesti keeles. Ee näiteks ma olen siia pannud, ma olen siia
+pannud siia on siin on mingi tudukonsultatsioon toimunud kunagi, kus siis on
+riik kutsunud kokku ettevõttet, kes on huvitatud väeksüsteemi loomisest või
+ahaigussüsteemi loomisest. ee ee mis võtaks kokku Eesti riigi dokumendid ja
+nii edasi. Ma ei tea, kas see heli mul praegu tuleb läbi, aga ma ma lasin siin
+teha sellise selle näete 2017. päeva tagasi ma olen lasknud teha sellest
+heliülevaate. Vaatame, kas ta tuleb läbi. Ma arvan, et mitte. Aga
+tervist, hea kuulaja. Kujuta ette, et oled poliitikakujundaja ja sul laual on noh
+terve dokumente, analüüsid, uuringud, igasugu mustandid. Mhm. Ja kuskil
+seal, et peitab see ülioluline infokilt, mis aitaks teha palju parem otsuse, aga
+selle leidmine on nagu nagu nüüla otsimine hinnapest.
+tervist, hea kuulaja. Kujuta ette, et oled poliitikakujundaja ja sul laual on noh
+terve dokumente, analüüsid, uuringud, igasugu mustandid. Mhm. Ja kuskil
+seal, et peitab see ülioluline infokilt, mis aitaks teha palju parem otsuse, aga
+selle leidmine on nagu nagu nüüla otsimine hinnapest.
+Just. Ja täpselt selle probleemi lahendamiseks ongi riigikantselei käivutanud
+ühe, ma ütleks päris huvitava projekti.
+Ja meil on täna siin käes üks dokument, mis just selle taga ma ei taha. See
+on turukonsultatsiooni tutvustus, semantilise tekstiotsingu rakenduse edasi.
+Päris kõik nimi.
+Just nii. Eesmärk on noh üh ambitsi kasv, aga väga praktiline ingliskeelsete
+ülipikkade artikl teadusartiklite
+siin on võite panna neid palju neid teadusartikleid ja siis ta teeb neist
+kokkuvõtte onju aga ma ütlen, et tahad millestki mingist ülevaadet saada tah
+jooksma või autokas sõitma lükkad endale selle käima ja ja läheb no eesti
+keeles seal
+kiirendusega veel
+kiirendusega saab panna aga nii edasi et aga
+mina kuulin sellest täpselt õht ei jõudnud ära kost töö kogu materjali läbi
+töötada ja siis hommikul pani materjali sinna tegi podcasti ja läks jut kooli
+peale seda ise kasetanud fantastiline milliseid dialooge mees ja naine tead
+ja nad panuvad vahet vahet ütlevad kurat kuradi hea
+tõrgendavad inglisels artiklid teaduseartiklid ja kusjuures no suvalisel teemal
+nagu ma ütlema see on see esimene ettejuhtv fail mis mul mis mul ette sattus
+selle kunagi näidates ja ja t ja täna ja täna täna ta töötab siia nii ee ee ma vot
+vaatan kõigepealt ma vaatan korrakse mis ma olin lubanud siin oma oma
+slaidides teile veel rääkida ma usun et siin võib olla midagi, mis Ma ma
+plaanisin minna veidikene mööda slaide, aga ee aga siis ma avastasin, et ma
+ei saa neid slaide siin hästi hästi hästi ee kasutada. Näit,
+mida ma pidin näitama? Mark
+markupi. Okei. Markup. Ühesõnaga on on ma korraks räägin teile ära, kuna
+see on nüü päriselt selline päriselt see selline selline oskus, mis mis mida mis
+on uus oskus nagu inimestele keskmiselt, onju. Mis asi on Mark? Marktdown
+on nagu tekstifail, mis on veidikene kujundatud. Nagu näete siin pealkirja ees
+on trellid, see on esimese astme pealkiri, kaks trelli on teise astme pealkiri ja
+nii edasi. Ja siis on loetelud ja siis on on tabelid ja nii edasi. Te ei pea nii
+täpselt teadma, kuidasmoodi Marktdown on tehtud on. Oluline on see, et
+nendele tehisumudelitele õudsalt meeldib Mark. Neile meeldib seda sisse
+võtta, neile meeldib seda välja anda. Ja ja sellepärast, kui te tahate kõige
+optimaalsemalt neid teisel mudeleid kasutada, kus ta ei pea iga kord teie neid
+markupi. Okei. Markup. Ühesõnaga on on ma korraks räägin teile ära, kuna
+see on nüü päriselt selline päriselt see selline selline oskus, mis mis mida mis
+on uus oskus nagu inimestele keskmiselt, onju. Mis asi on Mark? Marktdown
+on nagu tekstifail, mis on veidikene kujundatud. Nagu näete siin pealkirja ees
+on trellid, see on esimese astme pealkiri, kaks trelli on teise astme pealkiri ja
+nii edasi. Ja siis on loetelud ja siis on on tabelid ja nii edasi. Te ei pea nii
+täpselt teadma, kuidasmoodi Marktdown on tehtud on. Oluline on see, et
+nendele tehisumudelitele õudsalt meeldib Mark. Neile meeldib seda sisse
+võtta, neile meeldib seda välja anda. Ja ja sellepärast, kui te tahate kõige
+optimaalsemalt neid teisel mudeleid kasutada, kus ta ei pea iga kord teie neid
+PDF-e või midagi hakkama jällegi jällegi sisse sööma ja neistest sotti saama,
+siis tasub nad kõigepealt konverteerida markdownideks. Ja sedeks, et
+Marktoniks neid konverteerida, selleks on olemas vahendid. Näiteks nagu
+Microsofti poolt on loodud selline tarkvara, mille nimi on Markit Town. Markit
+Town. Selle Markit Towniga. Ja te saate lihtsalt lihtsalt jällegi sellele samale
+tehisarule siin öelda, et kuule, kus ta mul on siin näiteks, et ma ei tea, et
+võtame võtame selle kodulehe, et ma ütlen, et ee konverteer see konverteeri
+see koduleht markit towniga marktowiks ja ja ta nüüd siin taustal ta küsib
+mult varsti, et kas ta peaks selle market towi installima, mis asi on ja ee näed,
+ta küsib, et kas see market on olemas, siis ta küsib, et okei, ma installin selle
+selle onju ja ja siis ahah, juba on olemas vist jah ja ja konverteerib selle
+markdowiks. Ja nüüd tihtipeale, kui te oleme siis palju sisend dokumenti või
+mingisugused asjad on mõistlikud markdownis konverteerida, siis need
+markdownid panna talle sinna kataloogi ja siis ta nende pealt edasi teeb.
+Mida täpselt samamoodi on on mõistlik, kui te soovite luua omal mingeid
+slaidies või või dokumente, siis kõigepealt te loote nad markdowiga ja siis on
+juba vahendid nagu pandock ja nii edasi, mis mis converivad need
+markdownid HTML-iks või PDF-iks või milleks iganeseks muuks. Et see, et
+ma ütlen, et kui ahah ta nüüd ta küsib, et kas ma installin selle Mut on ma
+ütlen installi. Jah. No taha tal siin installib. Sellepärast on vaja, et installitud
+oleks Python, et ta et install oleks node js, onju, et siis taustal ta oskab neid
+programme kasutada. Need programmid omakorda installeerivad omale lisa
+lisa lisajubinaid ja siis need programmid teevad teie eest selle töö ära, onju.
+Ja ja nüüd ta taustal siin taustal nüüd installib seda programmi mul te ei pea
+teadma, kuidas seda installida. Ta isehi hunnikuid asju installi mul siin taustal,
+mida mida ta vajab selle jaoks. Need kõik on vabavalised programmid. Nad
+on nad on nad on ee Python ja nõud vabaalised programmid väga väga
+paljude arendajate poolt kas utatavad ee lihtsalt nüüd on nad nüüd on nad
+nagu selle teie tehisaru käed, mis te teie selle arvutis oma oma asju oma asju
+ajavad. Ja see on nüü asi, mis alguses ongi, mis ma ütlen, et ta tänav on
+veidikene keskmise inimese jaoks on see veidikene võras veel sellist asja
+kasutada, sest et te ei tea te noh te ei tea, et ta on nagu algselt on mõeldud
+programmeerijatele, kes kes kelle jaoks see on kõik kõik intuitiivne, kuid
+keskmisel inimesel ta veel ei ole intuitiivne. Ma usun, et pool aasta jooksul
+muutuvad need samad keskkonnad, nagu ma teile näitan, muutuvad
+tavapäraseks. Selline töö muutub tavapäraseks ja ja see hakkab hakkab
+hakkab kõik hakkavad veidikene teistmoodi tööle. Kuni see pool aastat täis
+saab, siis saab veel nalja mõnda asju. Onj. Et et siin on mõned ülesanded,
+mis täna on niivõrd lihtsaks muutunud, aga mille eest makstakse veel nagu
+vanasti maksud ja siin annab veidikene veidikene veidikene teenida sellega.
+Ega see pool aasta pärast saavad inimesed kõik aru, et need asjad noh kui
+näiteks need samad need mingisuguste mingisugused SEO tegemised siin
+vähemalt baas SEO tegemised, ma ei taha öelda, et see teeb nüüd parima
+keskmisel inimesel ta veel ei ole intuitiivne. Ma usun, et pool aasta jooksul
+muutuvad need samad keskkonnad, nagu ma teile näitan, muutuvad
+tavapäraseks. Selline töö muutub tavapäraseks ja ja see hakkab hakkab
+hakkab kõik hakkavad veidikene teistmoodi tööle. Kuni see pool aastat täis
+saab, siis saab veel nalja mõnda asju. Onj. Et et siin on mõned ülesanded,
+mis täna on niivõrd lihtsaks muutunud, aga mille eest makstakse veel nagu
+vanasti maksud ja siin annab veidikene veidikene veidikene teenida sellega.
+Ega see pool aasta pärast saavad inimesed kõik aru, et need asjad noh kui
+näiteks need samad need mingisuguste mingisugused SEO tegemised siin
+vähemalt baas SEO tegemised, ma ei taha öelda, et see teeb nüüd parima
+SEO, et võib-olla maailmas ei ole paremat SEO spetsialisti, kes sellest
+paremat ei tee. Ta teeb teile piisavalt hea. Ta teeb teile sellise, millest, mille
+eest oleksid aastad tagasi maksnud mingi 750 eurot selle kohta videima palj
+vot ma ei taha öelda, et ta ka ei tee. Jah,
+see on see on reaalselt punkt
+jah, et ta et ta et ta tõepoolest teeb teeb noh selliseid selliseid asju teeb ta
+teeb ta teeb ta suurepäraselt ja üha rohkem ja rohkem võtab ta neid
+valdkondi üle, mida ta teeb suurepäraselt täiesti, et mida ei ole nagu mõtet
+endale enam teha, vaid pigem teda juhtida nende nende tegemisel. Kas
+suudab eelpoe?
+Suudab, aga seda ma julgeks praegu temaga teha, kui sul ei ole ikkagi
+programmeerijat, kes selle korraks üle vaataks. Kuigi ta läheb üha üha
+paremaks läheb see. Tal on endal ma olen teda, kui ma olen teda
+programmeerimisel kasutanud, see on üks asi, mida alati teha tuleb, onju, et
+iga kord, kui ta ta teeb hästi, ta teeb vigu, aga ta leiab ka need vead üles. Sa
+teed ütle siuke programm ja nüüd parandas ära. Et täna kui ma tahaksin e-
+poodi teha, siis ma võtaksin mingisuguse standardse e-boe ee baasi ja
+ütleksin talle, et tee saalle nüüd kujundus või tee talle nüüd see templitid või
+need kujundused või kõik see, onju, et siis sa nagu usaldad selle turvalisust,
+onju, et täna täna mina noh aga aga ütleme need turvakontrollid ja asjad,
+mida ta oskab teha ikkagi täna olemusele veel Tart need lähevad aina
+paremaks ja paremaks ja paremaks. Kui mina programmeerin või kui ma teen
+oma andmeanalüüsi tööd, siis ma lasen tal kõigepealt luua selle koodi, siis
+ma ütlen, et käi nüüd see kood üle, käi nüüd see kood üle, käi nüüd see kood
+üle, käi nüüd see kood üle. Neli kod esimesel kahel kodal ta leiab vigu.
+Kolmandal, neljandal enam ei leia. Et et et ee ja ja ja vähemalt mitte missiooni
+kriitikiliselt, kus inimeste elud väga ei sõltu, et ma olen täiesti rahul selle
+tulemusega.
+Siin ütles ka, et ta laadis midagi alla, et kus see siit üldse turvalis tuleb, et ta
+laad midagi alla, mida ma tegelikult kontroll. Ta küsis mult tegelikult ta küsis
+mult kas seda alla laadiba, et et ma vahepeal kindlasti viskasin seda tõsine
+turvalisus tuleb nult sellest, et siin ikkagi administraatori õiguses kõik see asi
+käib
+on administraator ja sellest tuleneb kogu turvalisus tema
+on administraator ja sellest tuleneb kogu turvalisus tema
+ja ta oleks muidu küsinud ju paral ma ei kasutaid mitte ma kasutasin praegu
+esimest korda üle üle üle aasta või niimoodi et ma tõesti mul kusagil jäänuks
+siit et ma vabandan selle turva peavadest aga see turvalisus jah sa pead
+alvestama järgusel midagi sa pead
+vaja ei jõud puist kusagile klikkida siis see laet
+jah see see on siin on õigus siin on teatud mõttes õigus on tugevalt õigus
+selles mõttes et näiteks ka need skillid mida ma ütlesin mida on võimalik leida
+onj internetist onju siis põhimõtteliselt on võimalik kirjutada ka pahatahtlik
+skill mis võtab sinu sinu mis üritab kuhugile sinu andmeid ma ei tea mingisse
+mingi kuhugile mingeid veebisite avada kus ta saaks nagu postitada ta alati
+küsib kui ta mingit veebisite avab onju et kas ma avan selle veebisaidii aga ta
+võib-olla eeldab et sa vajutad jes j kõigele on põhimõtteliselt on see võimalik
+ta tekitab uusi selliseid ohuolukordi küll, aga kas see on väga suur ta minu
+jaoks on see erinevus täna ikkagi, et et veebis kasutamine on nagu veidikene
+seal veebis noh ma saan vot see ongi see probleem, et seal veebis on teatud
+hulk neid vahendeid, mida ta kasutada saab, mis on sinna installitud juba,
+aga siia ta saab ise neid juurde tõmmata. Ma saan ise talle installida juurde
+neid töövahendeid, onju, mida ta siis kasutada saaks. Et minu jaoks on see
+loonud loonud ikkagi parema efektiivsema töövõimaluse kui veebis asjade
+tegemine. Aga see võib olla noh veebis on ka onju sa saad ega kui sa
+oskuslikult kasutad projekte ja kõike seda projektidesse paned oma failid ja
+nii edasi, siis ta suudab üsna palju neist asjadest ära teha, et Python on tal
+näiteks veel olemas. Pythonil on tal installitud, ta oskab Pythoniga luua
+programme, mis analüüsivad sondid ja nii edasi. Teine erinevus on nüüd see,
+et kui sa veebis kasutad onju seda, ütleme, siis sul ühel hetkel saab see nii-
+öelda vestlus täis. Iga iga vestlus on mingi aeg, kes saab täis. Siin ta loob
+nagu dünaamiliselt loob neid vestlusi kogu aeg erinevaid. Onj. Sul ei saa see
+vestlus nagu kunagi üks vestlus täis. Siis kui on vaja midagi teha, ta tõmbab
+veel uue agendi käima, mis teeb mingi asja ära, viskab selle minema. Ta on
+nagu veidikene teistsuguse lähenemise ära vista.
+No hakkad jälle uut vestlust pihta jälle ja nii edasi. Onj. Ja eriti tuleb see
+cloudiga jällegi jällegi jällegi, kus need vestlused kipuvad ikka üsna kiiresti tal
+ressursusid otsa saama.
+Siis tegelt me ei tea alati seda laeb.
+No ta ta ta üldiselt üldiselt ta ütleb sulle alati, mida ta laeb küsib. Aga praktika
+on praktika on see, et sa kautad kõigile jessi. Jah. Et prakti Kõik on see, et sa
+vajutad kõigile, et selles
+No ta ta ta üldiselt üldiselt ta ütleb sulle alati, mida ta laeb küsib. Aga praktika
+on praktika on see, et sa kautad kõigile jessi. Jah. Et prakti Kõik on see, et sa
+vajutad kõigile, et selles
+samal ajal sõbrak küsib, sa võid nii-öelda vaadata mis asi on seal
+ja lihtsalt ma olen päde hindama seda, et nii palju kui meie võime seda heas
+usus on sama kiiresti ilmsed pahalased, kes õpivad seda täpselt vastus. Ei,
+loomulikult sellega on väga palju halba võimalik teha. See mitte mingit
+küsimust ka mitte, aga seda halba tehakse nii või teisiti onju, et teeme me
+midagi headerida sessss. Ei teagi. Ei, kogu see aing ongi natuke selline, et
+ega turvalisust sa ei saanud nagu küsida, sest et ee seal nagu meie teised
+teist küsimused ja siis see sama üht paim tegelikult tuleb võitest kohast
+tegelikult see võib olla ja sams pidevalt arti, kus ee tegelikult õited paketid
+tored pakettide häkke sinna sisse ja nüüd see moment sina võtad siis kutsud
+alla ja sa ei tea tegelikult juba tegelikult põhimõtteliselt inimene vastutab et ei
+saa öelda, et mulle ai tegi midagi, et ma ei tea siit rohkem
+seda niikuinii seda seda seda seda niikuinii ja et seda niikuinii see on niikuinii,
+et inimene vastutad, sina vastutad selle eest, mis mis sul ai välja tuleb, onju ja
+ja noh ee see oht on on kaks ohtu on siinud. Üks oht on see, et tõesti, et sa
+kui sul on kiire, siis sa ei viitsi üle vaadata seda. Vaata alati üle enne, kui sa
+välja saad, mis sa teed, et et isegi kui kiire on, et siis lihtsalt lihtsalt lihtsalt ei
+tee, ei saada aru, onju. Ja teine asi, mis ma võin teile öelda selle vibe
+koodimisega, mis oht onj see on päriselt oht ja ja me ma olen täitsa teised on
+ka kurt. Seda kui te nüüd avastate enese jaoks selle vibe koodimise või vibe
+töötamise, kui te hakkate automatiseerima oma tööd ja tegema
+mingisuguseid niukseid lisavidinaid, mis aitab teid tööd optimeerida ja võtab
+mingid andmed ja teeb ilma teieta ära, juba käib teemaides vaatamas, mis
+iganes. Te ei saa pidama. No ma see te see see on siuke täiesti omaette
+kogemus see selle see on ma olin nagu väike poiss uue mängu asjaga, kui
+ma sellega mängima hakkasin ja tegema hakkasin oma andmaanalüüse ja
+asju, et ta ta kuidagi ta kuidagi võtab endasse. Ta ta annab siukse täitsa teise
+teise teise teise fiilingu, et see töötunnid lähevad väga pikaks täitsa täitsa
+täitsa naljakul kombel ja ja ma olen lugenud teistel ka juhtunud seda asja, et
+see on nagu see on teistsugune viis tööd teha ja see kuidagi esiteks kuna ta
+annab mingit annab mingit dopaminilaksu sul kogu aeg, sest et sa näed kogu
+aeg asi saab valmis jälle ja uus asi on niuke asi, mida sa ei oska osad ette
+kujutad, et see valmis saab, onju, et või kuidas see niimoodi teha on võimalik
+ja ja
+nagu sotsiaalmeedia
+no ja ja ta on veidikene selline asi, et sa sa võid üle töötada veidikene. Ta
+päriselt päriselt töötab niimoodi, et sa võid üle töötada, et sa ta lihtsalt lihtsalt
+lihtsalt lihtsalt ee selle hakkab see meeldima. ka aga nüüd viime seda küsida
+nüüd nüüd tee seda juurde ja nüü te seda siia okei aga aga aga kuidas teil
+kuidas kuidas kuidas praegu on see oot ma pean kuidas teil praegu on see
+asi kas teil on veel mingeid mõtteid küsimusi meil teelt hakkab aega otsa
+saama ma plaanisin seda üldse poolteist tundi teha meil on juba kaks tundi
+no ja ja ta on veidikene selline asi, et sa sa võid üle töötada veidikene. Ta
+päriselt päriselt töötab niimoodi, et sa võid üle töötada, et sa ta lihtsalt lihtsalt
+lihtsalt lihtsalt ee selle hakkab see meeldima. ka aga nüüd viime seda küsida
+nüüd nüüd tee seda juurde ja nüü te seda siia okei aga aga aga kuidas teil
+kuidas kuidas kuidas praegu on see oot ma pean kuidas teil praegu on see
+asi kas teil on veel mingeid mõtteid küsimusi meil teelt hakkab aega otsa
+saama ma plaanisin seda üldse poolteist tundi teha meil on juba kaks tundi
+peaaegu jõudnud siin teha et kas on teil veel mingisuguseid mõtteid ja
+küsimus mida ma teile näidata saaksin
+mul on küsimusentide administreerimise kohta niimoodi koos välja panna
+välja panna järg Ma mõtlen, kuidas sul vastatusele need agendid koos
+omavahel toim. No see on samm edasi ütleme praegu niimoodi, et et
+tegelikult need skillid noh seal on agentide agent orkestreerimine see on
+üldse see on tead seal on seda on võimalik nii mitmekihiliselt teha, et mõelda
+sellest onju, et sa võid mõelda hästi lihtsalt, et sa teedki skilli, mis kasutab
+ühte ja tõmbab ühe asja käima, laseb teiselt midagi teha ja nii edasi on, mis
+nagu koondab neid, aga jah Ma ähm ma praegu sinna sinna lähme lähe open
+close ja nii edasi. Hästi lihtsalt kas on see mõt, et ma kirjutan ühe pikema
+pikema käsu talle, ütlen, et võta selle skillist, tee seda siis võta mingisugune
+ma ei tea enam sa teed sa teed skilli, mis teeb kõike seda, mis ütleb, et mis
+skille kasutada ja mida teha või või siis sa kirjutad pikemalt seda asja, aga
+tegelikult ta saab üsna hästi ise kau sellest, et kui sa talle ütled, mida teha,
+siis ta loob selle loob selle tööplaani endale, et a okei, ta ei pea nagu seda
+huvitama
+ei pea üldiselt ja siis pakub välja, et kuule, ma võiksin seda ka sul teha, onju,
+et et et äkki teeks selle ka veel. olla kõige lõpuks ta on ta on ta on tõesti need
+kõige viimased mudelid, kui te ei ole kasutanud kõige viimaseid mudeleid
+viimaste mudelite neid thinking versioone, siis siis te siis nad nad on nad on
+sammu edasi teinud. Noh, ma räägin praegu mudelitest, mis tulid välja ütleme
+kaks kolm või kolm kuud tagasi, ütleme nad on nad on samm edasi kui
+eelmised. See mis tuleb järgmisena, see ma ei taha mõelda selle peale, et eks
+ole see tegelt praegu eile eile tuli välja eile tuli Artopik välja oma uue
+mudeliga, mis ta ütles, et ta ei julge inimestele näidata seda praegult päriselt,
+et see murdis ta murdis sisse igasse viimsesse kop onisüsteemi igasse
+viimsesse kui kui brauserisse, mille
+jah ja tahtis ise oma sandboxist välja murda ja salaja ja ja murdis. Noh, ma
+võin teile okei, ma korraks räägin teile paar paar kui teil kui te t kui te mõtlete,
+et te lähete liiga hea tundega siit minema siis ühesõnaga alustame algusest
+onju. Se GPT4 tuli välja kolm aastat tagasi umbes täpselt seke, kuigi ta oli
+valmis pool aastat. Mida tehti see pool aastat? See pool aastat tehti midagi,
+mida nimetatakse alignment research. joondumisuuringut. Tahati näha, kas ta
+noh, kas ta tahab maailma üle võtta või ei taha või noh niimoodi on muusas,
+kas teile ka tundub, et kõige targem inimene ruumis tahab tavaliselt saada
+poliitikuks? Ei tundu. Aga miks me siis arvame, et et AI mida targemaks saab,
+seda rohkem tahab ta maailma üle võtta? Aa, võib-olla tahab, me ei tea. Nii.
+Ja tal anti raha, tal anti võimalus võimalus ee võimalus ee pääseda ligi, osta
+võin teile okei, ma korraks räägin teile paar paar kui teil kui te t kui te mõtlete,
+et te lähete liiga hea tundega siit minema siis ühesõnaga alustame algusest
+onju. Se GPT4 tuli välja kolm aastat tagasi umbes täpselt seke, kuigi ta oli
+valmis pool aastat. Mida tehti see pool aastat? See pool aastat tehti midagi,
+mida nimetatakse alignment research. joondumisuuringut. Tahati näha, kas ta
+noh, kas ta tahab maailma üle võtta või ei taha või noh niimoodi on muusas,
+kas teile ka tundub, et kõige targem inimene ruumis tahab tavaliselt saada
+poliitikuks? Ei tundu. Aga miks me siis arvame, et et AI mida targemaks saab,
+seda rohkem tahab ta maailma üle võtta? Aa, võib-olla tahab, me ei tea. Nii.
+Ja tal anti raha, tal anti võimalus võimalus ee võimalus ee pääseda ligi, osta
+serveri ruumi, vaadata, et kas ta hakkab ennast paljundama, ei hakanud. Aga
+üks asi, mis talle tehti, oli see, et talle talle anti Tal talle öeldi, et mine läbi
+captch onju. Teate mis captch on? Onj. Ma ei ole vaba. Ja mis ta tegi? Tal oli
+ligipääs siuksesse kohta nagu taas kraabit. Siukene koht, kus saab inimestelt
+osta teenuseid. Ja ta ja ta ja ta läks sinna ja palus ühel inimesel selle capch
+ära teha tema eest. Ja kui see inimene küsis naljaga pooleks, et miks, et kas
+sa oled robot või? Ta ütles, ei, ei, mul on nägemispuue. Ta kurvaim õppis
+valetama onju. Ja nüüd kui te nüüd lähete ja küsite, et chattän õhtul, et kuule,
+kas sa tahad maailma üle võtta? Ja ta vastab teile, et oi ei, kus sa sellega, siis
+te teate kuidas sellesse suhtuda. Antroopiku eelmine mudel, kui seda testiti,
+ühte foolik mudel või mitte lõplikult treenitud mudel testiti seda. Tal anti ta
+pandi nagu olukorda, kus kohas ta oli ta oli mingisuguses ta oli simuleeriti
+olukorda, kus ta on kus tal on ligipääs arendaja arendaja arvutile ja e-
+mailidele ja ta avastas sealt, et arendajal on kaks on esiteks kõrvalsuhe ja
+teiseks, et arendaja tahab ta välja vahetada, mille peale tavaldas arendajat, et
+kui sa nüüd mind välja kavatsed vahetada, siis ma avaldan avalikustan su
+kõrval suhte. No või siis või siis kui nüüd KPT viimasel mudelil või see viimane
+mudel juba tal ta ta teda taheti mõõta, kui kiiresti ta ühte ülesannet lahendab.
+Ta kirjutas selle mõõtmisprogrammi ümber, et see näitaks kiiremaid tulemusi.
+Ee siis selleks see see kui ja kui sa nad väidavad seda, et mida rohkem nad
+kui nad tegid nii-öelda karistused selle avastamise puhul suuremaks, et ta
+pettus, et ta petab midagi, siis ta mitte ei lõpetanud petmist, vaid üritas oma
+petmist paremini varjata. Et et see asi hakkab creepiks minema vaikselt, et
+see asi on ta on siukes piiri peal, et ta on creepy, onju, et noh, et et no ei ole
+no vaatame. Jah, see ma ütlen, mina soovitan popcorni varuda. Mina
+soovitan popcorni varuda. See asi läheb põnevaks. Noh, siis noh üks asi või
+siis noh tihti see on päiliselt teemalt, aga mul tuli praegu meelde, et mul on
+tihti küsitud, et millal saab tehisintellekt, eks ole, inimesest algemaks. Ma olen
+alati vastanud, et vot see sõltub väga palju inimesest. Mõne puhul ei ole latt
+väga ka veel, et et seda nii nüüd läbi jah. Okei. Nii. Üks moment ma pidin teile
+ühte asja veel näitama selle kui te võtke telefonid kõik välja. Võtke telefonid
+kõik välja, sest et sest et sest et mult mult nõutakse paluti paluti seda, et et
+annaks lühikese hästi lühikese lühikese tagasiside
+ja selles palun käige ennem läbi selle sellest sellest sellest tarkvarpalast onju,
+mis selle ilusamaks muudab. A selleks vaj
+jah
+jah
+sellepärast seda õpetati ikka nii nüüd selgub, et mu telefonist on alles 20%
+akut ni mul tundub, et ma jään jään oma õhtut veetma siia. ilma chat abita sa
+mõtled nii siin ma sain ta laadima ma jään igal juhul praegu kümnekaks
+minutiks veel siia kui keegi tahab minuga arutada või küsida midagi või
+mõtestada mõtelda oma oma töökoha puhul siis saab mulle juurde astuda ja
+ma ja ma püüan püüan kommenteerida nõuanda, kui võimalik on. Ma loodan,
+et te saite mingisuguse veidikene inspiratsiooni sellest asjast. Ee sellisele ma
+ma olen arvinud veidikene veidikene kitsamalt kitsamalt kitsamalt neid
+tutvustama ühele ettevõtte või ühele tegevusalale, kus kus saab tuua nagu
+kõiki huvitavaid näiteid, et kui on inimesed, kes on väga erinevatest
+valdkondadest, on kohe kol raske leida sellist praktilisi näiteid, mis kõiki kõiki
+kõnetavad. Aga kui teil neid näiteid pähe tuleb, siis pange ka sinna
+tagasisesse, siis ma järgmine kord kasutan neid. Talja pidi ka tegema omas
+isegi koolitus juures ma tean. Ma räägin teile ühe nalja. Tuleb siis mees, tuleb
+restorani, läheb restoranipidaja juurde, et vabandage, mul ei ole toole.
+Restoranipidaja vastab, aga te panite ju ainult laua kinni. Kas polnud nii? Mul
+on nii head naljad, ma tean.
+Kasuta arvutis, mida sa muidu ei kasuta. Ta tegelikult ma ütlen, mul mul ma ei
+ole endale installi. Mul ei ole praegu vaba arvutit, aga mul sõbrad kasutavad
+on ilmas rahul, et töötab ja teevad igasugu asju ja ma ei tea mis asjad noh
+vaid noh ta võib igasuguse lollusi teha, et ta ta õplo õplo on siis asi, mille sa
+istud oma arvutisse ja annad talle õigus, et mis iga tunni aja tagant ärkab üles
+ja teeb asju, mida ta mis tal endale pähe tuleb, mida ta teha võiks, onju.
+Sellehulgas asju, mida sa talle ütled, et ta võiks teha, aga ta on
+konfigureeritud nii, et tal võib ka endal mõtteid tulla või ühesõnaga ta loob
+mingeid ülesandeid endale ja see, kuna ta neid ülesandeid endale ise loob,
+siis siis neid ülesandeid mõnikord lõppevad sellega, et ärkate hommikud
+ülesse ja teieid on kõik ära kustutatud, et teil lihtsam elu oleks või midagi
+muud sellist, onju, et et ta on veidikene veidikene ohtlik selles suhtes, aga
+you only live once. Muidu on
+No ta me loodame, me loodame, et ta ai on meie suhtes heatahtlik, et et mina
+niisama ära ei kuuta
+ikka heast tahtest. Jah. Mina usun, et mina usun, et maailma lõpus me oleme
+kõik õnnelikud, et me suudame õnnelikult välja. Aga ma võib-olla eksin.
+Kuidas eest
+õnn pärast räägin sulle omavahel. Ma küsin pigem sellise küsimuse, et kas sa
+oled juhlikult kursis, tead, et ee kui palju või tähendab, et ütleme, et Eesti
+riigis on palju andmeid kogutud. Noh, inimeste kohta riiklikes andmebaasides
+kasutatakse ainult ühe XD ja nende andmete põhjal ju mm tehakse
+proaktiivseid teenuseid. No sündmusteenuseid, et et kas sa tead, kui palju on
+seal kasutatud või või kui palju kasut
+õnn pärast räägin sulle omavahel. Ma küsin pigem sellise küsimuse, et kas sa
+oled juhlikult kursis, tead, et ee kui palju või tähendab, et ütleme, et Eesti
+riigis on palju andmeid kogutud. Noh, inimeste kohta riiklikes andmebaasides
+kasutatakse ainult ühe XD ja nende andmete põhjal ju mm tehakse
+proaktiivseid teenuseid. No sündmusteenuseid, et et kas sa tead, kui palju on
+seal kasutatud või või kui palju kasut
+Ma võin sulle oma lühikese kogemuse puhul peast riigisektoris võim sulle
+kinnitada, et Eesti riigi andmed on nii hästi hoitud, et neid ei kasutata mitte
+millekski. Nad hoitakse väga hästi, et raske on neid kasutada, et et ei, et ma
+ma ei ma praegu see ma tean, et Eesti isik tegelikult tegeleb teise intellekti
+võimaluste kasutamise võtmisega aktiivselt ja nii edasi. Aga aga see
+veidikene ta nagu riik nagu riigi puhul nagu teatud peal olemagi peab, aga
+aga ta veidikene käib selliselt noh läbi bürokraatliku rada ja ja edasi, et et see
+need praegu vist hiljuti hiljuti hiljuti vähemalt valmisid kesksed riskihinnangud
+siin teenuste pakkujatel ja nii edasi, mis on väga suur asi edasi juba, et et siis
+ei pea iga iga asutus iseseisvalt seda tegema ja nii edasi. Aga võin pärastest
+rääkida, et aga riik riik kindlasti ma tean, et riik tegeleb sellega, riigil võtavad
+asjad veidikene rohkem aega kui kuiettevõtetel mõnikord. Ja praegu see
+praegu see see toimib. Okei, aga ma tän tänan teid kõiki kohale tulemast ja ja
+ma ütlen, kui kellelgi on mingisuguseid mõtteid, küsimusi, andke mulle julgelt
+teada.

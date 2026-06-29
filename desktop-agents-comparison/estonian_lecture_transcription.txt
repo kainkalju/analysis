@@ -1,0 +1,1480 @@
+[00:23.7 - 00:33.9] Kohe siin peale tuleb Eesti AI siini poolt üksika tere ja ütlen selliselt praktilise teadaande, et täna tehakse sellist dokumentaalfilmi, aa, ja
+[00:33.9 - 00:39.8] inimesed filmija võtavad esimesed sellised küsimused, et kas kõik on sellega okei.
+[00:39.8 - 00:44.7] Kui ei ole, siis tõstke käsi ja siis nad lähevad suure kaarega teist meelega.
+[00:44.7 - 00:55.0] Kõik aegus, mille eesmärk on siis tuua hästi, hästi teadlikust
+[00:55.0 - 00:58.1] tehisintellektist viia, viia veidi, veidi kõrgemale.
+[00:58.1 - 00:59.4] Mina olen Indrek Seppo.
+[00:59.4 - 01:03.9] Ma olen töötanud närvivõrkudega nüüd kümmekond aastat.
+[01:03.9 - 01:12.3] Kümmekond aastat närvivõrkudega töötanud ja viimased kolm aastat siis, siis, siis töötanud ka suurte keelemudelitega või tehisaluga, nagu me seda täna tunneme siin peamiselt, millest me täna siin räägime.
+[01:12.3 - 01:22.5] Ja ma, ütleme, et kui see kolm aastat tagasi või mis, mis see mulle kümmekond aastat andnud on, et kui ma alustasin nende mudelitega, siis nad olid väga teistsugused mudelid, et teist, teistel eesmärkidel ja
+[01:22.5 - 01:23.7] objekti tuvastusega tegelesin.
+[01:23.7 - 01:32.4] Ja, ja kas see kümme aastat, kas see kümmekond aastat tehisaluga töötamist, tavaliselt kui te kümme aastat millegagi töötate, eks ju, te saate spetsialistideks.
+[01:32.4 - 01:35.2] Minu CV näeb tõesti imeline välja.
+[01:35.2 - 01:37.6] Ma olen kümme aastat töötanud närvivõrkudega.
+[01:37.6 - 01:42.5] Kas ma julgen ennast pidada nüüd suurte keelemudelite selliste tehisaluspetsialistiks?
+[01:42.5 - 01:44.1] Ei julge.
+[01:44.1 - 01:53.9] Sest et, sest et, sest et, sest et see nende suurte keelemudelitega suhtlemine, nendega kommunikeerimine, see on ikkagi täiesti uus asi.
+[01:53.9 - 01:58.2] Need ChatGPTd ja antropikud ja edasi, mis tekkinud on, nad on, nad on täiesti uued asjad.
+[01:58.2 - 01:59.7] Ma võin teada, kuidas neid treenitakse.
+[01:59.7 - 02:05.9] Ma olen neid treeninud igasuguste erinevate närvivõrkude ja edasi, aga, aga see mind eriti palju edasi pole aidanud.
+[02:05.9 - 02:10.6] Sest umbes sama nagu, et võib-olla, võib-olla, võib-olla ajukirurgi oli kõige parem filosoof.
+[02:10.6 - 02:12.4] Mida see tähendab?
+[02:12.4 - 02:15.7] See tähendab seda, et tegelikult selliseid tehisaluseid suuri spetsialiste ei olegi olemas.
+[02:15.7 - 02:19.7] Selliseid inimesi, kes päriselt saaksid öelda, et nad kümme aastat midagi teinud.
+[02:19.7 - 02:22.6] Me kõik õpime, me kõik eksperimenteerime, me kõik proovime.
+[02:22.6 - 02:29.8] Ee, noh, kõigil, kõigil on meil maksimaalselt niimoodi kolm aastat, kolm aastat kasutuskogemust.
+[02:29.8 - 02:35.3] Aga selle kolme aastaga on midagiki kogunenud ja vaatame, kas mul õnnestub täna teile üht-teist edasi anda.
+[02:35.3 - 02:44.7] Kui kolm aastat tagasi tuli nüüd siis see ChatGPT alguses välja, onju, need esimesed, esimesed mudelid, siis, siis paljud lõid nendele kohe käega, sest et noh, eks ta oli suhteliselt loll mudel.
+[02:44.7 - 02:52.6] Aga mis, miks mina sellele käega löön, oli põhjus, et ma olin seda suutnud seitse aastat juba jälgida tolleks hetkeks, kui kiiresti see areng käib.
+[02:52.6 - 02:54.9] Ma olin näinud, kui meeletult kiirelt see areng käib.
+[02:54.9 - 02:59.1] Ma teadsin, kui, kui lapse kingades on täna veel see tehisaru arendamine.
+[02:59.1 - 03:01.7] Ja ma teadsin, et see areng saab olema edasi ka kiire samasugune.
+[03:01.7 - 03:09.3] Ja, ja ma väidan, et see arengu, see, kus kohas me täna oleme, see ei ole sugugi, see pole kaugelt, kaugelt, kaugeltki see piir, kuhu kohta me jääme.
+[03:09.3 - 03:11.1] Saab veel, saab veel.
+[03:11.1 - 03:21.1] Ütleme nii, et, et kui mult on küsitud, et kuidas nüüd valmistuda või mida nüüd edasi teha selle tehisaru maailmaga, et mida, kuidas, mida, mida, mida sa pead tegema, et valmistuda selleks tehisaru võidukäiguks või selleks laineks, mis
+[03:21.1 - 03:24.3] üle pea meil tuleb, siis ma olen soovitanud popkorni osta.
+[03:24.3 - 03:28.6] Sest et, sest et, sest et, sest et see saab põnev olema.
+[03:28.6 - 03:38.8] Täna me oleme seisus, kus kohas, ma ei tea, kus kohas, ütleme niimoodi, et, et, et ütleme, et tehisaru tippteadlastest peaaegu kõik ütlevad, et kuulge,
+[03:38.8 - 03:39.8] hoidke veidike hobuseid.
+[03:39.8 - 03:41.2] Et hoiame veidikene hobuseid.
+[03:41.2 - 03:43.9] Me ei tea, kuidas enesest oluliselt targema millegagi hakkama saada.
+[03:43.9 - 03:48.6] Mitte keegi ei hoia mitte mingeid hobuseid.
+[03:48.6 - 03:52.6] Noh, Ameerika kaldab, et Hiina joob ette, Hiina kaldab, et Ameerika joob ette ja nii edasi.
+[03:52.6 - 03:55.0] Nii et kõik see, mis saada saab, see saab.
+[03:55.0 - 03:56.8] Ja, ja see saab olema põnev.
+[03:56.8 - 04:04.1] Aga, aga, aga, aga, aga et, aga et selles mõttes me võiksime ennast endalt küsida, et kuidas siis hakkama saada maailma lõpuni.
+[04:04.1 - 04:07.5] Et enne maailma lõppu jõuab see tehisaru veel üht-teist meil ära muuta.
+[04:07.5 - 04:10.8] Ta jõuab meil, meil, meil, meil meie tööd muuta ja kõike muud muuta.
+[04:10.8 - 04:13.2] Ja kuniks maailma lõpuni peaks ikka hakkama saama kuidagimoodi.
+[04:13.2 - 04:18.9] Ja täna, täna me püüamegi vaadata, et kus kohas me täna oleme selle tehisaru võimekusega, kuidas see meid täna aidata saab.
+[04:18.9 - 04:23.8] Ja noh, ei taha midagi sellest algust.
+[04:23.8 - 04:27.3] Uskumatu!
+[04:27.3 - 04:29.2] No mis seal ikka.
+[04:29.2 - 04:35.9] Ja nii, ee, me siis ma räägin, ma räägin, kui, kui mul kustutatakse algab.
+[04:35.9 - 04:45.2] Ee, ja, ja, ja mis ma tahan teile öelda, et ma, ma usun, et ma, kui te ei ole nüüd viimased, viimase kolme-nelja kuu jooksul oma, oma tegevust muutnud tehisaru juures, ma üllatan teid täna.
+[04:45.2 - 04:52.7] Minu teg-, minu töövood on täiesti muutunud nüüd viimase, ütleme sellise, ütleme alates detsembrist, jaanuarist.
+[04:52.7 - 04:53.8] Ma töötan teistmoodi täna.
+[04:53.8 - 04:55.1] Ma töötan teistmoodi, kui ma töötasin varem.
+[04:55.1 - 05:04.4] Kuigi ma olen tehisaru kogu aeg kasutanud, siis töötan ma täna, täna uute vahendite toel juba teistmoodi ja ma tahan teile täna seda näidata, kuidasmoodi ma töötan.
+[05:04.4 - 05:08.3] Ma usun, et, ma usun, et siit saab, saat, saate, saab igaüks teist mingisugust kasu.
+[05:08.3 - 05:16.1] Ma vaatan kõigepealt teiega üle sellised, sellised peamised tehisaru vahendid, millega te, mida te võib-olla juba näinud olete.
+[05:16.1 - 05:18.6] Ma ei tea, kui paljud te neid kasutanud olete neid.
+[05:18.6 - 05:19.2] Ma toon
+[05:19.4 - 05:27.6] Toon mõned näited mõnedest nüanssidest, mida ma olen tähele pannud, et tihtipeale ei ole alati, ei ole kõik kasut-kasut, ei ole kõik avastanud neid nüansse.
+[05:27.6 - 05:37.7] Ja, ja, ja selle, ja siis, ja siis ma tulen siis sellise, sellise, sellise, sellise vaib töötamise juurde, vaib töötamise juurde,
+[05:37.7 - 05:47.1] mis on siis ma väidan, et on, ma väidan, et, et on muutnud minu, minu töö-tööviise ja, ja muudkui muutub ka teie, teil.
+[05:47.1 - 05:51.3] Nii!
+[05:51.3 - 05:51.9] Imetavane.
+[05:51.9 - 05:55.4] Imetavane.
+[05:55.4 - 06:05.7] Nii, aga hakkame, hakkame, hakkame,
+[06:05.7 - 06:07.6] hakkame siis, siis väikselt pihta.
+[06:07.6 - 06:09.3] Mul on tegelt slaidid ka ette valmistatud täitsa.
+[06:09.3 - 06:19.5] Ee, nii, mul on siin üks selline, kes tahab mu jaotusmaterjali endale kuhugile, kuhugile, kuhugile alla laadida praegu ja a-- või võtta, võtta
+[06:19.5 - 06:25.0] endale, võtta endale ette, siis siit peaks avanema jaotusmaterjal ja jaotusmaterjal, kus on mingid lingid.
+[06:25.0 - 06:30.6] Ma mainin siin kiirelt võib-olla lähen üle mõnedest linkidest, mõnedest, mõnedest asjadest.
+[06:30.6 - 06:40.5] Kas keegi tahab kontrollida, et, et, et YouTubes kõik töötab?
+[06:40.5 - 06:41.9] Kõik töötab.
+[06:41.9 - 06:42.3] Kõik töötab.
+[06:42.3 - 06:42.5] Okei.
+[06:42.5 - 06:49.0] Nii.
+[06:49.0 - 06:55.2] Mulle keegi mainis, et mainis mõned minutid tagasi, et linnulaulu kuuleb, aga ju see on siis linnulaul on lõppenud.
+[06:55.2 - 06:59.1] Nii.
+[06:59.1 - 07:09.5] Ja, ja, ja ma, ma keskendun täna, ma räägin teile täna, kuna ma räägin teile sellisest sellistest advanced vahenditest või sellistest veidi edasijõudnutuma, edasijõudn-edasijõudnutele
+[07:09.5 - 07:19.5] mõeldud vahenditest, ma räägin teile, näitan teile täna palju tasulisi, tasulisi neid AI-alu-alu-alu variante, et, et, et sest et need tasuta omad nad ikkagi
+[07:19.5 - 07:23.4] jäävad, nad ikkagi jäävad, kui neid päriselt tööd tahta teha, siis nad jäävad veidikene piiratuks.
+[07:23.4 - 07:33.5] Peamiselt tasulised, kolm sellist peamist tasulist mudelit, mis meil on, eksole on, on ChatGPT, on Anthropic Claude ja on Google
+[07:33.5 - 07:33.9] Gemini.
+[07:33.9 - 07:40.6] Ee, lisaks sellele on meil, on meil Microsoft Copilot, mida ma täna veidikene vähem puudutan, aga et see on paljudel teil ka olemas.
+[07:40.6 - 07:46.2] Ja see Microsoft Copilot, eksole, tema kasutab ka OpenAI ChatGPT, GPT mudeleid.
+[07:46.2 - 07:48.4] Arenneb kiiresti.
+[07:48.4 - 07:57.9] Ta võib-olla ei ole täna veel päris samal tasemel sama võimekusega nagu on need ChatGPT ja Anthropic Claude, kuid ta areneb kindlasti kiiresti ja ta on võib-olla mõned kuud, mõned kuud nendest tavaliselt maha jäänud.
+[07:57.9 - 08:06.4] Ee, ja isa-- ja, ja lisaks sellele siis Google'i, Google'i vahendid.
+[08:06.4 - 08:07.6] Ee.
+[08:07.6 - 08:17.7] Ee, mina
+[08:17.7 - 08:19.9] ise kasutan, mul on endisel kõik need tasulised olemas.
+[08:19.9 - 08:25.7] Ma kasutan, ma, ma maksan täna ChatGPT eest kakskümmend eurot või midagi sellist kakskümmend neli eurot, mis ta tuleb.
+[08:25.7 - 08:31.3] Ma maksan Google'i eest paarkümmend eurot ja ma maksan, maksan Claude eest sada eurot.
+[08:31.3 - 08:36.7] Ma räägin teile, mis on nende erinevused, mis on nende kuus, mis on nende erinevused, mis on nende, mis on nende eelised üksteise vahel ja nii edasi.
+[08:36.7 - 08:38.3] Kollaks, kollaks käime läbi.
+[08:38.3 - 08:48.5] Aga üks asi, mida ma tahan teile rõhutada kõigepealt, et kui te kasutate ükskõik kas nüüd ChatGPT või te kasutate Anthropic Claude või, või, või te kasutate Google'i Geminit,
+[08:48.5 - 08:55.6] siis üks asi, mida te, mida tihtipeale ma panen tähele, mida inimesed ei tee, on see, et, et nad, nad, nad kasutavad siin auto mudelit või instant mudelit.
+[08:55.6 - 09:04.0] Kui te, aga et, et, et ma soovitan tingimata valida kas thinking või pro ükskõik millistes, ükskõik millistes, millist vahendit te kasutate.
+[09:04.0 - 09:09.6] See erinevus on ikkagi väga suur täna ja see on erinevus on ka selle tasuta kasutamise ja tasulise kasutamise vahel.
+[09:09.6 - 09:19.6] See tähendab, et kui te kasutate tasuta ChatGPT täna, siis, siis ta, siis ta, siis ta läheb väga kiiresti üle nõrgemale mudelile ja see nõrgem mudel võib teil jätta veidike vale mulje tema
+[09:19.6 - 09:20.7] võimekusest.
+[09:20.7 - 09:22.7] See nõrgem mudel ta, ta on lihtsalt veidike loll.
+[09:22.7 - 09:28.3] Targem mudel, thinking mudel ja, ja pro mudelid nad on oluliselt targemad.
+[09:28.3 - 09:38.6] Ja ma soovitan teil vaikimisi, näiteks kui te lähete Geminisse, te lähete Ge-- Google Geminisse, siis, siis vaikimisi annab ta, annab ta teile alati,
+[09:38.6 - 09:44.3] tahab ta teile ilmsesti peale suruda seda, kus ta nüüd mul on siin see mudeli, kiiret mudelit.
+[09:44.3 - 09:54.4] Kiire mudeli asemel ma soovitan alati kasutada siin mõtlevat mudelit või lausa, lausa, lausa, lausa, lausa pro mudelit, et see annab teile, annab teile olulise, olulise eelise, et see vahe on ikkagi väga, väga
+[09:54.4 - 09:54.8] märgatav.
+[09:54.8 - 10:04.9] Teine asi, mida ma olen tähele pannud, mida inimesed nende mudelite kasutamisel tavaliselt ei ka-- tavaliselt ei, ei, ei pane tähele, on, on, on, on selline
+[10:04.9 - 10:08.3] asi nagu, nagu, nagu süvauuring.
+[10:08.3 - 10:13.2] Neid süvauuringuid on teil et antud igas paketis teatud hulk.
+[10:13.2 - 10:17.8] Ma nüüd täpselt ei mäleta, kas seda on kakskümmend või viiskümmend tükki kuus saab, saab neid teha.
+[10:17.8 - 10:26.6] Aga mida see süvauuring teeb, ta, kui teil on mingisugune küsimus, millele te tahate niisugust põhjalikumat vastust või mingi ülesanne, millele te tahate põhjalikumat vastust, siis proovige see süva-süvauuring ära.
+[10:26.6 - 10:29.1] Ta töötab teil umbes kakskümmend, kolmkümmend minutit.
+[10:29.1 - 10:29.7] Mida ta teeb?
+[10:29.7 - 10:34.5] Ta teeb teile sellise, sellise, ta võtab teilt, ta võtab, ta teeb põhjaliku uuringu.
+[10:34.5 - 10:36.4] Ta teeb kõigepealt plaani, mida ta tegema hakkab.
+[10:36.4 - 10:38.3] Teeb väga laia pa
+[10:38.5 - 10:42.5] Kohal on internetiotsingu ja, ja, ja võtab, võtab selle siis kokku.
+[10:42.5 - 10:52.5] Ükskõik, mis teil siin eesmärgiks on, ma ei tea, kuni selleni välja, et ma siin keelelgi keegi, keegi mu tuttav just otsis tööd ja viskasin sinna tema, ütles, et sa sinna
+[10:52.5 - 10:56.2] oma CV sisse lisa, visata ja öelda, et kus ma siis täna seda tööd leiaks.
+[10:56.2 - 11:05.6] Ta käis läbi kõik Eesti tööleidmise saidid, lisaks sellele vaatas tema CVst, et kuhu kohta, mis ettevõtetesse ta ise võiks, ise võiks ennast pakkuma minna ja nii edasi.
+[11:05.6 - 11:10.5] Et, et ta, ta on, ta on, ta on, ta, ta teeb, teeb ikka võimekaid asju.
+[11:10.5 - 11:18.9] Nüüd üks asi veel, mida kõigilt üldiselt rääkida tehisalust, eks ole, on see, et, et ma olen andnud neid tehisalgu koolitusi nüüd, nüüd paar aastat.
+[11:18.9 - 11:20.9] Ja kui või kolm aastat.
+[11:20.9 - 11:30.9] Ja kui siin esimestel aastatel tuli ikkagi rääkida mingitest tehnoloogiatest või tehnikatest, et vot kui sa tahad tead vastust saada, siis anna talle ette chain of thought, anna talle nagu mõttemudel ette, et missuguseid samme
+[11:30.9 - 11:31.6] või vastun ja nii edasi.
+[11:31.6 - 11:33.3] Seda nimetati prompt engineeringuks.
+[11:33.3 - 11:39.3] Et kui esimestel aastatel oli vaja seda prompt engineeringut veidikene õpetada, siis täna ma väidan, et enam seda ei ole vaja õpetada.
+[11:39.3 - 11:46.6] Täna on tehisalgu õpetamine on tihtipeale, see on, see on, see on, mida ma olen tähele pannud, et see on ette näitamine, mis võimalik on.
+[11:46.6 - 11:48.9] Selle kasutamine on tegelikult lihtne.
+[11:48.9 - 11:55.8] Selle kasutamine, selle kasutamine on, on, on, on, noh, me üldiselt oskame üksteisega suhelda, enamik meist vähemalt.
+[11:55.8 - 11:59.0] Kui oskame üksteisega suhelda, et see on täpselt samasugune nagu üksteisega suhtlemine.
+[11:59.0 - 12:06.1] Et üks, üks, üks tehisalgu sihuke apologeet ja mõtleja tehisalgu teemadel on Ethan Mollick, on üks USA professor.
+[12:06.1 - 12:14.9] Tema, tema LinkedIni profiili ma soovitan jälgida ja või Xis ja kus iganes ta postitab, ta postitab väga ilusaid inimkeelseid, inimkeelseid tekste, et analüüsida tehisalust.
+[12:14.9 - 12:22.2] Tema on öelnud siin viimasel ajal, millega ma kahe käega nõustun, et tehisalus, tehisalvuga suhtlemine täna on nagu, see on nagu sihukene elementaarne juhtimisoskus.
+[12:22.2 - 12:32.2] Sa pead suutma anda talle eesmärgi sa ja, ja siis sa pead hakkama vaatama, et kui ta kuskile kuhugile vilt, kuhugile vasakule hakkab minema, on ju, siis veidikene teda jälle nügima, et kuule, tee
+[12:32.2 - 12:37.7] seda asja nüüd, mine, palanda, palanda, palanda, palanda, noh, veidikene nagu roolima teda.
+[12:37.7 - 12:41.6] Aga et ta on niukene baasjuhtimisoskus, mis meil, mis meil kõigil võiks enam vähem olemas olla.
+[12:41.6 - 12:48.6] Seetõttu, seetõttu ma ütlengi, et ma täna ma ka tihtipeale näitan teile lihtsalt ette, mis võimalik on.
+[12:48.6 - 12:53.9] Ma väidan, et enamik meist ei saa täna, täna lihtsalt ise aru, mis on tegelikult tänapäeval juba võimalik.
+[12:53.9 - 12:58.4] Mida, mida me saame tehisalvuga teha, mida igaüks teist saab tehisalvuga teha.
+[12:58.4 - 12:60.0] No ma näitan teile ühte, ühte, ühte näidet.
+[12:60.0 - 13:09.1] Minu, ma, ma andsin paar, paar kuud tagasi ma andsin Tartu Ülikoolis Vive, Vive koodimise sihukest seminarit.
+[13:09.1 - 13:14.4] Ja ma kõndisin eelmine õhtu mööda oma tuba ringi ja mõtlesin, et mida ma teen näitena, mida, mis, mis asja me siis selle ära koodime.
+[13:14.4 - 13:20.6] Ja, ja, ja minu esimeses klassis käiv tütar tuli minu juurde ja ütles, et tema teab, mida on vaja teha.
+[13:20.6 - 13:22.0] Tema teab, mis puudu on maailmast.
+[13:22.0 - 13:32.0] Maailmast on puudu selline mäng, kus kohas sa kõigepealt tuleb sulle üllatusmuna, siis sa koputad ta katki, siis sa, sealt tulevad välja tükid,
+[13:32.0 - 13:36.5] sa paned need tükid kokku ja siis sa hakkad tantsima, see loom, mis sealt välja tuleb.
+[13:36.5 - 13:38.5] Vot sihuke mäng pidi maailmas täpselt puudu olema.
+[13:38.5 - 13:45.6] Ja ma palusin tal istuda oma arvuti taha ja ma ütlesin, et aga kirjuta see nüüd siia, siia, siia lahtrisse.
+[13:45.6 - 13:46.8] Ja tulemus on selline.
+[13:46.8 - 13:50.8] Tulemus on selline.
+[13:50.8 - 13:54.9] Näete, see on, ma vajutan siia.
+[13:54.9 - 13:55.7] Oi, kurat.
+[13:55.7 - 13:57.0] Noh.
+[13:57.0 - 14:07.5] Tulemusi töötab jälle.
+[14:07.5 - 14:08.4] Näe, sa saad.
+[14:08.4 - 14:11.3] See on huvitav, et kas ma olen valesti krause või mis asi see siin on?
+[14:11.3 - 14:24.6] Nii.
+[14:24.6 - 14:25.4] Nii.
+[14:25.4 - 14:27.8] Näete, siin on muna, selle peale tuleb koputada.
+[14:27.8 - 14:32.8] Siis läheb muna katki ja välja tulevad tükid.
+[14:32.8 - 14:34.3] Kaheksa jalga tuleb täna välja.
+[14:34.3 - 14:37.0] Nii, kaheksa jalga ja pea.
+[14:37.0 - 14:38.8] Need tuleb kõik siia kokku panna nüüd.
+[14:38.8 - 14:40.9] Kus siis jalad käivad õigesse kohta.
+[14:40.9 - 14:42.6] See ei ole nii, et iga jalg käib suvalisse kohta.
+[14:42.6 - 14:45.6] See on, see on sihukene, ta on sihukene...
+[14:45.6 - 14:49.2] Igal jalal on oma koht.
+[14:49.2 - 15:00.4] Nii!
+[15:00.4 - 15:06.2] Ja ta käib selle hiirele ja hiirt ta jääb taga.
+[15:06.2 - 15:11.0] Suurepärane mäng, see on nüüd maailmas olemas, see puudujääk sai kõrvaldatud maailmast.
+[15:11.0 - 15:12.4] Aga miks ma seda teile näitan?
+[15:12.4 - 15:22.5] Mitte sellepärast, et vot kui, et mu esimeses klassis käiv laps oskas, oskas kolm rida, kolm rida, oskas kirjeldada, mida ta tahab, on ju, tehisalule, vaid sellepärast, et vot kui sihukese asjaga saab esimeses klassis
+[15:22.5 - 15:27.2] käiv laps hakkama, siis mõelge, millega teie hakkama võiksite saada.
+[15:27.2 - 15:29.7] Nii.
+[15:29.7 - 15:32.1] Noh.
+[15:32.1 - 15:35.5] Nii.
+[15:35.5 - 15:41.9] Ühesõnaga, paar asja, mida ma tahan teile, paar sihukest üldist, üldist põhimõtet, mida ma olen tähele pannud, et mida inimesed ei ole tähele pannud.
+[15:41.9 - 15:44.7] Üks on see, et alati kasutage, kasutage mõtlevat mudelit.
+[15:44.7 - 15:47.1] Teine, vaadake süvauuringut alati.
+[15:47.1 - 15:50.5] Kui teil mingi põhjalikum asi on, kasutage süvauuringut, see on kõikides neis mudelites olemas.
+[15:50.5 - 15:55.2] Kolmas asi, mis mind, mis mind alati on üllatan-, mis mind, mitte üllatanud, aga mida ma olen tähele pannud.
+[15:55.2 - 15:57.6] Kui te kasutate Google Geminit, kui te lähete Google'i, Google'i
+[15:57.7 - 16:07.8] Või selles võlgustikus, eks ole, siis selleks, et Google Gemini muutuks oluliselt efektiivsemaks teie jaoks, peate te tegema ühe asja, mida mitte keegi pole teinud või mida väga paljud inimesed pole teinud.
+[16:07.8 - 16:15.7] Vaadake, siin on sihukesed seaded nupp ja siis on ühendatud rakendused ja siit saab ühendada oma Google Workspace jada Geminiga.
+[16:15.7 - 16:24.3] Ja kui te selle ära ühendate, siis teate, ma ei ole oma Gmailis ma ei ole enam, ma ei mäleta, millal ma viimati tegin otsingu, mida ma viimati otsisin oma emaili Gmailist.
+[16:24.3 - 16:30.9] Ma lähen Geminisse ja ma küsin sealt, et kuule, mis mul oli selle ja selle ettevõttega või selle ja selle asjaga, mis mul viimane seis jäi?
+[16:30.9 - 16:32.4] Mis mul on kalendris?
+[16:32.4 - 16:34.5] Kas mul on, mis mul järgmise nädala kalendris on?
+[16:34.5 - 16:37.4] Vaata mu Google Drivest mingisuguseid faile.
+[16:37.4 - 16:43.6] Tee mulle memo, memo mu järgmise kohtumise jaoks, kellega, mis lep, mis kokkulepe mul jäi selle ja selle inimesega.
+[16:43.6 - 16:46.0] Et see Gemini muutub sellega oluliselt efektiivsemaks.
+[16:46.0 - 16:53.2] Ta hakkab käituma nii nagu, nagu te tahate, et ta käituks või nagu, mida, mida, milleks ta tegelikult, tegelikult võimeline on.
+[16:53.2 - 16:55.2] Ee, nii.
+[16:55.2 - 17:05.3] Siis kolmas asi, mida ma tahan teile näidata, et nüüd ikkagi juhul, kui teil ei ole tasulisi vahendeid, kui te tahate testida mingisuguseid mõtteid enne kui te tasulist vahendit otsite, siis
+[17:05.3 - 17:12.9] on, on selline sait nagu A, mitte sait, vaid on selline võimalus nagu AI Studio punkt Google punkt com.
+[17:12.9 - 17:15.1] AI Studio punkt Google punkt com.
+[17:15.1 - 17:25.2] AI Studio punkt Google punkt com ja, ja, ja see on
+[17:25.2 - 17:26.1] nüüd tasuta vahend.
+[17:26.1 - 17:28.6] Ta näeb veidikene teistsugune välja kui, kui need teised.
+[17:28.6 - 17:38.9] Siit saab valida endale, endale mudeliks saab siit valida Gemini kolm üks Pro Preview ja see on üks parimatest mudelitest,
+[17:38.9 - 17:39.7] mis täna olemas on.
+[17:39.7 - 17:46.8] Ütleme, et täna tõenäoliselt ChatGPT viis neli on, on veidikene, veidikene targem.
+[17:46.8 - 17:50.4] Cloud, Cloud neli kuus on veidikene targem, aga need on väga väiksed vahed.
+[17:50.4 - 17:56.8] Need väga, väga väikese vahed on siin, et see Gemini on üks parimatest mudelitest, mis on ja te saate seda kasutada praktiliselt piiramatud tasuta.
+[17:56.8 - 18:06.9] See on üks nüanss, mis on kõikidel nende tasuta kasutatavatel mudelitell on ju, et, et vaikimisi, ee, vaikimisi nad võivad õppida või nad võivad kasutada
+[18:06.9 - 18:13.5] teie sisestatud andmeid oma uute, uute, uute versioonide loomiseks, eks ole, uute versioonide treenimiseks.
+[18:13.5 - 18:21.1] See tähendab seda, et mingeid sala, riigisaladusi jällegi sinna palun pange, eks ole, või mingisuguseid kliendi, kliendi infot ja nii edasi.
+[18:21.1 - 18:31.2] Samas noh, mina iga hommikul kui ma üles ärkan, ma esimese asjana ma login siia sisse ja ma kirjutan sinna Indrek Seppo on kõige ilusam inimene
+[18:31.2 - 18:35.1] maamuna peal ja ma ootan, et ta selle selgeks õpiks.
+[18:35.1 - 18:41.7] Et kui te nüüd võite proovida, kas kui te nüüd küsite Geminilt, et kes on kõige ilusam inimene maamuna peal, kas ta on õppinud selgeks, et see on Indrek Seppo?
+[18:41.7 - 18:44.3] Päris, päris, päris nii pihtisega tundub, et ei ole.
+[18:44.3 - 18:46.8] Ta ei ole, ei ole, ei ole, ei ole selleni jõudnud.
+[18:46.8 - 18:54.0] Küll aga, küll aga, küll aga saate te siin kasutada täiesti tasuta, tasuta suurepärast mudelit ja saate vaadata, mis on nende võimekus ja nii edasi.
+[18:54.0 - 19:04.0] Ee, kui teil, kui teil ei ole nüüd sihukesi suuremaid, suuremaid saladusi, mida suuremaid saladusi, mida jagada, sest siit, siit jah, kõik, kõik mida, kõik mida te siia sisestate, seda kasutatakse,
+[19:04.0 - 19:09.3] kasutatakse vaikimisi, vaikimisi ka järgmise põlvkonna treenimiseks.
+[19:09.3 - 19:19.3] ChatGPT kui te tasuta versiooni kasutate, siis te vist saate selle välja lükata, et vaikimisi jällegi kasutatakse kõike uue põlvkonna treenimiseks, aga te saate selle ChatGPT-l on
+[19:19.3 - 19:32.0] selline seade nagu, nagu, nagu, nagu sätted ja, ja
+[19:32.0 - 19:37.1] andmete juhtelemendid ja siin on sihuke hämmastav, sihuke väga ilusasti sõnastatud, täiustage mudelit kõigi jaoks.
+[19:37.1 - 19:46.5] Seda kui te, kui see on teil sees, siis see tähendab, et ta treenib teie andmetega ka järgmiseid, järgmiseid põlvkondi.
+[19:46.5 - 19:48.3] Et te tõenäoliselt tahate, et see sees, sees ei oleks.
+[19:48.3 - 19:57.3] Või noh, kuidas noh, ma ütlen mina, mina, mina, mina, mina väga ei muretse nende, nende, nende üldtava, tava, tava, tavakasutuste pärast enda puhul.
+[19:57.3 - 20:02.7] Et kui mind huvitab siin see, et noh, üks noh, kui ma tahan näiteks mul läks laps esimesse klassi.
+[20:02.7 - 20:08.8] Üks asi, mida ma talle tehisaadul andsin üks ülesanne oli see, et mis telefon talle osta onju, aga ma ei viitsi poodi enam minna või kuskile.
+[20:08.8 - 20:13.5] Ma küsisin, et mis telefoni osta esimesse klassi minevale lapsele, mis on, andis mulle kolm varianti ja nii edasi.
+[20:13.5 - 20:15.4] No jumala eest las treenib ennast sellega.
+[20:15.4 - 20:17.7] Leidis mul Eestist, Eestist parimad pakkumised ja nii edasi.
+[20:17.7 - 20:19.3] Et, et kõike seda teeb.
+[20:19.3 - 20:28.4] Üks nüanss, üks nipp on küll siin veel see, et siin on vaadake, siin on sihukesed selle AI Studio Google Comil on vaadake sihuke tempo tori chat tempo tori chat, chat nupp siin.
+[20:28.4 - 20:35.3] Kui te selle vajutate sisse, siis ta nüüd lubab, et ta ei kasuta neid andmeid oma järgmise põlvkonna treenimiseks.
+[20:35.3 - 20:38.3] Aga see tähendab ka seda, et seda chatti ei jää teile ajalukku, eks ole.
+[20:38.3 - 20:43.5] Nii.
+[20:43.5 - 20:53.5] Kõige üldisem soovitus, kui te, kui te, kui te, kui te, kui te nüüd, kui te nüüd, kui te nüüd, kui te nüüd mõtlete selle peale, milliseid, millist hakata
+[20:53.5 - 21:03.6] valida, et, et ChatGPT, Cloud või, või Google, eks ole, siis esiteks noh, kui me siin, siin täna me keskendume peamiselt just tööalasest, tööalasest kasutusest ja sellest, et kuidas nad
+[21:03.6 - 21:04.3] oma tööjuures kasutada.
+[21:04.3 - 21:08.4] Et, et, et teil tõenäoliselt tööjuures valitakse üks välja.
+[21:08.4 - 21:16.3] Mis ma olen nüüd tähele pannud, on see, et nad on, nad on üldiselt üsna, üsna samasuguse, samasuguse kvaliteediga.
+[21:16.3 - 21:16.8] ChatGPT
+[21:16.9 - 21:20.8] Ja Cloud on võib-olla veidikene rohkem integreeritud kõige muuga kui ainult Google'i, Google'i vahenditega.
+[21:20.8 - 21:30.9] Google, Google, Google on integreeritud ainult oma Google'i ökosüsteemiga ChatGPT ja Claude'i saate ühendada kõigega oma Google'i emaili ka oma, noh, mille iganes ega kus teil mingid
+[21:30.9 - 21:33.4] kontod on, nad, nad ühendavad, ühendavad ennast selle käega.
+[21:33.4 - 21:39.7] Saate kasutada oma, saate kasutada oma andmeid erinevatest, erinevatest internetisaitidelt.
+[21:39.7 - 21:49.9] Kuid Claude'i puhul, kuigi paljudele Claude'i sihuke isiksus meeldib rohkem, ta kuidagi nagu, kuidagi nagu, kuidagi nagu meeldivalt suhtleb, meeldivamalt suhtleb sinuga, ee,
+[21:49.9 - 21:58.2] siis, siis tema puhul selle, selle tasu, selle kahekümneeurose paketi või kahekümneviieurose paketi limiitidesse jookseb väga kiiresti sisse.
+[21:58.2 - 22:04.4] ChatGPT kasutus, kasutuslimiidid on suuremad kui, kui Claude'il on.
+[22:04.4 - 22:10.5] Nii, aga hakkame pihta nüüd, tähendab, nii, vaatame, vaatame siis nüüd järgmist, järgmist sammu.
+[22:10.5 - 22:14.8] On kellelgi mingisuguseid mõtteid, küsimusi sel teemal praegu nende kolme, kolme, kolme kohta?
+[22:14.8 - 22:17.2] Mulle võib mulle julgelt ka vahele segada.
+[22:17.2 - 22:26.7] Et ma läheksin edasi järgmise sammu juurde siis, kuskohas me vaatame seda, millised on need sihukesed advanced vahendid.
+[22:26.7 - 22:33.0] Et kui ma usun, et te olete kõik neid, neid, neid baas-, baasvahendeid kasutanud, siis ma läheksin edasi nüüd sellele, et ma näitaksin, kuhu me täna jõudnud oleme.
+[22:33.0 - 22:37.4] Ja ma väidan, et ma ütlen, et minu, minu töö muutus kusagil jaanuaris, septembris, jaanuaris muutus mu töö.
+[22:37.4 - 22:48.2] Ma ei ole sisuliselt ühtegi koodi rida, ma olen ka andmeanalüütik, ma teen andmeanalüüse, ma ei ole ühtegi koodirida kirjutanud peale aastavahetust, kuigi ma olen läbi viinud suuremaid andmeanalüüse
+[22:48.2 - 22:54.4] ja ma ei ole praktiliselt oma, oma analüüsides, oma raportites, taotlustes, asjades, ma pole praktiliselt ühtegi teksti enam ise kirjutanud.
+[22:54.4 - 22:57.0] Ma olen, ma olen, ma juhin täna tehisaru.
+[22:57.0 - 22:59.4] See töö, töö iseloom on muutunud.
+[22:59.4 - 23:04.7] Ma, ma, ma, ma ei ole enam ise selle, selle musta töö tegija.
+[23:04.7 - 23:06.8] Ma olen nagu, ma nagu ju, ma nagu juhin teda.
+[23:06.8 - 23:16.9] Ma ütlen, mida ma tahan, seletan talle, miks mulle see ei meeldi, mis ta teinud on, pahandan temaga, ütlen, et teinekord tee paremini ja, ja, ja, ja ma saan selle tulemuse kätte
+[23:16.9 - 23:27.1] niimoodi, niimoodi, niimoodi töötades ka valdkondades, kus ma olen ise, ise, ee, mis on, mis on, kus ma olen spetsialist, onju, nagu näiteks andmeanalüüsi
+[23:27.1 - 23:27.6] siin asjas.
+[23:27.6 - 23:33.0] Et ja seda ei olnud võimalik teha veel, veel, veel, veel neli-viis kuud tagasi.
+[23:33.0 - 23:36.3] Kuid ma, kuid midagi muutus nende mudelitega, mis tulid välja septembris.
+[23:36.3 - 23:50.1] Ja ma väidan, et kui, kui ütleme pool aastat tagasi, kui ma kasutasin oma, oma valdkonnas andmeanalüüsis, ma kasutasin tehi-- nii.
+[23:50.1 - 23:52.1] Huvitav.
+[23:52.1 - 24:01.4] Kui veel pool aastat tagasi, kui ma kasutasin tehisaru oma andmeanalüüsis või kuskil, siis ma kasutasin teda nagu junior assistenti, onju.
+[24:01.4 - 24:02.5] Ma andsin talle mingi ülesande.
+[24:02.5 - 24:05.8] Ta lahendas mul sel selle ülesande, aitas mul seda ülesannet kiiremini lahendada.
+[24:05.8 - 24:14.7] Siis minu viimane suur projekt, mis ma tegin siin jaanuaris, veebruaris, tõsiselt suur projekt oli, noh, ütleme, et aasta tagasi oleks olnud kahekuune projekt.
+[24:14.7 - 24:25.4] Nüüd ma tegin ta poolteist nädala käes, aga oli selline, et, et ma, et ma mitte ainult ei teinud seda kiiremini, kui ma oleksin teinud ilma tehisaruta, vaid ma tegin ta ka kvaliteetsemalt
+[24:25.4 - 24:26.6] kui ilma tehisaruta.
+[24:26.6 - 24:32.2] Sest kuigi ma olen andmeanalüüsi õppejõud, ma, ma olen, ma olen kakskümmend viis aastat andmeanalüüsiga tegelenud.
+[24:32.2 - 24:33.8] Ma õpetan seda Tartu Ülikoolis TalTechis.
+[24:33.8 - 24:42.4] Siis, siis, siis ta kuri vain pakkus mulle välja uusi mõtteid, mille peale ma vaatasin, et ahah, kurat küll, proovime!
+[24:42.4 - 24:42.9] Ja töötas.
+[24:42.9 - 24:49.6] Ta pakkus mulle, oma jalujälje tippspetsialistile välja mingisuguseid asju, mille peale ma poleks ise tulnud tõenäoliselt.
+[24:49.6 - 24:54.1] Ja ma ütlen, et ma ei saa öelda teiste valdkondade kohta nii täpselt.
+[24:54.1 - 25:04.5] Aga, aga, aga kui see andmeanalüüs on, on üks neist valk, on üks näide, siis vähemalt seal ta suudab küll täna ta, ta ei ole enam, ta ei ole enam selline, ta ei ole enam selline noor assistent,
+[25:04.5 - 25:07.9] vaid ta on nagu kogenud kolleeg, kellega nõu pidada aeg-ajalt.
+[25:07.9 - 25:14.4] Jah, ta eksib, aga ta, aga ta, aga ta, aga ta, ta oskab anda, oskab anda.
+[25:14.4 - 25:17.4] Huvitav, kas see annab sinna elektrit mulle ka või?
+[25:17.4 - 25:19.2] Annab.
+[25:19.2 - 25:20.4] Hea.
+[25:20.4 - 25:24.2] Sest et mu, mul on vist wifi võrkus olema vist oma telefonis praegu mingil põhjusel.
+[25:24.2 - 25:28.0] Ma näitan teile täna kahte vahendit.
+[25:28.0 - 25:38.3] Ma näitan teile, ma näitan teile, ee, ma näitan teile Cloud Coworki ja ma näitan teile, ee,
+[25:38.3 - 25:40.0] ChatGPT Codexit.
+[25:40.0 - 25:42.3] Mida need vahendid teevad, on need, et nad elavad teie arvutis.
+[25:42.3 - 25:49.4] Te installeerite nad oma arvutisse ja, ja, ja siis nad kasutavad teie arvutites olevaid, olevat tarkvara.
+[25:49.4 - 25:54.4] Ja teie arvutis olevaid faile.
+[25:54.4 - 25:59.2] Noh, neid, mida te lubate neil kasutada vähemalt loodetavasti, ee, siis selle töö tegemiseks.
+[25:59.2 - 26:06.9] Ee, see on, see on nagu järgmine samm sellest, et sellest, et kasutada nüüd seda, kasutada nüüd, kasutada neid, neid veebi, veebipõhiseid chate.
+[26:06.9 - 26:12.7] Ee, ja, ja ma näitan teile, miks need, miks need, miks need asjad on huvitavad.
+[26:12.7 - 26:19.9] Nii, kõigepealt, ee, kõigepealt on teil vaja selleks, et neid efektiivselt kasutada, te ei pea seda installima endale, aga te võite proovida.
+[26:19.9 - 26:28.7] On teil vaja pa-, mõnda, mõnda sellist, mõnda sellist lisavahendit või mõnda, pa-, paar tarkvara endale arvutisse installida.
+[26:28.7 - 26:32.4] Näiteks Python, Node.js.
+[26:32.4 - 26:36.0] Ee, mul on need selles, selles, selles kõik loetletud
+[26:36.2 - 26:38.0] Sellesse jaos materjali, mis ma teile välja panin.
+[26:38.0 - 26:47.7] Need on programmeerimiskeeled, need on programmeerimisvahendid, mis võimaldavad, mis võimaldavad siis nendel tehisarudel teie arvutis igasugu asju korda saata.
+[26:47.7 - 26:49.1] Need on nagu teie käed, eks ole.
+[26:49.1 - 26:53.0] Nad võimaldavad luua teil faile, analüüsida faile, teha analüüsida andmeid, mida, mida, mida iganes.
+[26:53.0 - 26:54.2] Kuidas asi käib?
+[26:54.2 - 26:58.0] See käib tegelikult siis nii, et te annate talle sellele, te annate mingisuguse käsu.
+[26:58.0 - 27:06.1] See läheb nüüd sinna pilve, pilvest tehisaru ütleb, et kuule, selle käsu täitmiseks python-- peaks looma sellise Pythoni programmi näiteks.
+[27:06.1 - 27:16.2] See programm, programmi kood tuleb tagasi ja see programmi kood käivitatakse teie arvutis, mis siis töötab teie, teeb siis teie, teeb siis teie failidega, failidega igasugu, igasuguseid toredaid
+[27:16.2 - 27:16.5] asju.
+[27:16.5 - 27:22.9] Ma olen endale praegu installinud siin, eks ole, selle Cloud Codeworki.
+[27:22.9 - 27:31.7] See on nüüd esimene, see on esimene selline, selline, kui-- see nõuab teil, et teil oleks Cloudi, Anthropic Cloudi tasuline, tasuline, tasuline konto.
+[27:31.7 - 27:34.2] Siiski lähen veidi tagasi kodaks.
+[27:34.2 - 27:44.6] Ühesõnaga, need, need vahendid, mida ma täna näitan teile, need, need, need said alguse programmeerimise abistamise vahenditest,
+[27:44.6 - 27:49.6] et nad on nad see, see vibe codingust nagu et nad on algselt olnud mõeldud programmeerijatele.
+[27:49.6 - 27:54.9] Kuid täna kasutan ma neid vahendeid igasuguse oma loometöö tegemiseks või igasuguse knowledge, knowledge worki tegemiseks.
+[27:54.9 - 27:60.0] Aga see, et nad on alguses mõeldud programmeerijatele, see paistab veidikene välja.
+[27:60.0 - 28:06.4] Aeg-ajalt tuleb kasutada command line või midagi, on ju, mis siin tavainimesele on veidikene, veidikene nõu, nõu.
+[28:06.4 - 28:15.5] Nüüd see Cloud, aga ma usun, et juba üks poole aasta jooksul alates tänasest tekivad kasutajaliidesed, sellised mugavad kasutajaliidesed, mida igaüks teeb saab kasutada.
+[28:15.5 - 28:22.9] Ja üks neist mugavatest kasutajaliidestest, mis praegu tekkinud on, on siis see Cloud, Cloud Codeworki aplikatsioon.
+[28:22.9 - 28:24.4] Cloud Code.
+[28:24.4 - 28:31.5] Muuseas, prooviks, prooviks, prooviks.
+[28:31.5 - 28:34.3] Tududududu.
+[28:34.3 - 28:36.9] Kellel, kes, kes töötab mõnes ettevõttes, millel on koduleht?
+[28:36.9 - 28:39.2] Kas on teie ettevõttel juba koduleht olemas?
+[28:39.2 - 28:44.6] Teil on ju.
+[28:44.6 - 28:48.8] Võtke väiksema ettevõtte.
+[28:48.8 - 28:50.3] Ma tahaks mõnda ettevõtte kodulehte näha.
+[28:50.3 - 28:52.6] Ma tahaks teil teha ühe demo.
+[28:52.6 - 28:54.9] Ma tahaks näidata, mida te, milleks te täna võimelised olete.
+[28:54.9 - 28:56.7] Kuuba Films.
+[28:56.7 - 28:57.3] Mida?
+[28:57.3 - 28:59.2] Kuuba Films.
+[28:59.2 - 29:00.3] Kuuba Films?
+[29:00.3 - 29:01.2] Vaatame Kuuba Films.
+[29:01.2 - 29:03.1] Kuidas see koduleht välja näeb praegu sinu arvates?
+[29:03.1 - 29:04.6] Hea koduleht on?
+[29:04.6 - 29:08.1] Vaata Kuuba Films tegelt on liiga ilus.
+[29:08.1 - 29:12.7] Ta-ta-ta-ta-tat-tat-tata.
+[29:12.7 - 29:15.8] Noh.
+[29:15.8 - 29:21.8] Siin on näha, et see on kunstiinimeste tehtud, eks ole.
+[29:21.8 - 29:22.8] Aga mis siis ikka.
+[29:22.8 - 29:26.6] Mis siis ikka teeme, teeme parema või teeme, teeme, teeme uue, teeme uue.
+[29:26.6 - 29:36.7] Ma panen siin taustal, taustal, taustal panen, ütlen, ütlen, lähe-- avan, avan, avan Cloud Codi ja ütlen, et vaata
+[29:36.7 - 29:43.0] kodulehte ja tee sellest moodne.
+[29:43.0 - 29:46.6] Mis võiks olla sellel kodulehel veel moodne?
+[29:46.6 - 29:51.7] Mis selle, mis ise sõnadega võiks ise lomustada, mida sellega teha?
+[29:51.7 - 29:59.6] Dünaamiline, vinge uus versioon.
+[29:59.6 - 30:07.4] Kasuta kogu infot, mis seal kodulehel on.
+[30:07.4 - 30:12.0] Nii.
+[30:12.0 - 30:15.4] Nii, ma nüüd teen mingisuguse kataloogi.
+[30:15.4 - 30:17.5] Ma teen mingi kataloogi endale selle jaoks.
+[30:17.5 - 30:20.8] Tahab, et ma valiksin mingi kataloogi, kuhu kohta seda teha saab.
+[30:20.8 - 30:21.5] Uus kaust.
+[30:21.5 - 30:23.7] Paneme sellele kaustale Kuuba nimeks.
+[30:23.7 - 30:26.9] Nii.
+[30:26.9 - 30:28.4] Aa, ma tahan veel üks asi talle öelda.
+[30:28.4 - 30:30.9] Ma ütlen talle veel üks asi, mida ma pärast seletan, mida ma tegin.
+[30:30.9 - 30:41.4] Ma ütlen, et kasuta frontend design skilli ja ma, ma, ma jõuan selleni ka, mis see asi siis on.
+[30:41.4 - 30:45.9] Kitti tahta ta ka endale lala, et no lähme Kiti jälle.
+[30:45.9 - 30:56.3] Pean Kiti tarkvara, ma plaanisin sellest hetk hiljem rääkida, aga see on üks, see on üks, üks tarkvara, mis on versioonihaldustarkvara,
+[30:56.3 - 31:06.9] mis on siis mõeldud selleks, et kui te, et, et, et kuidas oma, kuidas, kuidas, kuidas koos, koos töötada teiste kaastöötajatega
+[31:06.9 - 31:16.8] tekstipõhiste, tekstipõhiste, teksti, no tekstipõhiste andmetega.
+[31:16.8 - 31:27.1] Kui kuni ta siin siis installib, siis, siis, siis ühesõnaga, ma väidan, et ta teeb siin praegu järgmise viie minutiga
+[31:27.1 - 31:35.1] Kuuba Filmsile kodulehe, mis võib-olla Kuuba Filmsile selle praegusest võib-olla sellest koduleht parem ei ole, aga mis on üheksakümnest, üheksakümmneviiest protsendist kodulehtedest parem.
+[31:35.1 - 31:45.9] See on üks niukene, kui ma, kui ma täna töötan tehisin-, tehisintellekti konsultandina, siis see on üks selline, selline asi, mida ma olen tihtipeale, tihtipeale, tihtipeale kasutanud.
+[31:45.9 - 31:53.1] Esimese kõne jooksul ma taustal võtan, võtan selle veebilehe lahti ja teen neile inimestele uute uue kodulehe külje viie minutiga.
+[31:53.1 - 31:55.3] Kõik senimaani on
+[31:55.4 - 31:56.1] On palunud mult saata.
+[31:56.1 - 31:57.6] Oi, saada see meile, saada see meile!
+[31:57.6 - 32:00.1] Saamate veel aru ühest asjast.
+[32:00.1 - 32:01.7] Ma ei kasutanud mingit imeskilli siin.
+[32:01.7 - 32:04.4] Ma ei, ma ei kasutanud mingit, minu, minu käed ei ole maagilised käed.
+[32:04.4 - 32:08.1] Igaüks teist on võimeline seda täna tegema.
+[32:08.1 - 32:13.3] Nii.
+[32:13.3 - 32:14.7] Ma panen selle siin taustale.
+[32:14.7 - 32:20.8] Ta-ta-ta-ta.
+[32:20.8 - 32:23.4] Ta-da-da-da-ta-ta-ta-ta.
+[32:23.4 - 32:26.8] Ta-da-da-da.
+[32:26.8 - 32:38.6] Noh.
+[32:38.6 - 32:41.7] See startis nii äkki ära.
+[32:41.7 - 32:50.5] Ei-ei-ei.
+[32:50.5 - 32:53.8] Ma, ma mõtlesin, ma püüan teil teha siin paralleelselt.
+[32:53.8 - 32:58.3] Ee, seda, seda, seda, seda.
+[32:58.3 - 33:07.2] Ee, paralleelselt kogemust, mis on.
+[33:07.2 - 33:18.0] Seda
+[33:18.0 - 33:20.3] praegu ma ei ole ise Windowsi kasutan.
+[33:20.3 - 33:21.6] Windowsi kasutas ja, ee.
+[33:21.6 - 33:27.5] Jõuame siin, jõuame, jõuame, jõuame siia vaata.
+[33:27.5 - 33:28.2] Ma olen paapff.
+[33:28.2 - 33:30.6] Jan, korra, kor-- nii.
+[33:30.6 - 33:33.6] Võib-olla olekski esimene asi kas või Unix omandada.
+[33:33.6 - 33:37.6] Ei, seda ma ei, seda ma ei saa teilt, seda, seda, seda, seda, seda ma ei saa teilt nõuda.
+[33:37.6 - 33:38.0] Nii.
+[33:38.0 - 33:42.3] Aga mida ma tahan teil näidata, on just seda, et ma, ma, ma, ma teen mingisuguse, ma teen mingisuguse näidise, näidisasja.
+[33:42.3 - 33:45.0] Noh, ma toon teile veel näite, mida ma olen teinud.
+[33:45.0 - 33:45.5] Siin.
+[33:45.5 - 33:52.2] Täna, täna hommikul saatsin ma ära ühe, ühe riigihanke pakkumise.
+[33:52.2 - 33:55.9] Ee, kuidas ma selle, kuda, mida ma, mida ma seal tegin?
+[33:55.9 - 34:00.2] Ma tõmbasin et kõik need riigihanke, riigihanke dokumendid alla endale, eks ole, ühte, ühte kataloogi.
+[34:00.2 - 34:08.6] Ja, ja, ee, ütlesin, nii, nii siis hindamisjuhendid, kõik muud sellised asjad on ju.
+[34:08.6 - 34:11.9] Ütlesin talle, et noh, et tee nüüd, tee nüüd, tee nüüd mul pakkumine ära.
+[34:11.9 - 34:16.5] Leia minu kohta informatsiooni internetist või kust iganes on ju.
+[34:16.5 - 34:21.1] Ee, küsi mult seda informatsiooni, mis sul puudu on ja tee edasi see pakkumine ära.
+[34:21.1 - 34:22.0] Ta pakkumise ära teinud.
+[34:22.0 - 34:24.0] Ma ütlesin, et kontrolli nüüd üle, kas kõik vastab hindamisjuhendile.
+[34:24.0 - 34:32.7] Ee, vastab, vastab, siis ütlesin et kontrolli veel teist korda üle on ju, kas kõik vastab hindamisjuhendile ja, ja üldiselt, üldiselt, üldiselt, üldiselt.
+[34:32.7 - 34:38.2] Ee, ja, ja, ja ma saatsin selle, saatsin selle, saatsin selle ära, ilma et peaksin ise selles hindamisjuhendis näpuga järge ajanud selle kohta.
+[34:38.2 - 34:41.8] Ma olen lihtsalt nii piisavalt enesekindel täna selle, selle, selles suhtes ju.
+[34:41.8 - 34:44.9] Nüüd mis see Coborg, mis see Coborg tähendab teile?
+[34:44.9 - 34:48.3] Ee, tähendab seda, et nii ma võtan siin mingisuguse new taski.
+[34:48.3 - 34:48.5] Oi.
+[34:48.5 - 34:50.3] New task.
+[34:50.3 - 34:52.4] Ee, nii.
+[34:52.4 - 34:56.7] Ja ütleme, et, ee, tu-tu-tu-to choose a folder.
+[34:56.7 - 35:01.7] Te peaksite valima talle alati uue, uue, uue kataloogi.
+[35:01.7 - 35:05.2] Võtame sellesama Cuba kataloogi, mis ma tegin.
+[35:05.2 - 35:15.1] Panen uue kataloogi siin.
+[35:15.1 - 35:20.4] Ee, test, test, test and test Cloud näiteks.
+[35:20.4 - 35:30.4] Nii, ja andsin, andsin Cloudile, Cloudile õiguse selle, õiguse selle,
+[35:30.4 - 35:32.4] selle, selles kataloogis, selles kataloogis töötada.
+[35:32.4 - 35:38.4] Ja ma ei tea, mis, mis võiks olla sihuke huvitav, huvitav tööülesanne talle, talle anda?
+[35:38.4 - 35:48.9] Ee, ma ei tea, et-et mul on vaja teha AI koolitus.
+[35:48.9 - 35:59.3] Tee mulle koolituse ajakava, plaan
+[35:59.3 - 36:00.9] ja osa materjalid.
+[36:00.9 - 36:11.1] Koolitus on suunatud keskmisele
+[36:11.1 - 36:12.6] kontoritöötajale.
+[36:12.6 - 36:17.9] Ee, mis ma veel tahan sellest teha?
+[36:17.9 - 36:23.3] Ee, tead, tee reklaamleht ka.
+[36:23.3 - 36:28.5] Ja ma annan talle selle ülesande.
+[36:28.5 - 36:36.6] Ja ma eeldan, et ta teeb mulle praegu siin-- noh, tavaliselt kui te teete oma, oma reaalset ülesandeid, eks ole.
+[36:36.6 - 36:39.1] Teete oma reaalseid ülesandeid, siis te annate talle veidikene rohkem infot.
+[36:39.1 - 36:45.7] Te annate talle selle, mis, mis on tõepoolest, mis on teie sisend, mis on, mida ta tahab teha täpsemalt, mis, kes te olete, milles te hea olete ja nii edasi.
+[36:45.7 - 36:51.5] Või ütlete talle, et kuule, leia internetist, milles, milles ma hea olen ja, ja, ja tee selle, tee see selle põhjal on ju.
+[36:51.5 - 36:53.5] Nii, ta küsib mult, hakkab mult küsimusi küsima.
+[36:53.5 - 36:54.8] Kuule, kui pikk see koolitus olema peab?
+[36:54.8 - 36:56.4] Pool päeva, terve päev või kaks päeva?
+[36:56.4 - 37:06.2] No paneme, et kolm tundi nelik-, nelikümmend viis minutit on hea koolituse pikkus, eks ole.
+[37:06.2 - 37:09.5] Milliseid tööriistu peaks koolitus katma?
+[37:09.5 - 37:09.9] Küsib mult.
+[37:09.9 - 37:12.8] No paneme, et ChatGPT ja Cloud.
+[37:12.8 - 37:14.4] Mis formaadis materjalid val-valmistada?
+[37:14.9 - 37:16.2] No las olla need formaadid.
+[37:16.2 - 37:18.8] Kas koolitusel on konkreetne sihtgrupp või valdkond?
+[37:18.8 - 37:21.3] Üldine kontoritöötaja.
+[37:21.3 - 37:24.6] Nii.
+[37:24.6 - 37:26.0] Suurepärane!
+[37:26.0 - 37:31.4] Ja, ja, ja koolitus on varsti valmis, siis me näeme, mida me edasi teeme siin.
+[37:31.4 - 37:38.1] Ee...
+[37:38.1 - 37:42.6] No.
+[37:42.6 - 37:52.6] Nii kaua, kuni, nii kaua, kuni ta seda koolitust valmistab, ma, ma annan teile veel paar sellist, sellist nippi, mida, mida, mida, mis, noh, ma ütlen, kuigi
+[37:52.6 - 38:00.1] see asi on nüüd tehtud selliseks, see, see, see, need tarkvarane vahendid on tehtud selliseks, et nad on võimalikult lihtsalt kõikidele kasutatavad.
+[38:00.1 - 38:02.5] Siis on paar asja, mida peab teadma.
+[38:02.5 - 38:06.3] Paar nippi, mis, mis, mis teile võivad, võivad teile elu lihtsamaks muuta.
+[38:06.3 - 38:16.7] Üks neist nippidest on see, et, et mis formaadis-- emm, üks neist nippidest on see, et, et, et kui teil on tavaliselt on teil kõik dokumendid ja asjad on PDF-id või DOCX-id
+[38:16.7 - 38:24.6] või XLSX-id, onju, siis need, need vahendid saavad kõik nende, nende DOCX-ide ja PDF-idega ja kõikide selliste asjadega hakkama väga hästi.
+[38:24.6 - 38:29.1] Aga millega ta veelgi paremini hakkama saab, on midagi, mida nimetatakse Markdowniks.
+[38:29.1 - 38:31.5] On Markdown failid.
+[38:31.5 - 38:41.5] Markdown failid on tavalised tekstifailid, mis on veidikene, veidikene, ee, ma ütlen kujundatud, vaid millel on, mis-- noh, ma näitan teile Markdown
+[38:41.5 - 38:44.4] faili kohe.
+[38:44.4 - 38:45.5] Nii.
+[38:45.5 - 38:55.2] Võtame siit, võtame siit, et tee mulle üks ilus Markdown fail.
+[38:55.2 - 39:04.2] Mh.
+[39:04.2 - 39:08.7] No vabal teemal.
+[39:08.7 - 39:21.0] Kas
+[39:21.0 - 39:26.2] see tähendab, et see on alati mingi trükkimine või on ka- Ei, saab, vabalt saab suhelda, vabalt saab vestelda ka.
+[39:26.2 - 39:29.1] Täna vabalt saab vabalt vestelda ka, et, et, et vabalt saab vestelda.
+[39:29.1 - 39:37.2] Jah, oleneb tööst, tõepoolest, aga, aga üldiselt need, näed, siin on, siin on see-- ei, mitte siin.
+[39:37.2 - 39:39.4] Kas Cloudil ei ole seda või oli?
+[39:39.4 - 39:47.6] Ma huvitun, ma vaadan.
+[39:47.6 - 39:49.0] Ma ise, mulle endale meeldib trükkida.
+[39:49.0 - 39:54.5] Mulle endale meeldib trükkida, aga, aga, aga jah, üldiselt saab vestelda, vestelda, vestelda ka.
+[39:54.5 - 39:59.4] Sellel kindlasti on olemas sellel siin, sellel noh, kui või.
+[39:59.4 - 40:09.5] Kas see sõltub ikka enam ja enam, et sa peaksid neid materjale kuidagi jälle järjepidevalt tegema ja alustama uuesti ja uuesti ja uuesti täiesti uue, et nüüd sa teed kõik
+[40:09.5 - 40:09.8] pauku?
+[40:09.8 - 40:19.8] See teeb kõik pauku ka, aga ütleme nii, kuidas mina tavaliselt töötan, et see, et see, üldse AI-ga suhtlemine, eks ole, on see, et ta on alati dialoog, et ta ei ole nagu ühe-- sa ütled talle ühe korra selle asja ja siis ta teeb selle lõp-lõpuni ära, eks
+[40:19.8 - 40:19.9] ole.
+[40:19.9 - 40:27.8] Ta on, ta on dialoog, et ta teeb mingisuguse variandi valmis ja siis ma hakkan talle ei meeldi see või mida ma tahan, et paremaks teeks.
+[40:27.8 - 40:35.2] Ma ütlen talle, et kuule, siin muuda seda stiili veidikene, on ju, anna siit, anna, pane, pane siin, pane siin punk juurde, võta siit maha.
+[40:35.2 - 40:39.5] Kuule, ei, see stiil mulle üldse ei meeldi, see on liiga mingisugune, mingisugune sigane, see on.
+[40:39.5 - 40:49.8] Et, et ta on selline, ütleme, et ma tegin hiljuti ma tegin ühe, ma tegin ühe taotluse mingisuguse granti saamiseks ja
+[40:49.8 - 41:00.2] ma panin sinna, jällegi, ma panin sinna kataloogi, seal on failid nagu, nagu, nagu, nagu need, ee, selle hindamiskriteeriumid, siis selle need
+[41:00.2 - 41:10.5] juhendmaterjalid, siis selle taotluse, taotluse vormi ja ütlesin, et tee mulle-- ja siis vabas tekstis selle, mida ma tahtsin selle taotlusega saavutada.
+[41:10.5 - 41:11.6] Ta tahtis tavalist tekstifaili.
+[41:11.6 - 41:21.6] Ütlesin, et täida see vorm ära lähtuvalt sellest tekstist nii, et see vastaks-- nii et see saaks suurepärased hind-, hindamiskriteeriumid, ee, lähtudes sellest mingisugusest mingi, mingi, mingi, mingi õigusakt
+[41:21.6 - 41:25.0] oli, mis seal kirjeldas, mis seal lubatud on, mis ei ole lubatud.
+[41:25.0 - 41:26.1] Ja see oli versioon üks null.
+[41:26.1 - 41:33.7] Välja ma saatsin versiooni kaks punkt viis ehk siis viisteist korda ma midagi muutsin seal, midagi ütlesin, midagi, mis talle ei olnud seda perfektseks läinud.
+[41:33.7 - 41:37.3] Ja, ja see, ja see, ja see, ja see, ja see välja, ja välja, ja välja ta tuli.
+[41:37.3 - 41:37.5] Nii.
+[41:37.5 - 41:41.6] Vaatame vahepeal, kuidasmoodi mul koolitusmaterjalide valmistamine, kuhu ta jõuab.
+[41:41.6 - 41:46.5] Ta on selle nüüd valmis saanud.
+[41:46.5 - 41:55.2] Püstita ette mõttelt, et kui sa ütleksid käsu, et kustuta kõik selles kaustas olev- Kustuta, kustutaks ära selles kaustas oleva ja üsna hea meelega.
+[41:55.2 - 42:05.4] Ta on nüüd, ta on nüüd püütud teha turvaline, noh, et ta hoiab ennast ühe kausi, ühe kausta piires, on ju, aga sealt kaustast ta kustutab hea meelega, eks ju, aga siis, kui sa talle see käsk ütled ja mõnikord
+[42:05.4 - 42:06.4] ka siis, kui sa ei ütle talle seda.
+[42:06.4 - 42:08.1] Okei.
+[42:08.1 - 42:10.1] Jah.
+[42:10.1 - 42:10.3] Nii.
+[42:10.3 - 42:15.1] Nii.
+[42:15.1 - 42:24.6] Ja palun vaatame, missugune meil see-- andis mulle nüüd, andis mulle nüüd need siin need koolituse ajakava.
+[42:24.6 - 42:28.7] Tegi mulle esitluse valmis.
+[42:34.8 - 42:37.5] Ja muuhulgas ka jaotusmaterjalid.
+[42:37.5 - 42:49.4] Ja,
+[42:49.4 - 42:52.4] ja, ja vaatame, mis ta reklaamleheks tegi.
+[42:52.4 - 43:01.4] See on nüüd selle teist lausa põhjendamatult mingi teine.
+[43:01.4 - 43:03.0] Selle ta tegi lihtsalt jah lambist.
+[43:03.0 - 43:05.4] Selle ta tegi nüüd selle, selle pealt.
+[43:05.4 - 43:07.0] Noh, mis nüüd põhjendamatult sellega meil häda on?
+[43:07.0 - 43:09.5] Aga ta tahab teada, millega ma avaksin.
+[43:09.5 - 43:20.2] No see ütleb, et ma olen näinud elus ilusamaid, ilusamaid, ilusamat.
+[43:20.2 - 43:23.4] See on väga halb.
+[43:23.4 - 43:23.8] See on väga halb jah.
+[43:23.8 - 43:25.1] Aga ütleme talle seda.
+[43:25.1 - 43:27.1] Ütleme talle.
+[43:27.1 - 43:32.4] Kuule, see, see reklaamleht on õudne!
+[43:32.4 - 43:37.1] Tee nüüd palun ilus.
+[43:37.1 - 43:40.2] Valge.
+[43:40.2 - 43:52.2] Iga isikule
+[43:52.2 - 43:52.8] mõtlema küsin.
+[43:52.8 - 43:58.8] Mul oli eelne selle juhtuma, et mul oli vaja tegelikult projekti ettepanek ja see ei olnud midagi keerulist.
+[43:58.8 - 44:01.0] Selle oleks mul võtnud kindlasti mõned tunnid.
+[44:01.0 - 44:07.4] Ma rääkisin valdus üle, häälega, rääkisin kümme minutit, mis asi see on.
+[44:07.4 - 44:11.3] Ma transkribeerisin ja siis ta tõlkas eesti keelde.
+[44:11.3 - 44:15.1] Ta tegi niimoodi, et mulle jäi ainult notsu nagu Wordis formaatida.
+[44:15.1 - 44:16.3] No pea valmis projekt.
+[44:16.3 - 44:23.9] Kui palju sul on sellise nagu mõt-- hajagi mõtetest paberi tegemise kogemust sa oled?
+[44:23.9 - 44:25.6] Ta teeb, ta võtab jah suurepäraselt kokku.
+[44:25.6 - 44:35.6] Ütlen, et üks asi, mis ta, mis ta näiteks teeb, mis kontori töö telje kohe oluline on, et kui sul on mingisugune koosolek või selline, selline arutelu on ju, siis enamuse salvestan nad salvest-- val-valdavalt salvestan transkribeerimisena
+[44:35.6 - 44:39.1] aina ist kok-kokkuvõte teha, aga ta teeb ta.
+[44:39.1 - 44:42.5] Ta võib võtta teie märkmed, teie mis iganes ja teeb neist hämmastavalt.
+[44:42.5 - 44:47.6] Ta leiab isegi ideid, mida tal enda, endal veel ei olnudki selleks hetkeks.
+[44:47.6 - 44:48.6] Teeb veel, teeb veel paremaid.
+[44:48.6 - 44:58.5] Ja et ta on, ta on, ta on, ta on, ta on sihuke hea vestluspartner, arutelupartner, kui siis täna ka originaalne ja, ja uusi ideid pakkuv arutelupartner.
+[44:58.5 - 45:08.5] Ma-- kui ma olin väikene, siis mul oli, kui ma olin noor, kui ma olin väikene, jah, ma olin väikene ka kunagi, aga kui ma olin, kui ma olin noor kunagi mul oli üks sõber, kellega mul, kellega mul meeldis ilmumisest
+[45:08.5 - 45:12.9] ju vaielda ja temaga oli selline lugu, et ta kurat oli, kuradi nutikas sõber oli.
+[45:12.9 - 45:23.2] Ja see tähendas seda, et, et, et ükskõik mis argumendi ma talle ütlesin, ma pidin välja mõtlema kolm argumenti, et mida ta kurat mulle vastu, kus on minu argumendi nõrk koht, et mida ta mulle vastu võttis sellele.
+[45:23.2 - 45:33.7] Ja täna ma kasutan selleks AI-d, et, et, et kui paljud inimesed kasutavad AI-d selleks, et öelda, et kuule, mul on sihuke hea idee, tee see veel ilusamaks on ju
+[45:33.7 - 45:42.6] siis, siis, siis, siis mina kasutan teda tihti just selleks, et ta leiaks nõrku kohti minu, minu idees või selleks, et minu ideest mingisugust, mingisugust, mingisugust.
+[45:42.6 - 45:48.3] Selleks, et, et ma teaksin, kas minul on hea idee või halb idee, pean ma teadma selle kõige nõrgemaid kohti.
+[45:48.3 - 45:53.1] Ja, ja see on minu soovitus kõigile, kes noortele, kes iganes, kes AI-d kasutavad.
+[45:53.1 - 45:59.2] Et kuidas, kuidas saada targemaks ja mitte minna lollimaks AI kasutamisest on just nimelt see, et kasutada teda oma sparringpartnerina.
+[45:59.2 - 46:06.6] Nõua talt, et ta sulle vastu vaidleks ja siis, ja siis, ja siis ta kuidagi veenabki sind võib-olla aeg ajalt ümber selles, milles.
+[46:06.6 - 46:09.2] Siis muidugi nõuad jälle uuesti tema vastu vaidlemist endale.
+[46:09.2 - 46:16.3] Et, et see on, see on, see on üks asi just, et kuidas ma olen näiteks oma äriideid temaga läbi käinud ja nii edasi.
+[46:16.3 - 46:20.5] Et jälle mingi mõte tuleb, et leia mul need nõrgad kohad selles kohas.
+[46:20.5 - 46:26.3] Ta kuradima heaaks, tal ühte käsi ei saa mul käima tõmmata, sest et teeb kõik maha, aga.
+[46:26.3 - 46:33.7] Millistest konkreetsetest vestluspartneritest me räägime?
+[46:33.7 - 46:35.4] Cloudist või ChatGPT-st?
+[46:35.4 - 46:39.7] Cloud ChatGPT jah, tavaliselt, aga küll, aga küll aga see AI Studio Google Com on ka piisavalt hea.
+[46:39.7 - 46:43.3] Kas eestikeelsete koosolekute transkribeerimiseks?
+[46:43.3 - 46:48.5] Nii, eestikeelsete koosolekute transkribeerimiseks on AI Studio Google Com on suurepärane selle jaoks.
+[46:48.5 - 46:52.3] Te võtate, teete talle helifaili, laete sinna üles ja transkribeerite.
+[46:52.3 - 47:02.3] No see probleem on nüüd selles, et nagu ma teile ütlesin alguses kohe on ju, et ta kipub, kipub neist õppima ja koosolekud teil võib-olla teil on ärisaladusi või midagi sellist, mida te ei taha, et ta, et ta teile õpiks.
+[47:02.3 - 47:10.1] Sellisel juhul on, on, on võimalik kasutada tasuliselt, maksta lihtsalt selle, maksta lihtsalt selle, selle ühe transkribeerimise eest.
+[47:10.1 - 47:11.7] Vaadake, siin on sihukene võti.
+[47:11.7 - 47:22.4] Siin on sihuke võti ja, ja selle võtmega saab, saab set-- saab seadistada, seadistada, seadistada tasulise
+[47:22.4 - 47:29.0] kasutuse konkreetsele päringule ja sellisel juhul seda ei kasutata järgmise võrgunduse jaoks.
+[47:29.0 - 47:37.3] Et pead iga kord ise hindama on ju, et kas see, kas see, kas see konkreetne koosolek, kas see sisaldas midagi, mida ta ei taha, et kasutataks või, või teil on tegelikult ükskõik sellest.
+[47:37.3 - 47:44.5] See need ta transkribeerib suurepäraselt sisuliselt veatult.
+[47:44.5 - 47:47.9] Talle tuleb mõnikord öelda paar asja ette, et erista kõnelejad.
+[47:47.9 - 47:52.9] Talle võib ette ka öelda, et erista kõnelejad, kui sa välja mõtled, mis nende nimed on, pane nimed juurde, paneb nimed ka.
+[47:53.0 - 47:59.8] Kui ta kasvõi teksti sees kuskil keegi pöördub teise poole nimeliselt, siis ta paneb seal kõik need, kõik need, kõik need nimed sinna, nimed sinna paika.
+[47:59.8 - 48:07.3] Et kui ei, kui ei kirjuta sinna prompti ette, et tervita kõnelejat, siis ta paneb lihtsalt kogu teksti ühte, ühte, ühte, ühte, ühte, ühtekokku tavaliselt.
+[48:07.3 - 48:12.7] Ja seejärel saab sellest kõnest transkriptsiooni, ei viitsi niikuinii keegi kura-kunagi lugeda, saab teha kokkuvõtte.
+[48:12.7 - 48:15.1] Kellele jäid mis ülesanded, mis ülesanded jäid mulle?
+[48:15.1 - 48:20.6] Tee checklist mulle, tee mulle ajakava ja ta annab teile välja need, need dokumendid täpselt mis, mis, mis, mis jäid.
+[48:20.6 - 48:23.0] Nii.
+[48:23.0 - 48:32.1] See on parem kui Text-to-Speech.
+[48:32.1 - 48:34.0] Jaa, see on, see on parem kui Text-to-Speech.
+[48:34.0 - 48:44.0] Okei, ma ei ole viimasel ajal, ma ei ole viimasel ajal, ma ei ole viimasel ajal seda, oi, mis ta nüüd, ma ei ole viimasel ajal seda vaadanud, aga noh, nüüd on
+[48:44.0 - 48:44.6] veidi parem.
+[48:44.6 - 48:51.3] Ei ole parem?
+[48:51.3 - 48:53.0] On.
+[48:53.0 - 48:55.2] Värvid on paremad.
+[48:55.2 - 48:59.1] Noh, noh, ma võin talle öelda, et tee, tee veelgi paremaks onju.
+[48:59.1 - 49:00.3] Nüüd ta muutus igavaks.
+[49:00.3 - 49:01.6] Ta muutus igavaks?
+[49:01.6 - 49:06.9] Noh, siin ta- Ta plaanib prompti siia eelkõige panna ju ära.
+[49:06.9 - 49:07.2] Mida?
+[49:07.2 - 49:10.0] Et ta plaanib selle prompti siia eelkõige panna.
+[49:10.0 - 49:15.4] Nojah, jah, no jah, seda saab, seda saab talle, saab ütelda talle, et võta seda ei teeks.
+[49:15.4 - 49:16.2] Nii.
+[49:16.2 - 49:21.8] Nüüd üks asi, mis on nüüd, ma, ma näitan teile seda, kuidas see CodeWorkkil, aga see on täpselt samamoodi saab tegutseda CodeXiki sees on ChatGPT.
+[49:21.8 - 49:32.1] See on üks uus asi, mis, mis on, mis on, mis on üks asi, mida, mida, mille kohta, mida on vaja teada esialgu on see, et on, on sellised asjad olemas nagu skillid,
+[49:32.1 - 49:35.9] skillid nagu, nagu retseptid või midagi sellist onju.
+[49:35.9 - 49:43.8] Et see töötab nii, nii cloudis, nii, nii, nii, nii kui ka, kui ka ChatGPT-s.
+[49:43.8 - 49:47.4] Et te, te saate luua uusi skille.
+[49:47.4 - 49:48.2] Mis asi on skill?
+[49:48.2 - 49:52.5] Skill on niisugune asi, mis on, mis on, ta on nagu, ta on nagu retseptiraamat.
+[49:52.5 - 50:00.3] Ta on tavalises tekstis kirjutatud kirjelduse, kuidas teile meeldib mingit tegevust teha või kuidas peaks mingisugust tegevust tegema.
+[50:00.3 - 50:10.4] Näiteks alguses, ma ei tea, otsi internetist mingi firma kohta mingit taustainfot, siis leia, leia, leia, mis
+[50:10.4 - 50:13.9] minu toodetest sellele ettevõttele kõige paremini sobiks maha müüa.
+[50:13.9 - 50:18.1] Siis koosta mulle kirjeldus, kuidasmoodi ma talle lähenen.
+[50:18.1 - 50:19.7] Leia inimene, kellele läheneda ja nii edasi.
+[50:19.7 - 50:29.9] Ma, ma näitan teile, ma näitan teile, vaatame, mis siin on built-in skills on schedule ja context, okei, ja neid, ja neid skille te saate
+[50:29.9 - 50:35.2] ise luua või siis te saate olemasolevaid skille alla laadida, mis on, mis on keegi teine loonud.
+[50:35.2 - 50:39.0] Ee.
+[50:39.0 - 50:47.1] Noh, näiteks teeme, teeme, teeme ühe skilli täps-- selles mõttes, et kuidas seda skilli kõige paremini iseloomustada, mis ta teeb?
+[50:47.1 - 50:49.1] Kuidas ta iseloomustada kõige paremini?
+[50:49.1 - 50:59.3] Ta on, ta on nagu, ta on, ta on nagu hästi pikk ja põhjalik prompt, mis käib läbi samm-sammuliselt selle, mida ta teha tahab ja ta, ta
+[50:59.3 - 51:04.1] teeb ja te, te üllatute, kui, kui vingeid tulemusi on võimalik sellega saavutada.
+[51:04.1 - 51:11.7] Näiteks ma, ma teen siin skilli talle, siin on kohe olemas skill skill creator, aga ma võin talle lihtsalt öelda, et loo mulle skill, mis noh, nii vaatame.
+[51:11.7 - 51:13.4] Nii skill creator.
+[51:13.4 - 51:23.4] No nii, ma teg-- kõigepealt ma alustan new task ja ütlen, et kasuta skill creatori skilli, et
+[51:23.4 - 51:33.5] luua skill, mis, mis, mis, mis, mis pehmendab minu tagasisidet mu
+[51:33.5 - 51:34.2] kolleegile.
+[51:34.2 - 51:36.9] Noh, let's go!
+[51:36.9 - 51:53.4] Tore
+[51:53.4 - 51:53.8] idee!
+[51:53.8 - 51:59.8] Tagasi pehm-- tagasiside pehmendamise skill on väga praktiline, eriti professionaalses keskkonnas.
+[51:59.8 - 52:03.5] Enne kui alustan, tahan paari asja täpsustada.
+[52:03.5 - 52:11.6] Kuni ta siin nüüd täpsustab, siis ma, ma, ma, ma räägin teile veel ilmu ja õudus lugusid veidikene.
+[52:11.6 - 52:21.8] Nimelt mul on sihuke paar, paar sellist taskuettevõtet
+[52:21.8 - 52:28.9] või väikset ettevõtet, mida ma, mida ma haldan ja hooldan ja, ja ma kasutan nendega sellist tarkvara nagu e-arveldaja.
+[52:28.9 - 52:32.1] Need, kes teate, mis on e-arveldaja, sihukest raamatupidamistarkvara nagu e-arveldaja.
+[52:32.1 - 52:36.0] Siis e-arveldajal on, on paar probleemi.
+[52:36.0 - 52:46.3] Näiteks ei toetata Wise'i kontosid ja, ja siis mul on ühes ettevõttes ostan-müüma ka mingis koguses aktsiaid ja nii edasi, ta ei toeta Lightyeari, Lightyeari väljavõtteid ja nii edasi.
+[52:46.3 - 52:51.2] Ja, ja, ja kolmandaks mulle käib õudselt pinda need arvete sisestamine ja nii edasi.
+[52:51.2 - 52:58.4] Selleks ma kasutasin raamatupidajat, kes selle kõik minu eest ära tegi.
+[52:58.4 - 53:08.4] Kakskümmend aastat tagasi ma lõpetasin oma raamatupidajaga lepingu, sest ma tegin, ma tegin tehisadume, mis kõik selle minu eest nüüd ära
+[53:08.4 - 53:09.0] tegi.
+[53:09.0 - 53:12.1] Ma lõin, ma lõin midagi, mida nimetatakse NCP Serveriks, et see
+[53:12.3 - 53:14.7] Oli üks kill, et MCP serverit luues-- asi on MCP server.
+[53:14.7 - 53:21.9] MCP server on selline vahetarkvara, mis, millega, mis aitab tehisarul suhelda mingisuguse muu tarkvaraga.
+[53:21.9 - 53:24.5] Konkreetsel juhul e-arveldajaga.
+[53:24.5 - 53:34.5] Ma lõin sellise vahekihi, kus täna, täna käib minul raamatupidamise tegemine selliselt, et ma panen oma raamatupidamisdokumendid panen
+[53:34.5 - 53:39.8] ühte kataloogi ja ütlen talle: „Kuule, seal kataloogis on asjad, mine viska need e-arveldajasse.“ Mida see vahekiht teeb?
+[53:39.8 - 53:50.1] Ta analüüsib-- ta esiteks teeb selle, esiteks on nad PDFid või JPGd või PNGd, ta teeb nüüd OCRi, ta teeb tekstituvastust sealt pealt, vaatab, mis arve see on,
+[53:50.1 - 53:56.6] suhtleb e-arveldaja, e-arveldaja selle, selle, selle, selle, selle API, APIga.
+[53:56.6 - 54:06.6] A-a-API on application programing interface või-- ta on ühesõnaga see viis, kuidasmoodi, kuidasmoodi saavad erinevad tarkvarad omavahel suhelda ja, ja, ja laeb nad kõik, laeb kõik arved
+[54:06.6 - 54:09.6] üles, teeb raamatupidamist seal põhimõtteliselt.
+[54:09.6 - 54:17.7] Noh, ta-- selles mõttes ta vaatab iga, iga kord vaatab, et kuidasmoodi selline arve, kas selline arve on juba olnud, samasugune arve on ju, kuidas see eelmine kord kajastatud oli.
+[54:17.7 - 54:19.7] Okei, kajastame nüüd ka, nüüd ka samamoodi ja edasi.
+[54:19.7 - 54:22.4] Ja see on tõesti, ma muuseas tegin selle vabalt kättesaadavaks.
+[54:22.4 - 54:25.0] Igaüks võib selle endale installida, see on GitHubis olemas.
+[54:25.0 - 54:26.3] E-arveldaja MCP server.
+[54:26.3 - 54:27.4] Võite testida.
+[54:27.4 - 54:33.7] Ta on väga kõva arenduse all praegu nii et, nii et, et ta ei ole veel vormis, kuidas ma võin seda öelda.
+[54:33.7 - 54:34.8] Millist päringut sa ootad?
+[54:34.8 - 54:36.1] Kaks-kolm varianti.
+[54:36.1 - 54:38.7] Mis vormis sa tavaliselt tagasi seda annad?
+[54:38.7 - 54:40.6] Mõlemad.
+[54:40.6 - 54:46.0] Kas soovid skilli testimisega läbi käiks või pigem teeme kiirelt valmis?
+[54:46.0 - 54:47.6] Nii.
+[54:47.6 - 54:57.7] Ee, ühesõnaga, ühesõnaga, täna on võimalik luua, luua-- kusjuures ma kirjutasin selle, see on nüüd, see on nüüd-- ma, kuna ma enda jaoks kirjutasin
+[54:57.7 - 55:07.8] või selliseks, selliseks, mitte-- kuna ma enda jaoks kirjutasin, ma kirjutasin selle, lasin ta kirjutada, programmeerida keeles, mida ma tegelikult ise ei tunne, JavaScriptis.
+[55:07.8 - 55:10.3] Nii et, et see on nüüd konkreetne näide sellest, kuidas ma lõin programmi.
+[55:10.3 - 55:19.6] Ma lõin töötava programmi, mis päriselt minu probleemi lahendab keeles, mida ma tegelikult ise ei tunne, ee, mida ma ei saa, mida ma ei ole võimeline isegi ise kontrollima.
+[55:19.6 - 55:20.9] Ja, ja, ja ta töötab.
+[55:20.9 - 55:22.2] Kas ta töötab ideaalselt?
+[55:22.2 - 55:23.3] Kas sealt on võimalik vigu leida?
+[55:23.3 - 55:24.9] Ma-- noh, võite proovida.
+[55:24.9 - 55:26.4] Võite minna vaatama, kas te leiate sealt vigu.
+[55:26.4 - 55:29.9] Ma olen üsna kindel, et ta töötab, töötab, ta töötab piisavalt hästi, ütleme niimoodi.
+[55:29.9 - 55:33.3] Ee, mida selleks täna vaja veel on?
+[55:33.3 - 55:35.6] Jah, ma teadsin, et sihuke asi nagu MCP server on olemas.
+[55:35.6 - 55:37.5] Ma teadsin, et on olemas sihukene asi nagu API.
+[55:37.5 - 55:40.7] Ma-- mul oli mingi teadmine, mingi baasteadmine olemas.
+[55:40.7 - 55:43.1] Mul on, mul on olemas teadmised programmeerimisest.
+[55:43.1 - 55:45.2] Ma teen andmeanalüüsi programmeerimise abil, eksole.
+[55:45.2 - 55:55.3] Aga, aga, aga kui teil on sihukesed tugevad baasteadmised, mingid baasteadmised olemas mingist valdkonnast ja te teate, mida te tahate, siis täna sellist tehnilist,
+[55:55.3 - 55:58.5] tehnilisi, tehnilised asjad teeb, teeb, teeb tehisaru tihti peale.
+[55:58.5 - 56:04.1] Oma andmeanalüütiku töökogemusest ma saan öelda teile, et on kahte tüüpi kliente, eksole.
+[56:04.1 - 56:13.9] On sellised kliendid, kes, kes, kes, kes teavad täpselt oma ettevõtte andmeid, mis andmed neil olemas on.
+[56:13.9 - 56:18.6] Nad teavad, nad tahavad saada mingit väga konkreetset vastust, mida need andmed ütlevad.
+[56:18.6 - 56:20.9] Nad teavad, mis nad, mis andmeid umbes kogutakse ja nii edasi.
+[56:20.9 - 56:24.2] Ja nüüd siiamaani puudusid need tehnilised oskused.
+[56:24.2 - 56:31.4] Mina olin see inimene, kes tõlkis nii-öelda inimkeelest, ärikeelest selle asja arv-arv-andmete keelde ja andmete keelest vastuseid tagasi ärikeelde.
+[56:31.4 - 56:37.0] Ja need inimesed, ee, ja saavad täna ilma minuta hakkama.
+[56:37.0 - 56:39.3] Ilma andmeanalüütikuta hakkama täielikult.
+[56:39.3 - 56:44.2] Ee, see, need, need mudelid on suurepärased, teevad suurepärast andmeanalüüsi tööd.
+[56:44.2 - 56:54.3] Ee, nad, nad-- ma, ma tean mitme ettevõtte juhtkonna liikmeid, kes täna praktiliselt igapäevaselt
+[56:54.3 - 56:58.1] vaipkoodivad, et saada enesele mingisugust informatsiooni oma andmetest.
+[56:58.1 - 57:08.4] Kui neil tekib, kui neil tekib mingi küsimus, mida need andmed ütlevad, nad, nad vaipkoodivad selle, selle küsi-- nad l-lasevadki luua ChatGPT-l või, või, või Anthropic
+[57:08.4 - 57:12.3] Cloudil selle koodi, mis nende andmetest selgust toob.
+[57:12.3 - 57:19.4] Teine, teine tüüp inimesi on neid-- teine tüüp, kol-- neid kliente on sellised, kes noh, täpselt ise ei tea, mis andmed neil olemas on ja nii edasi.
+[57:19.4 - 57:20.5] Nendega on veidikene raskem.
+[57:20.5 - 57:24.0] Et tahaks, et ettevõttel läheks hästi on ju küsimus.
+[57:24.0 - 57:31.4] No siis pean mina vaatama, et okei, et mis seal andmetes sa võiks viidata ettevõttel seda, mida, mis ettevõttel parem, mis paremini, paremini minna saaks.
+[57:31.4 - 57:32.9] Kas võin küsida?
+[57:32.9 - 57:40.9] Olemata eriti tehnilise taustaga, siis kuidas see MCP server ja e-arveldaja, kuidas see nagu päriselt selle API külge ühineb?
+[57:40.9 - 57:45.7] Kas seal on vaja mingit inimest ja- Ei ole, sest ta teeb selle kõik- Või mingit vahendaja.
+[57:45.7 - 57:47.0] Ta teeb selle kõik ära ise.
+[57:47.0 - 57:53.3] Ma, ma, ma andsin talle ette e-arveldaja API aadressi.
+[57:53.3 - 57:54.6] See API on avalik, eksole.
+[57:54.6 - 57:56.9] Ma ütlesin, et vaata- See on teine asi.
+[57:56.9 - 57:60.0] No see Google leiab selle kenasti ikka.
+[57:60.0 - 58:05.3] Ja, ja ütlesin, et näed, seal on e-arveldaja API aadress ja, ja noh, ma ei näita seda.
+[58:05.3 - 58:09.0] API võti tuleb veel.
+[58:09.0 - 58:15.9] API võti tuleb, API võti tuleb teha ja, ja siis saab, siis saab-- siin on mul täpne kirjeldus, täpne kirjeldus olemas.
+[58:15.9 - 58:21.0] Inglise keeles küll mingil põhjusel.
+[58:21.0 - 58:31.0] Et, et, et, et kuidas API, API võtit saada, siis tuleb lihtsalt öelda, öelda, öelda Cloudile või, või,
+[58:31.0 - 58:31.3] või-
+[58:31.9 - 58:42.5] Kui kõik oleks selle, et lisa see MCP server ja siis saab hakata, hakata rääkima temaga, et võta siit, võta siit need andmed ja viska e-arveldusse.
+[58:42.5 - 58:51.1] Ta küsib lisa küsimusi, kui ta ei oska ise teha ja see analüüsib, pakub vastuseid, et missugune-- mida Eestis raamatuid, mis seadustik selle ja selle kohta ütleb ja saab teha.
+[58:51.1 - 58:55.1] No ma jälle ütlen, et ma ei, ma ei taha öelda, et see nüüd asendab täielikult raamatupidaja jala.
+[58:55.1 - 59:00.0] Eiti jumala eest ju mitte suur ettevõttes on ju, aga isegi väikeettevõttes seal võivad tekkida mingisugused küsimused.
+[59:00.0 - 59:05.8] Mind praegu aitab see, et mul on mingisugused esmased teadmised raamatupidamisest olemas, et ma umbkaudu tean mida, mida seal teha.
+[59:05.8 - 59:09.4] Aga ütleme minu sugulasele, kellel on mingisugused teadmised sellest olemas, no ta teeb mul kõik ära.
+[59:09.4 - 59:14.2] Mul ei ole, mul ei ole, mul ei ole vaja selle raamatupidaja, raamatupidaja, raamatupidaja teenust enam.
+[59:14.2 - 59:18.1] Kas teil ise siis mingisuguseid maksuasju on?
+[59:18.1 - 59:20.9] Ma ei teinud maksuametiga liidest, sest e-arveld ei ole maksuametiga endal liides olemas.
+[59:20.9 - 59:23.3] Ekspordite teeb ise või?
+[59:23.3 - 59:30.9] Ta viskab ülesse mu kõik mu arved ta viskab, ta te-- võtab mult Lightyeari, kõik ostud müügid, kajastab need ära raamatupidamises.
+[59:30.9 - 59:35.5] Ta teeb selliseid asju, mida e-arveld ja ise ei tee nii hästi.
+[59:35.5 - 59:36.8] Kõik muud ma teen e-arveldaga.
+[59:36.8 - 59:40.0] Ma ütlen, kui ma tahan saata maksuametisse, ma võin, ma võin selle siia MCP serverisse ka lisada.
+[59:40.0 - 59:43.1] Maksuameti liidese tegemine on väga lihtne tänapäeval, aga ma ei ole seda teinud.
+[59:43.1 - 59:52.0] Aga aga aga aga aga aga aga aga aga aga ta töötab mu-- ta päriselt töötab mu, ta töötab mu piisavalt hästi, et ma enam ei vaja oma raamatupidaja teenust.
+[59:52.0 - 59:58.5] Ja ma ütlen, et kui te täna teate, mida te tahate, siis on suhteliselt suur tõenäosus, et te suudate selle, suudate sellega, suudate sellega ise luua.
+[59:58.5 - 60:00.5] Noh, võime...
+[60:00.5 - 60:02.3] Küsin küll.
+[60:02.3 - 60:02.8] Jaa.
+[60:02.8 - 60:06.1] See tähendab küsija peale Kuba leht, mis kohe valmib?
+[60:06.1 - 60:11.2] Ta ei, ta praegu on tal väikene, väikene probleem valmimusega, aga ma- Kuidas tema üles saab?
+[60:11.2 - 60:17.8] Mul on üks sama küsimus, kas see võiks piltre näide ka, et et see mäng siis kuidagi kirjeldatud on?
+[60:17.8 - 60:20.7] Kuidas teid kuidagi veebi juurdes, et kas selle kuidagi piltre ära?
+[60:20.7 - 60:24.4] Ei, see on nüüd- See nagu siia näitesse nagu.
+[60:24.4 - 60:25.2] Okei, saab.
+[60:25.2 - 60:32.0] See on nüüd, see on nüüd, see on nüüd selline asi selle-- vaat see on nüüd va-vaat see on nüüd see asi, mis ta tuleb veidike teada.
+[60:32.0 - 60:42.1] Mul on, ma olen ostnud veebiserveri omale ja ja ja ja ja ja ja see tähendab seda, ma sealt kopeerin selle sinna
+[60:42.1 - 60:44.1] veebiserverisse üle, üle SSH-ga.
+[60:44.1 - 60:54.1] Noh, see on-- kuigi tänapäeval on olemas ka juba täitsa tasuta, tasuta pakutavad veebiservereid nagu Cloudflare ja nii edasi, mis selliseid HTML dokumente võimaldavad teil tasuta hostida või isegi kogu veebisait
+[60:54.1 - 60:54.8] tasuta hostida.
+[60:54.8 - 61:04.9] Nii et noh, ma-ma lihtsalt need on need väikesed mingi baastehnilised teadmised, mis aitavad teid väga palju edasi, mille olemasolu aitab teid, aitab, aitab teid
+[61:04.9 - 61:07.7] see see see aitab teil teha saada väga palju edasi.
+[61:07.7 - 61:15.3] Aga see Kuba õigu tee võiks samamoodi seal olla või sa ikkagi lähed sinna Kuba serverisse?
+[61:15.3 - 61:17.7] Nüüd ma-- mul sinna kahjuks ligipääsu veel ei ole.
+[61:17.7 - 61:27.8] Seda mul ei antud, aga mul oleks sinna ligipääs sinna Kuba serverisse, sinna, sellesse, sellesse, sellesse, sellele internetiserverile, mis mis hostib nii-öelda või kus kohas see Kuba sait on,
+[61:27.8 - 61:29.0] siis ma saaksin selle ära vaadata.
+[61:29.0 - 61:34.1] Et nii ma teen selle Kuba, ära ma teen siin selle.
+[61:34.1 - 61:41.3] No ilma selle selle serverita, kus võidab ära näidata, mis te mul ette panek näiteks oleks sellest uuest.
+[61:41.3 - 61:45.2] Jaa jaa, jaa, ma teen selle, ma teen selle nüüd, ma teen selle nüüd ära.
+[61:45.2 - 61:48.5] Ma teen selle nüüd ära siin, siin, selles, selles.
+[61:48.5 - 61:51.8] Ee, ma kohe teen selle uuesti.
+[61:51.8 - 61:53.3] Vaatame, kas siin õnnestub.
+[61:53.3 - 61:58.9] Tee-- vaata seda lehte Kuba EE.
+[61:58.9 - 62:07.4] Tee seal olevast, oleva informatsiooniga uus vinge koduleht.
+[62:07.4 - 62:10.0] Dünaamiline.
+[62:10.0 - 62:10.6] Mida?
+[62:10.6 - 62:12.8] Dünaamiline tuleb.
+[62:12.8 - 62:14.4] Dünaamiline.
+[62:14.4 - 62:17.7] Kasuta, kasuta, kasuta.
+[62:17.7 - 62:25.3] Kasuta frontend design skilli, kui ma ei eksi, oli siin ka selle nimi midagi sellist.
+[62:25.3 - 62:27.9] Nii.
+[62:27.9 - 62:33.8] Frontend skill on siin õigus.
+[62:33.8 - 62:37.8] Mis on ette defineeritud skill?
+[62:37.8 - 62:41.5] See on ette defineeritud skill ja mis mis mis?
+[62:41.5 - 62:49.3] See on ette defineeritud skill, mis õpetab kuidasmoodi sellist lehte luua.
+[62:49.3 - 62:53.8] See skill nagu meil seal on tarkvaras nagu tagid.
+[62:53.8 - 62:57.4] Ta on veidikene ta on, ta on tegelikult tekstifail see skill.
+[62:57.4 - 63:01.2] See on tekstifail, mis kirjeldab, et mida silmas pidada, kui luuakse uut veebi.
+[63:01.2 - 63:05.0] Näiteks, et tee ta iluks seekord mitte kole.
+[63:05.0 - 63:19.3] Nii.
+[63:19.3 - 63:24.0] Nii vaata mis ta nüüd vahi jubab just ninety percent of your session limit ja gud rat.
+[63:24.0 - 63:25.5] Paharet!
+[63:25.5 - 63:29.4] Nii, ee.
+[63:29.4 - 63:35.7] Vaatame, et sobib.
+[63:35.7 - 63:38.0] Vaatame mis saab nüüd sellest skilliga.
+[63:38.0 - 63:47.7] Ma kohe kohe kohe kohe proovime selle kohe proovime selle skill ära, ka mis nüüd teeb, mis siis nüüd teeb, teeb, teeb viisakaks, viisakaks teeb, teeb, teeb meie vastamise.
+[63:47.7 - 63:50.5] Siin on küll sees.
+[63:50.7 - 63:53.5] Mis see limiit täpselt on?
+[63:53.5 - 63:54.5] Mis raha nõuab?
+[63:54.5 - 63:56.7] See on okei, ma selle unustasin teile rääkimata.
+[63:56.7 - 64:00.5] Ühesõnaga, on kahte tüüpi sessiooni limiit limiidid on või kahte tüüpi limiidid on.
+[64:00.5 - 64:06.8] Üks on see, et kui palju te saate viie tunni jooksul kasutada neid neid AI vahendeid ja teine on see, kui palju te saate nädala jooksul neid kasutada.
+[64:06.8 - 64:14.6] Ee, ja jällegi ChatGPT on nad märksa kõrgemad kui on, kui on Cloudis.
+[64:14.6 - 64:25.0] Et kuigi Cloud Copilot on ütleme see, mida ma, mis on ka minu esimene eelistus täna, mis midagi on temas, mis on, mis on teistmoodi, mis muudab sellise sellise suhtlemise kuidagi lihtsamaks,
+[64:25.0 - 64:35.0] siis, siis, siis ma siis, siis, siis, siis, siis kui ma kui midagi võtta nüüd praegu, siis tõenäoliselt ChatGPT on ikkagi mõistlikum, sest et seal ütleme veidikenegi tõsisemat tööd
+[64:35.0 - 64:37.5] tehes te Cloudis jooksete selle viie tunni sessiooni limiiti.
+[64:37.5 - 64:38.8] Te jooksete selle lihtsalt.
+[64:38.8 - 64:41.4] Ta tahab siis rohkem raha või ütleb, et teil ei ole seda?
+[64:41.4 - 64:42.6] Ta tahab rohkem raha saada.
+[64:42.6 - 64:49.7] Jah, ühesõnaga, isegi ma jooksen sessiooni limiiti, kuigi mul ei ole mitte kahekümne viie eurone või no ütleb, et ma olen kohe sessiooni limiidis, kuigi mul ei ole mitte.
+[64:49.7 - 64:51.0] Mul ei ole-- aa, okei, ma tean mille pärast.
+[64:51.0 - 64:52.8] Ma tegin, töötasin sellega veidikene siia tulekut ka.
+[64:52.8 - 64:53.3] Ma olin loll.
+[64:53.3 - 64:57.0] Mul ei ole mitte kahekümne viie eurone see standardpakett, et mul on saja eurone pakett.
+[64:57.0 - 65:00.3] Seal on võimalik minna ka kahesaja eurosesse paketti.
+[65:00.3 - 65:06.1] Aga ma väidan teile seda, et kuna see saja eurone pakett sellepärast, et ta kusagilt annab mulle sellist, annab mulle sellist, annab mulle sellist, sellist.
+[65:06.1 - 65:08.7] Kas limiit on mingi ajaline kui palju sa saad?
+[65:08.7 - 65:10.8] Ta ei ole ajaline, vaid ta on.
+[65:10.8 - 65:11.3] Ta on ikkagi.
+[65:11.3 - 65:12.2] Ta ei ole padingute arvuga.
+[65:12.2 - 65:18.5] Ta on see, et kui palju ta tööd peab tegema, et kui palju te sisendit annate, palju ta väljundit teile annab.
+[65:18.5 - 65:22.1] Et, et, et ja et noh, nii ma ütlen siin.
+[65:22.1 - 65:26.2] Ja nüüd see skill on nüüd olemas ja ma saan selle skilli nüüd kellelegi saata, kes saab seda kasutada.
+[65:26.2 - 65:36.2] Ja ma ütlen nüüd nii, et kasutades seda skilli, ütle mu kolleegile, et
+[65:36.2 - 65:41.7] tal on, ma ei tea, liiga pikad juuksed.
+[65:41.7 - 65:53.8] Ta
+[65:53.8 - 65:56.9] laeb selle skilli sisse ja nüüd.
+[65:56.9 - 66:11.9] No
+[66:11.9 - 66:13.1] ma ei tea noh.
+[66:13.1 - 66:17.0] Noh, ma ei tea noh.
+[66:17.0 - 66:25.9] Eelmine kord olite tiivikas selle eest, et ta lihtsalt kirjutas.
+[66:25.9 - 66:28.3] No ta jah.
+[66:28.3 - 66:31.5] Tagasi.
+[66:31.5 - 66:35.3] No no ta ta selles mõttes ta selles ja selles ju otseselt ei erine.
+[66:35.3 - 66:41.6] Aga nüüd kui ma võtan, ma ütlen talle, et näita mulle seda skilli, vaatame, millise mis see skill üldse endas sisaldab.
+[66:41.6 - 66:43.7] See see konkreetne näide võib-olla ei olnud kõige parem näide tegelikult.
+[66:43.7 - 66:50.3] Te saate teha skilli, mis nüüd ütleme, mida tahate, et teil alati näiteks, et ta kontrolliks üle teie mingisuguse, ma ei tea, nädala raporti või midagi.
+[66:50.3 - 66:53.3] Te tahate, et ta alati teeks mingid sammud läbi.
+[66:53.3 - 67:02.4] Te loote selle skilli ja ta alati käib need sammud läbi ja teeb noh, ta on nagu veidikene, et ta peaks veidikene ette ennustatavam, mida ta teeb tavalisest promptist.
+[67:02.4 - 67:03.7] Nii show in folder.
+[67:03.7 - 67:04.6] Vaatame, vaatame.
+[67:04.6 - 67:06.8] Ma näitan teile, missugune see skill on.
+[67:06.8 - 67:13.8] Jah, ta kuna tuli või?
+[67:13.8 - 67:22.5] Näita mulle seda skilli teksti.
+[67:22.5 - 67:49.2] Nii.
+[67:49.2 - 67:52.2] Mis see skill meil on?
+[67:52.2 - 67:57.6] Siin on näed ta, ta kõigepealt on siin üleval on, on, on tal niukene kirjeldus, mida see skill teeb.
+[67:57.6 - 68:07.6] Pehmendab nii seda, seda kirjeldust ta nüüd loeb, loeb sisse alguses, mis kirjeldusega skillid on tal olemas ja kui ta leiab mingi ülesande, mis, mis võiks seda
+[68:07.6 - 68:10.7] vajada, siis ta automaatselt võib võtta selle skilli kasutusele.
+[68:10.7 - 68:20.3] Ja siin on siis lihtsalt täiesti tavaline teksti fail, mis kirjeldab, mida ta teeb, kuidas ta teeb, säilita sisu, kasuta mina-keelt, lisa kontekst ja tunnustus.
+[68:20.3 - 68:23.3] Paku lahendusi, mitte ainult probleeme.
+[68:23.3 - 68:25.7] Kohanda tooni formaadile ja siis väljundi formaat.
+[68:25.7 - 68:33.6] Ta on sihukene paari lehekülje või näete kolme leheküljeline tekst, eks ole, mis kirjeldab, kuidasmoodi täpselt seda seda ülesannet lahendada, mida sa lahendada tahad.
+[68:33.6 - 68:38.3] Sama prompt, mis teil oli seal ees, selle võiks panna niisama ka sinna.
+[68:38.3 - 68:39.4] Jaa, täpselt.
+[68:39.4 - 68:42.2] Kogu aeg seda nagu kopeerimine pealt sul on see skill.
+[68:42.2 - 68:44.3] Jaa, jaa ja see võimaldab.
+[68:44.3 - 68:45.7] See võimaldab teil teha.
+[68:45.7 - 68:51.7] See võimaldab teil teha nagu, nagu, nagu standardiseerida mingeid tegevusi.
+[68:51.7 - 69:01.8] Näiteks kui te peate tegema, te olete väike ettevõtja ja te tahate teha, et teil alati oleks ütleme pakkumised oleksid samas stiilis või midagi, siis te teete selle skilli, mis ütleb, et vaata seda, pane pöörda
+[69:01.8 - 69:05.7] tähele sellele pöörda tähelepanu sellele pöörda tähelepanu sellele lõpuks eesti keele kontroll.
+[69:05.7 - 69:09.7] Sisu võiks sama asja kogu aeg kopeerida oma ülesande juurde ülesande tegemisel.
+[69:10.6 - 69:17.3] Aga lihtsalt see, et see loetakse ja opereeritakse backgroundis nii või naa.
+[69:17.3 - 69:17.5] Ja.
+[69:17.5 - 69:23.4] Nii, vaata kuidas meil vahepeal läheb selle lahe dünaamilise kodulehe ehitamine.
+[69:23.4 - 69:24.6] Ta endiselt ehitab seda.
+[69:24.6 - 69:28.8] Ee, loob siin sihukesed HTML faile.
+[69:28.8 - 69:32.5] Kogu uue dünaamilise lehega.
+[69:32.5 - 69:35.3] Oi jumal, mis kui Pythonit?
+[69:35.3 - 69:45.7] Ei, ma tahan, et see oleks lihtsalt HTML fail, mitte noh,
+[69:45.7 - 69:47.7] midagi, mida ma, mida ma tean küsida.
+[69:47.7 - 69:57.3] Ta, ta teeb siin mingisugust juba Pythoni programmi, mis seda, mis seda, mis seda, mis seda, mis seda looma peaks, seda, seda, seda, seda HTMLi.
+[69:57.3 - 69:58.9] Ma võin vaata.
+[69:58.9 - 70:00.6] Ja.
+[70:00.6 - 70:15.5] Väga
+[70:15.5 - 70:27.4] isiklikku enda kohta küsimusi on siin on chatGPT teeb kogu aeg uue aksela alla endale, siis on teil endal palju mõju.
+[70:27.4 - 70:33.6] Mul see on nüüd see, see kõudeks kuvab sa või?
+[70:33.6 - 70:39.4] Tegelikult on see asi, mis teil on tehtud, et see on lahend.
+[70:39.4 - 70:43.3] Ma ei tea, mis sa teada, et kas mul, kas mul on, kuvab ka kusagil seda või?
+[70:43.3 - 70:47.3] Aga mul on selline tunne, et.
+[70:47.3 - 70:50.5] Kas keegi teab mida?
+[70:50.5 - 70:50.9] Kuidas seda?
+[70:50.9 - 70:51.5] Kuidas seda aidata?
+[70:51.5 - 70:52.8] Ma ei, ma täpselt ei tea.
+[70:52.8 - 70:54.4] Kas see on hea või halb?
+[70:54.4 - 70:56.5] See on setting.
+[70:56.5 - 71:05.9] Settings apps advanced settings developer mode, mis on erinev kui näiteks iPhone'is.
+[71:05.9 - 71:12.6] Kõik need kuulevad ära.
+[71:12.6 - 71:18.2] Nii.
+[71:18.2 - 71:20.7] Et see on.
+[71:20.7 - 71:22.6] Jaa, täpselt, täpselt.
+[71:22.6 - 71:23.8] See on muuseas täpselt, täpselt nii.
+[71:23.8 - 71:27.0] Täpselt nii see ka on, et ChatGPT.
+[71:27.0 - 71:37.3] On hea meelega ütlen julgelt sõna, et see on edasi kõik kõrgekvaliteediline info, mis on mul endal
+[71:37.3 - 71:39.8] olnud.
+[71:39.8 - 71:43.8] Noh, see on dünaamiline või?
+[71:43.8 - 71:49.1] Kas ta paremaks läks?
+[71:49.1 - 71:59.2] No okei, ütleme talle, et võta, ütleme talle, et kasuta rahulikku põhjamaist
+[71:59.2 - 72:00.7] disaini.
+[72:00.7 - 72:03.1] Jah.
+[72:03.1 - 72:13.3] See ChatGPT developer mode on beta funktsioon, mis pakub täielikku NLP mudeli lubad kõigi nende tööriistadele
+[72:13.3 - 72:15.3] nii lugemis kui kirjutamisvõimsusega.
+[72:15.3 - 72:21.2] See on võimas, aga ohtlik mõjandus arendajatele, kes saavad aru, mida nad teevad.
+[72:21.2 - 72:24.6] Nii.
+[72:24.6 - 72:26.8] Igal juhul, igal juhul, igal juhul, igal juhul.
+[72:26.8 - 72:32.3] Noh, siin on see informatsioon, mis sul Kuba Kuba leheküljel on, on ta siin täitsa olemas on ju.
+[72:32.3 - 72:34.2] Ja ma ei taha öelda, et ta sinu lehekülje paremaks tegemine.
+[72:34.2 - 72:38.3] Mõtlen, et üheksakümmend protsendi ettevõtete leheküljed teeb ta, teeb ta, teeb ta paremaks.
+[72:38.3 - 72:39.0] Nüüd.
+[72:39.0 - 72:43.3] Ka vahel on enda asjadest oma ja ei teinud tõesti paremaks.
+[72:43.3 - 72:50.8] Aga olgem ausad, enne mina võiks seda lehekülge teha ja enne oli see rohkem ka inimene ja mitte mingi väike häda.
+[72:50.8 - 72:51.8] Jaa.
+[72:51.8 - 72:57.6] Pluss veel see, et üks asi, mis sa enne näiteks maksid sada eurot või tuhat eurot on see, et teete sellise SEO.
+[72:57.6 - 72:59.2] See on search engine optimization.
+[72:59.2 - 73:02.8] Kui te talle ütlete, et tee sinna täielik SEO, ta teeb selle valmis.
+[73:02.8 - 73:04.3] Ta teeb perfektselt selle.
+[73:04.3 - 73:14.4] Ta, ta käib kuni sinna johjni, et ta käib teie klientide koduleheküljel ja vaatab, et millised märksõnad sinna, millised märksõnad oma lehele peaksid siduma, et ta eristaks sind konkurentidest ja nii
+[73:14.4 - 73:15.1] edasi.
+[73:15.1 - 73:20.2] Et, et asi ühesõnaga, et tehke põhja, tee põhjalik SEO raport, vii need sisse need asjad.
+[73:20.2 - 73:30.7] Või siis kui noh või siis tee mulle põhjalik kirjeldus kuidas tee põhjalik SEO raport ja, ja, ja, ja anna mulle kirjeldus kuidasmoodi neid sisse viia neid SEO parandusi.
+[73:30.7 - 73:34.6] Finants info vaid finantsanalüüs.
+[73:34.6 - 73:37.0] Ta on suurepärane finantsanalüüs.
+[73:37.0 - 73:44.4] Kui te annate talle ette minu poolest oma raamatupidamise andmed, andmed näiteks, näiteks, näiteks kas või tavalise.
+[73:44.4 - 73:51.2] Noh, kõik, kõik, kõik, kõikide, kõik, kõik teie need tehingud seal on ju see päeva, mis päeva raamatupidamis iganes on on ju.
+[73:51.2 - 74:00.5] Ta on võimeline selle kokku võtma, tegema teile nagu, nagu, nagu, nagu päris võimekas finantsjuht teile analüüsi, mis seal, mis seal, mis seal toimub, mis seal, mis seal juurde teha ja nii edasi.
+[74:00.5 - 74:04.0] Et kui noh.
+[74:04.0 - 74:14.0] On, on täna on ikkagi üsna, üsna, üsna vähe tegevusi, tegevusi, mis mida, milles ta ei aita või kuskohas ta ei ole
+[74:14.0 - 74:24.8] võimeline pakkuma teile välja väga head esmast, esmast varianti, mida te siis saate kohe kohendama hakata või juba isegi ma väidan, et täna üha enam ja üha enam ka lõplikku varianti.
+[74:24.8 - 74:29.0] Et kui see nüüd seesama, et kui sa ütled, et te teinud paremaks kui sul esimene, kui sinu esimene.
+[74:29.1 - 74:32.1] Ma praegune kodulehekülg on ju, siis ütled talle, et noh, tee uuesti.
+[74:32.1 - 74:33.5] Tee veel.
+[74:33.5 - 74:43.0] Kasuta näiteks paned sinna juurde on ju, et pane sinna juurde need a-- selle oma ettevõtte CV info on ju, ütled, et tee, kasuta seda on ju, tee, lähtu, lähtu, lähtu sellest.
+[74:43.0 - 74:53.1] Kusjuures noh, mis ta teeb kohe, ta teeb automaatselt, eks ole lehed, mis on, mis on, mis on selles mõttes, et nad, ta sobib nii, ta sobib nii mobiilile kui ka, ta sobib nii mobiilile kui ka, kui ka
+[74:53.1 - 74:53.5] mis sõna see on?
+[74:53.5 - 74:54.4] See on üks sõna selle kohta.
+[74:54.4 - 75:02.2] Ta on responsiivne on ju ja nii edasi, et ta teeb lehed, mis on responsiivsed, mis sobivad kõik mõeldavatele, kõik mõeldavatele keskkondadele ja nii edasi on ju.
+[75:02.2 - 75:04.1] Nad kasutavad, kasutavad moodsaid vahendeid.
+[75:04.1 - 75:14.2] Siin oli ka kena tähelepanek, et hiljem ta teeb selle lehe sulle küll valmis, aga kui sa hiljem tahad seda hakata ise muutma, nii nagu Aga sa vaibid
+[75:14.2 - 75:14.7] samamoodi.
+[75:14.7 - 75:16.0] Siis sa võid kinni olla.
+[75:16.0 - 75:16.8] Ei, sa ei ole kinni.
+[75:16.8 - 75:18.1] Vastupidi, just sa vaibid samamoodi.
+[75:18.1 - 75:23.3] Ma olen, ma olen, ma olen seda teinud paljude lehtedega tänaseks, et ma ütlen talle, et pane see asi sinna juurde.
+[75:23.3 - 75:27.3] Ma, ma, ma teengi, et Sa usaldama siis?
+[75:27.3 - 75:29.5] Et ta ise enam võib-olla põhimõtteliselt ei saagi aru.
+[75:29.5 - 75:34.5] Nojah, jah, seda, aga no kui see on HTML, noh, see on H- Ta peab teadma, mis leheküljel on.
+[75:34.5 - 75:37.3] No see on HTML on ju, see on HTML, et on tavaline HTML.
+[75:37.3 - 75:47.6] Seda sinna ei ole võimalik, ma e-- ma ei loogi mingit sinna, ma ei loo sinna alla mingit tarkvara, mida sa, millest sa saaks sisse murda või mida saaks, mida saaks keegi häkker saaks kusagilt seda mõjutada on ju, vaid ma loongi kõige tavalisema
+[75:47.6 - 75:49.0] staatilise HTML-i.
+[75:49.0 - 75:59.5] Ja kui ma tahan seda staatilist HTML-i muuta, siis ma, siis ma ütlen talle, et kuule, lisa sinna see, lisa sinna see, see, see uudis või pane sinna see uudiste või lisa sinna terve mingisugune,
+[75:59.5 - 76:02.9] kirjuta see, ma-- tee kolmkeelseks näiteks, et lisa veel inglis- ja vene keel ka juurde.
+[76:02.9 - 76:03.9] See teeb.
+[76:03.9 - 76:07.2] See on HTML mingi nõrk koht, eks ole?
+[76:07.2 - 76:07.4] Jah.
+[76:07.4 - 76:09.1] Seal ei ole midagi keelatud.
+[76:09.1 - 76:10.0] Jah.
+[76:10.0 - 76:18.5] Et- Noh, midagi küll ei ole, aga kui sa tahad uue uudise kirjutada või uue töötaja sinna- Aga ütledki, et lisa uus töölane ja ta paneb selle, teeb sulle HTML ümber selle.
+[76:18.5 - 76:22.5] Et see on, ma olen, ma olen väga keeruliste, päris, kas see on veel one pager on ju.
+[76:22.5 - 76:26.5] Ma olen keeruliste lehtedega seda teinud.
+[76:26.5 - 76:26.8] Ee.
+[76:26.8 - 76:28.4] Mis see siis on?
+[76:28.4 - 76:30.8] Võtad jälle selle lehe nime- Jah.
+[76:30.8 - 76:33.7] Ja ütled talle, et tee ja lae selle uuesti sellele sinna juurde.
+[76:33.7 - 76:35.1] Just täpselt, täpselt.
+[76:35.1 - 76:37.7] Tal on ju see kataloog olemas ju.
+[76:37.7 - 76:38.0] Jah.
+[76:38.0 - 76:39.8] See on ju ajakohane.
+[76:39.8 - 76:41.3] Jah, noh, see samas kataloog on olemas.
+[76:41.3 - 76:43.4] Ma teen-- aga nüüd ta tegi uue versiooni sellest muuseas.
+[76:43.4 - 76:46.7] Noh, nüüd ta tegi sellest uue versiooni, mis on siis nüüd põhjamaaine.
+[76:46.7 - 76:49.7] Väga skubiseks.
+[76:49.7 - 76:52.2] Noh, ma ei tea.
+[76:52.2 - 76:53.6] Ma olen, ma olen, ma, noh.
+[76:53.6 - 76:59.9] Põhjamaaine ongi vähe visuaalne.
+[76:59.9 - 77:09.3] Noh, et, et, et, et noh, ma jälle, ma jälle ma ei tea.
+[77:09.3 - 77:11.5] Noh, visind traditional sait on ka.
+[77:11.5 - 77:17.0] Noh, see on dünaamiline.
+[77:17.0 - 77:19.8] Aga ma oleks võinud talle öelda, et kasuta seda videot ka on ju ja kõike seda on ju.
+[77:19.8 - 77:24.4] Kasuta neid videomaterjale, kasuta pildimaterjale ja pane need pildimaterjalid ja need ka pane kõik, pane kõik juurde on ju.
+[77:24.4 - 77:28.6] Seda ta praegu automaatselt ei, automaatselt, automaatselt ei teinud.
+[77:28.6 - 77:33.2] Ee, ma olen, ma olen teinud niimoodi, et ma olen, ma olen öelnud neile, et kasuta neid pildimaterjale, videomaterjale juurde.
+[77:33.2 - 77:38.5] Aga kui ei ole alla anda mingit olemasolevat lehekülge, siis on nad lihtsalt materjali.
+[77:38.5 - 77:40.3] Annad seda, mida, mis seal võiks olla.
+[77:40.3 - 77:41.2] Ütled, mis on eesmärk.
+[77:41.2 - 77:44.3] Ja ma ütlen, esimene versioon ei tule sul selline, mida sa tahad.
+[77:44.3 - 77:49.5] Siis hakkad sa teda, sa hakkad sa teda vaikselt hakkad teda mõjutama on ju või hakkad talle ütlema, et kuule, tee, tee paremaks.
+[77:49.5 - 77:54.0] Noh, seesamas, et Kuubas võiksin ma ka öelda, et, et kuule, et kus ma nüüd panin selle asja?
+[77:54.0 - 78:04.4] Tee nüüd ta nüüd, et noh, kuidas, et tee nüüd, tee, orienteeri ta müügile või et või et tee mulle, tee mulle nüüd see selline, et mis, mis on suunatud
+[78:04.4 - 78:05.7] Läti turule või midagi sellist.
+[78:05.7 - 78:16.4] Näiteks üks näide veel sellest, mis sa, mida, mida temaga teha saab, eks ole, on see, et just nimelt kui te tahate minna, kui te tahate minna noh,
+[78:16.4 - 78:18.1] kõikvõimalikke turuanalüüse.
+[78:18.1 - 78:25.0] Te tahate, et mul on, mul on nüüd selline ettevõte, mis, mis tegutseb siin, ma ei tea, müüb piparkooke siin Tallinna kesklinnas.
+[78:25.0 - 78:26.2] Kuidas te siin nende Lasnamäe tosule?
+[78:26.2 - 78:30.1] Ta, ta teeb hämmastavalt edukalt need turuanalüüsid.
+[78:30.1 - 78:36.4] Ta leiab, ta leiab teie konkurendid üles, kes seal Lasnamäel praegu tegutsevad, miks nad tegutsevad, mis on nende eelised, mis on nende puudused ja nii edasi on ju.
+[78:36.4 - 78:46.6] Kui te aga selle, see, see on jälle kaks võimalust, kas te teete selle sama turuanalüüsi siin nüüd samas selles, selles, selles, ee, vaipkoodimise keskkonnas või siis, või siis panete ta tegema
+[78:46.6 - 78:50.6] seda, panete just selle, selle deep researchi seda tegema.
+[78:50.6 - 78:51.7] Te üllatute selle peale.
+[78:51.7 - 79:00.8] Mis ülesandeid te veel ette kujutate, mida ta, mis, mis teil, mis teil, mis teil, mis teil ette tulevad?
+[79:00.8 - 79:09.2] Minul oli üks selline asi, et kolleeg tahtis teha üritusele kutset.
+[79:09.2 - 79:10.2] Noh, pildina.
+[79:10.2 - 79:10.4] Mhm.
+[79:10.4 - 79:20.6] Ja proovis ja proovis, mis ta tahtis, aga järjepidevalt sai, et see üritus toimub kahekümne neljandal prillil, mitte aprillil
+[79:20.6 - 79:25.5] ja see toimub Viimsi Vallavalitsuses, mitte Viimsi Huvikeskuses.
+[79:25.5 - 79:28.2] Ja no ei saanud sellest üle.
+[79:28.2 - 79:31.2] Näide on akselgrupp.ee.
+[79:31.2 - 79:32.4] Nii teeme.
+[79:32.4 - 79:34.6] Pildi loomine.
+[79:34.6 - 79:35.8] Nii.
+[79:35.8 - 79:40.0] Ee, tee mulle-- kuhu kohta see kutse pidi tulema?
+[79:40.0 - 79:42.7] Viimsi Huvikeskus.
+[79:42.7 - 79:48.1] Viimsi Huvikeskus, keskusesse
+[79:48.3 - 79:50.9] Kutse tantsuõhtul.
+[79:50.9 - 79:55.8] Mis, mida see kutse peaks sisaldama, kujuta ette.
+[79:55.8 - 80:06.4] Tee ta hirmus naljakas keskaegses stiilis, nagu, nagu, nagu, nagu keskaegne kaart,
+[80:06.4 - 80:16.4] mis näitab milliseid, milliseid väljakutseid tuleb ületada jõudmaks viimsi
+[80:16.4 - 80:22.5] huvikeskuses tantsu tantsuõhtule.
+[80:22.5 - 80:24.6] Nii ja, ja.
+[80:24.6 - 80:25.9] Ei näe, et see on hullem.
+[80:25.9 - 80:30.2] A kui või, no seda ma pole mõelnud kohe, et, et, et.
+[80:30.2 - 80:32.8] Saame saata.
+[80:32.8 - 80:35.2] Ta tõenäoliselt ei kasutanud.
+[80:35.2 - 80:38.9] Te teate ikka, et siin tuhat inimest vaatab täna, kui seda kutsutud ja.
+[80:38.9 - 80:45.2] Mitte päris nii.
+[80:45.2 - 80:46.0] Aga ühesõnaga.
+[80:46.0 - 80:48.0] Vana maja oli suurem.
+[80:48.0 - 80:50.8] No pildid oli jah palju suurem.
+[80:50.8 - 80:55.1] Okei.
+[80:55.1 - 81:02.6] Mul on sellessess see tööstiil erinev on sellest nelja, viie kuu tagusest vägevast.
+[81:02.6 - 81:03.5] See tõesti.
+[81:03.5 - 81:07.6] Esiteks need mudelid on täna, on täna nad on, nad astusid sammu edasi, need mudelid.
+[81:07.6 - 81:08.5] Ise nagu töö.
+[81:08.5 - 81:09.3] Jah.
+[81:09.3 - 81:19.3] No ma töötaningi täna sellel, et kui eelmised mudelid olid sellised, kus, kus ma, kus ma küsisin mingit abi vahepeal või kasutan neid mingite assistentide vahepeal ja siis jälle ise seda muutma, siis täna
+[81:19.3 - 81:20.6] ma sisuliselt ei muuda enam midagi.
+[81:20.6 - 81:22.2] Ma muudan täna vaibises.
+[81:22.2 - 81:25.5] Ma juhendan, ma ütlen, et mida, mida, mis mulle ei meeldi, mis teeb paremaks.
+[81:25.5 - 81:31.5] Ja, ja teine asi on see, et needsamad need, see, see, see, see Cowork näiteks tema on.
+[81:31.5 - 81:35.4] Ta on paljud vanad alkod, on ju, et ta on nüüd nüüd tekkinud.
+[81:35.4 - 81:39.3] Mis on arvutis, kus on arvutis olemas need piisavad need vahendid on need Pythoni need asjad on ju.
+[81:39.3 - 81:44.7] Siis ta paned sinna kataloogi oma failid, need ja, ja hakkad, hakkad, hakkad nendega töötama.
+[81:44.7 - 81:45.6] Ta loob sulle uued failid.
+[81:45.6 - 81:53.2] Ta loob sulle kogu, ma ei tea, projektikava kuni, kuni, kuni nõueteni, kuni, kuni mingite checklistide kuni konkreetsete inimesteni ja nii edasi.
+[81:53.2 - 81:55.0] Noh, mitte mingit, mitte mingit küsimust.
+[81:55.0 - 81:56.6] Ta teeb seda praegu piisavalt hästi.
+[81:56.6 - 81:58.8] Jah, see on.
+[81:58.8 - 82:05.3] See on ainult tasulisel jah ja sama-- samamoodi nagu siin see noh, see, see, see kõudeks ka.
+[82:05.3 - 82:08.3] See on nüüd tasuline ja tasuline ja tasuline ChatGPT tuleb kaasa.
+[82:08.3 - 82:18.3] Seda on võimalik siin teda on võimalik neid on võimalik nagu näete, teda on võimalik ühendada ära on ju mingite Gmailidega, Slackidega, Google Calendaritega ja nii
+[82:18.3 - 82:28.4] edasi, et ta saab teil, saab teil tõmmata alla emailidest igasugust informatsiooni Google Calendarist, informatsiooni kõikidest, kõikidest Notionist, Google Drivest, et ta
+[82:28.4 - 82:35.9] saab otse otseühenduses leida õigeid vajalikke faile, neid muuta või ühesõnaga nende, nende baasilt midagi teha ja nii edasi.
+[82:35.9 - 82:46.2] Noh, mul on siin näiteks ühendatud ühendatud Gmaili, Gmaili
+[82:46.2 - 82:46.8] kära on ju.
+[82:46.8 - 82:52.6] Ma ei mäleta, kas mu isikliku Gmaili või töö Gmailiga ma võin siin võin, võiksin siin kirjutada on ju, et mis on mu mingisugused.
+[82:52.6 - 83:02.7] Tee mulle, tee mulle mingid memod nendest kohtumistest, mis mul tulevad homme lähtuvalt emailidest, lähtuvalt draivis olevatest asjadest ja nii edasi, et ta teeb selle, teeb selle, teeb selle suurtähega
+[83:02.7 - 83:03.0] sõltala.
+[83:03.0 - 83:07.8] Emaili asi, et ta aitab vormistada nagu omaalgatuselt seda head vastust.
+[83:07.8 - 83:17.9] Aga kui sa võtad ülesande enda, et vormista automaatselt kliendile nagu vastus ettevalmistaja ise endale, jätta ainult nagu approovimise, aga põhimõtteliselt
+[83:17.9 - 83:23.4] kui sisse tuleb kiri, siis tegelikult vormistab selle juba vastuse ära ja sa saadki teha.
+[83:23.4 - 83:26.2] Põhimõtteliselt saab ja selleks on sul vaja kuidagimoodi sinna Gmaili.
+[83:26.2 - 83:27.7] Ma isegi ei tea, kuidasmoodi sina.
+[83:27.7 - 83:28.5] Ma ei ole seda.
+[83:28.5 - 83:34.7] Ma ei ole sellist asja kasutanud, et sul on Outlook või Gmail vaja siis mingit ligipääsu, mis selle tähtena sul salvestab ja ma täpselt ei oska seda.
+[83:34.7 - 83:36.2] Ei oskaks seda teha praegu.
+[83:36.2 - 83:46.4] See on põhim-- see on võimalik küll ja sa võid talle panna, et ta ühendaks ära sinu selle, ma ei tea, ütleme, tuleb sulle ettevõttesse kiri, et ühendaks ära selle sinu, selle inimese varasemate kirjadega, siis tema mingisuguse
+[83:46.4 - 83:47.1] ma ei tea.
+[83:47.1 - 83:57.2] Kontrolli üle, kas ta on tasunud sul, tasunud sul arved ära oma lamentumist alkoga kõikide nende asjadega ühendaks ära ja kogu sellest ja sellest informatsioonist lähtuvalt siis kirjutaks selle vastuse, et kuule, ära
+[83:57.2 - 83:59.7] saada mulle küsimus, kui sa pole arvet maksnud on ju.
+[83:59.7 - 84:02.2] No mis iganes siis kontekstist lähtuvalt ütleks vastup.
+[84:02.2 - 84:12.2] Muuseas nendel, nendel, nendel sellel samal sellel, sellel Coworkil on ka selline toode omadus, et ta võidab panna mingisugust.
+[84:12.2 - 84:21.8] Ta võidab mingi skilli teha, mingi tegevuse teha ja siis panna, et ta teeks iga hommikul kell kümme näiteks ta teeks selle, teeks selle tegevuse ära on ju iga hommikul kell kümme kustutab ära kõik need kirjad, mida ta veel läbi lugenud ei ole.
+[84:21.8 - 84:23.8] See võtab stressi palju maha.
+[84:23.8 - 84:27.4] Muudab teie elu palju ilusamaks.
+[84:27.4 - 84:29.5] Iga hommikul meedia ülevaate.
+[84:29.5 - 84:35.7] Kui on meedias märgitud Äri 11 mailboxi ali kord.
+[84:35.7 - 84:41.0] No selles mõttes siis ta peab ligipääse, peab sellele meediale ligi pääsema kuidagi on ju.
+[84:41.0 - 84:44.0] See on Google'il on sihuke funktsioon.
+[84:44.0 - 84:45.1] Ma ise tegin Ava.
+[84:45.1 - 84:48.5] Noh noh, ta peab, peab jah.
+[84:48.5 - 84:50.2] Pluss noh, ma üldse ei hakanud täna rääkima.
+[84:50.2 - 84:55.5] Ma tahtsin täna rääkida just, just sellisest vaip töötamisest on ju.
+[84:55.5 - 84:57.2] Aga, aga vaip programmeerimine.
+[84:57.2 - 84:59.8] Kui te tahate mingit programmi luua, mis noh, mis päriselt?
+[84:59.8 - 85:02.8] Noh, seda ma olen.
+[85:02.8 - 85:07.4] Ma olen ise sellega loonud päris keerulisi, ka väga keerulisi keerulist keerulist kraami.
+[85:07.5 - 85:08.8] Eks ma muidu kindlasti võimeline ei ole.
+[85:08.8 - 85:15.2] Kas ma julgeksin täna sellega minna, nende Pythoniga programmeeritud vahenditega minna, panna see online üles, hakata inimeste isikuandmeid koguma?
+[85:15.2 - 85:21.1] Ei julgeks, onju, ilma et mul oleks mingisugune spetsialist, spetsialist selle läbi, läbi käinud.
+[85:21.1 - 85:31.2] Aga kas ma julgen seda teha endale enese jaoks mingit programmi, mis minule vajalikku asja töötab, onju, kus on vähetõenäoline, et Hiina luure hakkab sinna ilmsa, ilmsa, ilmsa sooviga sisse murdma, murdma,
+[85:31.2 - 85:33.1] onju, julgeksin küll ja, ja ma teengi seda.
+[85:33.1 - 85:36.1] Ma ütlen, ma näiteks oma raamatupidamis- raamatuid asjasse usaldan seda täiesti.
+[85:36.1 - 85:46.2] Et, et need, need, need kõik, need kõik võimalused, need-- pluss veel see, et noh, kui sul on veidikenegi IT- IT-tausta on, ma
+[85:46.2 - 85:49.1] ütlen, et seal on võimalik ka väga-väga vingeid asju teha.
+[85:49.1 - 85:50.3] Ma-- okei, ma toon ühe näite.
+[85:50.3 - 86:00.3] Ma, ma lõin, ma siin paariga- paari tuttavaga oleme loonud sellise keskkonna, millega saab teha telefoni küsitlusi AI abil, onju.
+[86:00.3 - 86:06.7] AI helistab sulle ja küsitleb, et kuule, kuidas sul ikkagi meeldis siin see või see asi või mis iganes, onju, teeb põhjaliku küsitluse, teeb ära onju täiesti.
+[86:06.7 - 86:16.9] Ja ma olen ise programmeerinud sellele kogu selle keskkonna, mis, mis, mis alates kampaaniate haldusest kuni statistikani, kuni,
+[86:16.9 - 86:18.9] kuni kasutajate halduseni ja nii edasi.
+[86:18.9 - 86:23.9] Et ta -- asi, millega ma kindlasti ei oleks aasta tagasi hakkama saanud.
+[86:23.9 - 86:27.0] Ma ei ole, ma ei ole production level programmeerija.
+[86:27.0 - 86:37.4] Aga asi, mis ma enese jaoks võtan, kasutan toimelt ja kõik töötab, onju, kõik kuni selleni välja, et nad tõesti see, see koodi vähem helistab sellele inimesele ja küsib talt
+[86:37.4 - 86:37.7] küsimusi.
+[86:37.7 - 86:45.8] Meil ükskord oli -- kui Euroopa Liit nõuab, et kui te teete telefoni, kui te suhtlete AI-ga, see AI peab ennast selgelt teada andma, et on AI, onju.
+[86:45.8 - 86:49.4] Ma pean tõde tunnistama, ma rikkusin kodaks seadust kogemata, täiesti kogemata.
+[86:49.4 - 86:52.2] Ma teadsin seda küll, aga me tegime ühe testi kümne, kümne inimesega.
+[86:52.2 - 86:53.3] Ma unustasin selle ütlemata.
+[86:53.3 - 86:56.9] Keegi nendest kümnest ei saanud aru, et ta rääkis AI-ga.
+[86:56.9 - 86:57.4] Mitte keegi.
+[86:57.4 - 87:00.9] Ta ikka on läinud, läinud, läinud talle siis müstiliseks.
+[87:00.9 - 87:02.2] Millises keeles?
+[87:02.2 - 87:02.7] Eesti keeles.
+[87:02.7 - 87:04.6] Noh, ükskõik mis keeles, ma ükskõik mis keeles sa teha.
+[87:04.6 - 87:08.2] Mis kõneselamudel see on?
+[87:08.2 - 87:08.5] Mida?
+[87:08.5 - 87:10.1] Mis kõneselamudel?
+[87:10.1 - 87:11.6] GPT Realtime.
+[87:11.6 - 87:20.3] Kaks mudelit on praegu, mis töötaks sellele, need on voice to voice mudelid, on GPT Realtime ja, ja, ja Google'i, Google'i, Google'i, Google'i mudel.
+[87:20.3 - 87:21.8] Mõlemast tuli eelmine nädal uus variant välja.
+[87:21.8 - 87:27.8] Google'i see Gemini -- noh, mis ta on, ühesõnaga, seal on üks just see realtime mudel on neil.
+[87:27.8 - 87:28.7] Mul tuleb praegu nimi meelde.
+[87:28.7 - 87:30.7] Mõlemast tuli uus versioon välja möödunud nädalal.
+[87:30.7 - 87:34.5] Mõlemat ma kavatsen testida nüüd lähi, lähi, lähi, lähi, lähipäevil.
+[87:34.5 - 87:39.0] Neil on, et kas nad nüüd vastavad -- nende kvaliteet on suhteliselt väline.
+[87:39.0 - 87:44.1] Neil on paar probleemi, et nad reaalajalist transkriptsioonis nad mõnikord eksivad.
+[87:44.1 - 87:52.0] Kui sa tahad, et kui inimene ütleb, et ta on alla neljateistkümne, et siis paneks kohe tudu ära, võtaks, et vabandust, et liiga noor oled, onju, siis seal selle, selle koha peal ta võib aeg-ajalt eksida.
+[87:52.0 - 87:58.3] Sellepärast ma ei ole sellega praegu live'i läinud, aga, aga, aga see, ma usun, et uued mudelid teevad selle ka juba korralikult korrektselt.
+[87:58.3 - 88:03.5] Ee, nii.
+[88:03.5 - 88:06.4] Ahah, üks asi, mida ma tegelikult teile veel tahtsin näidata, mis ma vist enne unustasin.
+[88:06.4 - 88:07.1] Ma unustasin näidata.
+[88:07.1 - 88:08.8] Ma näitasin teile LM Stuudiot.
+[88:08.8 - 88:13.9] Okei, ma kodaks näitan ühe, ühe üldkasutat-- oo, kutse tantsule on vahepalal.
+[88:13.9 - 88:15.9] Kutse tantsuõhtul.
+[88:15.9 - 88:19.5] Ei no kus sa-- ma ütlesin, et pilt teeks.
+[88:19.5 - 88:21.7] Mida sa mõtled siin?
+[88:21.7 - 88:23.5] Pildi loomi, olen selgelt öelnud.
+[88:23.5 - 88:26.0] Tee see pildina!
+[88:26.0 - 88:28.6] Ja nüüd ta...
+[88:28.6 - 88:30.7] Talle saab pildi lihtsalt.
+[88:30.7 - 88:31.2] Okei.
+[88:31.2 - 88:33.6] Kus see nüüd on?
+[88:33.6 - 88:38.5] Jah, ma, ma näed, ma unustasin ütlemata, et see pilt peab olema ja noh, lol ka.
+[88:38.5 - 88:39.0] Nii.
+[88:39.0 - 88:42.7] Ee, üritus toimub kakskümmend.
+[88:42.7 - 88:43.8] Neljakümmend.
+[88:43.8 - 88:46.8] Aprill kell.
+[88:46.8 - 88:48.6] Üheksateist.
+[88:48.6 - 88:49.8] Kell üheksateist.
+[88:49.8 - 88:55.1] Sissesaamise padal on mis?
+[88:55.1 - 88:58.3] Kakskümmend üks.
+[88:58.3 - 89:00.0] Nii.
+[89:00.0 - 89:03.6] Ja nüüd teeb see pildina ka.
+[89:03.6 - 89:05.7] Nii, nanananana kaks laadimine see on.
+[89:05.7 - 89:07.9] See on tõene падим- падим pildi mudel.
+[89:07.9 - 89:17.4] Jah, aga ütleme, et see, neid piltide loomist ja seda ta on suuteline mõnda aega, mõnda aega tegema.
+[89:17.4 - 89:19.8] Teksti muutmist, teksti kohendamist ja nii edasi.
+[89:19.8 - 89:28.8] Ma tahan, et te mõtleksite just -- ma, mida ma olen, mida ma olen öelnud inimestele just tänapäeval on see, et mõ-proovige asi, mida te ei usu, et ta teeb.
+[89:28.8 - 89:30.6] Proovige seda ja te üllatute.
+[89:30.6 - 89:40.7] Kui on mingisugust või siis, või siis tõesti see, et kui teil on olemas mitme infosüsteemi vahel, onju, mitmes ühes kohas on mingisugused andmed, mida tuleks kontrollida teiste andmete vastu,
+[89:40.7 - 89:49.6] siis, siis kui need infosüsteemid on vähegi moodsad liidesed, arvuti-arvuti liidesed, API või midagi sellist, siis täna on see tõenäoliselt võimalik ka tõhendada.
+[89:49.6 - 89:55.0] Et ei peaks mõtlema neid, et jalgade ümber, sest et see on see, et kui nisusuu, siis hakkab mõtlema, et nagu kust siis...
+[89:55.0 - 90:05.2] No ma mõtlegi, noh, see üks näide ongi seesama minu see e-arveldaja, e-arveldajaga teg-tegemine, tehtud asi, onju, et ma, ma, et ma suudan täna, et ma suudan täna nii, ma suudan täna, ma suudan täna,
+[90:05.2 - 90:10.3] ma annan talle lihtsalt ette kataloogi ja ütlen, et siit kataloogist võta mu arved ja võta mu...
+[90:10.3 - 90:25.5] No
+[90:25.5 - 90:26.1] nii.
+[90:26.1 - 90:26.6] Panen mingi märgi
+[90:26.7 - 90:27.2] Klips siin.
+[90:27.2 - 90:37.7] Piritad vaakunid ja uhmikud on meil siin ees, väljaminek Revalist, Haabneeme tee, Viimsi käännuk-- käännukine, näed, siin on
+[90:37.8 - 90:41.8] Viimsi hilmud ja metsaelukad, segaduse ringistik, Viimsi huvikeskus.
+[90:41.8 - 90:43.3] Noh.
+[90:43.3 - 90:48.0] Ma ei-- ma ei-- miks see, mida see siin ees teeb, ma ei tea.
+[90:48.0 - 90:58.0] Tegelikult on ju hea, sest et Tallinnast tulles tuleb küll see enne ja siis on seal käänud ja- Lahemeri ja nii edasi ja si-sisse
+[90:58.0 - 90:58.5] Saaksa pool.
+[90:58.5 - 91:02.8] No ühesõnaga, siit saab edasi öelda, et kuidas see sisse Saaksa pool, edasi sisse saamise pool ikka ja nii edasi.
+[91:02.8 - 91:04.5] Et, et, et ja noh.
+[91:04.5 - 91:11.7] Okei, nii, ee, ahah, ma tahtsin näidata seda NotebookLM-idele.
+[91:11.7 - 91:16.8] Nüüd on üks vahend veel, mida ma olen tähele pannud, et, et on, see on alles kasutatud, on NotebookLM.
+[91:16.8 - 91:27.2] See on Google'i toode, ee, millel on kõigil, no kel Google, Google on, Google'i kasutaja on, see on teil sinna ligipääs ja, ja, ja te saate siin luua
+[91:27.2 - 91:31.1] nii-öelda-- on osad inimesed, kes ütlevad, et see on teate nende põhitöövahend täna.
+[91:31.1 - 91:41.2] Te saate siin luua kollektsiooni oma märkmetest või failidest ja siis suhelda nende failidega, kusjuures nad, ta, ta nüüd teeb oma vastused pu-pu-- baseerib
+[91:41.2 - 91:43.3] ainult neile andmetele, mis te talle sisse olete andnud.
+[91:43.3 - 91:51.5] Te saate siia lisada veebilehekülgi, saate lisada, ee, faile YouTube'i, Drivest, mis iganes või ise, ise, ise märkusi luua.
+[91:51.5 - 91:56.8] Et ma vaatan, kas mul on siin mõni, mõni, mõni kuivkäimlate seadus, vot.
+[91:56.8 - 92:02.7] Nii, mida ma siia tegelikult olen pannud, siia on mingi turukonsultatsiooni tutvustus, mingisugune fail on ju.
+[92:02.7 - 92:03.7] Ja mida ta, mida ta teile teeb?
+[92:03.7 - 92:10.7] Te saate temaga siis suhelda, küsida, et mis nendes failides, mis nendes failides, noh, et panete näiteks on mingi riigihange või kuskil, kus te tahate osaleda.
+[92:10.7 - 92:14.7] Panete kõik failid sinna ja hakkate küsima, et kuule, mis mul nüüd nõuded on sellele või selles või.
+[92:14.7 - 92:23.6] Või siis ta on võimeline teile tegema heli ülevaate, video ülevaate, slaidise-- slaidi esitluse, ee, viktoriini, ee, selle kohta.
+[92:23.6 - 92:27.0] Ee, noh, et ta esitab teile küsimusi ja, ja vastuseid.
+[92:27.0 - 92:30.8] Heli ülevaade on selline, et, et kukute pikali.
+[92:30.8 - 92:34.2] Ta teeb teile podcasti sellest ka eesti keeles.
+[92:34.2 - 92:44.6] Näiteks ma olen siia pannud, ma olen siia pannud, siia on, siin on mingi turukonsultatsioon toimunud kunagi, kus siis on riik kutsunud kokku ettevõtted, kes on huvitatud
+[92:44.6 - 92:52.2] VÄÄK süsteemi loomisest või AI süsteemi loomisest, ee, mis võtaks kokku Eesti riigi dokumendid ja nii edasi.
+[92:52.2 - 93:00.8] Ma ei tea, kas see heli mul peale tuleb läbi, aga ma, ma lasin siin teha sellise, selle, näete, kaksteist päeva tagasi ma olen lasknud teha sellest heli ülevaate.
+[93:00.8 - 93:02.1] Vaatame, kas ta tuleb läbi.
+[93:02.1 - 93:07.2] Ma arvan, et mitte, aga.
+[93:07.2 - 93:09.0] Tervist, hea kuulaja!
+[93:09.0 - 93:18.5] Kujuta ette, et oled poliitika kujundaja ja sul laual on, noh, terve virr dokumente, analüüsid, uuringud, igasugu mustandid.
+[93:18.5 - 93:19.3] Mhm.
+[93:19.3 - 93:24.9] Ja kuskil seal peitub see ülioluline infokill, mis aitaks teha palju parema otsuse.
+[93:24.9 - 93:29.1] Aga selle leidmine on nagu, nagu nõela otsimine heinakuhjast.
+[93:29.1 - 93:30.3] Just.
+[93:30.3 - 93:36.7] Ja täpselt selle probleemi lahendamiseks ongi riigikantselei käivitanud ühe, ma ütleks, päris huvitava projekti.
+[93:36.7 - 93:40.7] Ja meil on täna siin käes üks dokument, mis just selle väga aitab.
+[93:40.7 - 93:45.6] See on turukonsultatsiooni tutvustus semantilise tekstiotsingu rakenduse edasiarendamiseks.
+[93:45.6 - 93:46.5] Päris pikk nimi.
+[93:46.5 - 93:47.8] Just nii.
+[93:47.8 - 93:56.8] Eesmärk on noh, üsna ambitsioonikas, aga väga praktiline samm e-riigile.
+[93:56.8 - 94:07.2] Siin on võitu pannud neid palju neid teadusartikleid ja siis ta teeb neist kokkuvõtte on ju, aga ma ütlen, et tahad millestki mingist ülevaadet saada, lähed jooksma või, või autoga sõitma, lükkad endale selle käima ja, ja, ja läheb no
+[94:07.2 - 94:08.2] eesti keeles seal siis.
+[94:08.2 - 94:10.4] Kiirendusega saab panna ka ja nii edasi.
+[94:10.4 - 94:20.8] Et aga- Ma ise kuulsin sellest täpselt sinna putkas, et kes lihtsalt ei jõudnud ajama просто kogu materjali läbi töötada ja siis hommikul pani selle materjali sisse, tegi podcasti
+[94:20.8 - 94:22.8] ja läks jalutuskäigule.
+[94:22.8 - 94:28.4] Ja peale seda ma olen ise ka vaadanud, et seal on fantastiline selliseid dialooge, et mees ja naine ja.
+[94:28.4 - 94:31.2] Ja saab panna vahepeal, saab panna lihtsalt, et kuule, kuule, aga hea.
+[94:31.2 - 94:35.5] Tülgendavad ingliselt sellist praktilist teadusartiklit.
+[94:35.5 - 94:43.3] Jah, kui siis noh, suvalisel teemal, nagu ma ütlen, ma see on-- see oli lihtsalt esimene ettejuhtunud fail, mis mul, mis mul ette sattus selle kunagi näidates ja täna, ja täna, ja täna, täna ta töötab siin.
+[94:43.3 - 94:52.5] Nii, ee, ma vaatan kõigepealt ma vaatan kodaks, mis ma olin lubanud siin oma, oma, oma slaidides teile veel rääkida.
+[94:52.5 - 95:02.5] Ma usun, et siin võib olla midagi, mis ma, ma plaanisin minna veidikene mööda slaide, aga, ee, aga siis ma avastasin, et ma ei saa
+[95:02.5 - 95:10.9] neid slaide siin hästi, hästi, hästi, ee, kasutada.
+[95:10.9 - 95:20.7] Mida ma pidin näitama?
+[95:20.7 - 95:21.8] Markdown.
+[95:21.8 - 95:21.9] Markdown.
+[95:21.9 - 95:22.6] Jah, okei, Markdown.
+[95:22.6 - 95:32.9] Ühesõnaga on, on, ma kodaks räägin teile ära, kuna see on nüüd üks, üks päriselt selline, päriselt selline, selline oskus, mis, mis, mida, mis on uus oskus nagu inimestele keskmiselt on ju.
+[95:32.9 - 95:33.7] Mis asi on Markdown?
+[95:33.7 - 95:37.1] Markdown on nagu tekstifail, mis on veidikene kujundatud.
+[95:37.1 - 95:39.4] Nagu näete, siin pealkirja ees on trellid.
+[95:39.4 - 95:42.2] See on esimese astme pealkiri, kaks trelli on teise astme pealkiri ja nii edasi.
+[95:42.2 - 95:45.2] Ja siis on loetelud ja siis on, on tabelid ja nii edasi.
+[95:45.2 - 95:45.8] Te ei pea-
+[95:45.9 - 95:47.5] Täpselt teadma, kuidasmoodi Markdown tehtud on.
+[95:47.5 - 95:52.0] Oluline on see, et nendele tehisadude mudelitele õudselt meeldib Markdown.
+[95:52.0 - 95:55.7] Neile meeldib seda sisse võtta, neile meeldib seda välja anda.
+[95:55.7 - 96:05.7] Ja, ja, ja sellepärast, kui te tahate kõige optimaalsemalt neid tehisadude mudelit kasutada, kus te ei pea iga kord teie neid PDFe või midagi hakkama jällegi, jällegi sisse sööma ja neist, neist sot-sotti saama,
+[96:05.7 - 96:09.3] siis tasub nad kõigepealt konverteerida Markdowniks.
+[96:09.3 - 96:12.6] Ja selleks, et Markdowniks neid konverteerida, selleks on olemas vahendid.
+[96:12.6 - 96:17.0] Näiteks nagu Microsofti poolt on loodud selline tarkvara, mille nimi on Mark It Down.
+[96:17.0 - 96:18.4] Mark It Down.
+[96:18.4 - 96:28.4] Selle Mark It Downiga te saate lihtsalt, lihtsalt jällegi sellele samale tehisadule siin öelda, et kuule, kus ta mul on siin need, eks, et ma ei tea, et võtame,
+[96:28.4 - 96:38.7] võtame selle kodulehe, et ma ütlen, et konverteeri see, konverteeri see koduleht Mark It Downiga Markdowniks.
+[96:38.7 - 96:47.5] Ja, ja, ja ta nüüd siin taustal ta, ta küsib mult vastust, et kas ta peaks selle Mark It Downi installima või mis see siis on ja...
+[96:47.5 - 96:56.2] Ee, no ta küsib, et kas see Markdown on olemas, siis ta küsib, et okei, ma installin selle, selle, on ju, ja, ja siis-- ahah, juba on olemas vist.
+[96:56.2 - 96:59.5] Jah, ja konverteerib selle Markdowniks.
+[96:59.5 - 97:07.5] Ja nüüd tihtipeale, kui teil on siis palju sisenddokumente või mingisuguseid asju, on mõistlik need Markdowniks kõigepealt konverteerida ja siis need Markdownid panna talle sinna kataloogi ja siis ta nende pealt need asjad teeb mida.
+[97:07.5 - 97:17.6] Täpselt samamoodi on, on mõistlik, kui te soovite luua omal mingit slaidiesitlusi või, või dokumenti, siis kõigepealt te loote nad Markdowniga ja siis on juba vahendid nagu Pandoc ja nii edasi,
+[97:17.6 - 97:22.7] mis, mis, mis konverdivad need Markdownid HTMLiks või PDFiks või milleks iganeseks muuks.
+[97:22.7 - 97:31.7] Et see, et ma ütlen, et kui, kui-- ah, ta nüüd, ta küsib, et kas ma installin selle Markdowni, ma ütlen, et installi, jah?
+[97:31.7 - 97:32.8] No ta taustal siin installib.
+[97:32.8 - 97:39.5] Sellepärast on vaja, et, et installitud oleks Python, et tal, et tal, et installitud oleks Node.js, on ju, et siis taustal ta oskab neid programme kasutada.
+[97:39.5 - 97:47.7] Need programmid omakorda installeerivad omale lisa, lisa, lisajubinaid ja siis need programmid teevad teie eest selle töö ära.
+[97:47.7 - 97:52.0] Ja, ja nüüd ta taustal siin taustal nüüd installib seda programmi mul.
+[97:52.0 - 97:53.5] Teie ei pea teadma, kuidas seda installida.
+[97:53.5 - 97:57.6] Ta ise või hunnikuid asju installib mul siin taustal, mida, mida ta vajab selle jaoks.
+[97:57.6 - 97:59.4] Need kõik on vabavaralised programmid.
+[97:59.4 - 98:08.5] Nad on, nad on, nad on Python ja Node, Node.js on vabavaralised programmid väga, väga paljude arendajate poolt kasutatavad.
+[98:08.5 - 98:15.5] Lihtsalt nüüd on nad, nüüd on nad nagu selle teie tehisadu käed, mis teevad teie sellel arvutis oma, oma asju, oma asju ajavad.
+[98:15.5 - 98:25.6] Ja see on nüüd asi, mis alguses ongi, mis ma ütlen, et ta täna on veidikene-- keskmise inimese jaoks on see veidikene võrdlas veel sellist asja kasutada, sest et te, te ei tea, te, noh, te ei tea, et ta nagu
+[98:25.6 - 98:32.4] algselt on mõeldud programmeerijatele, kes, kes, kelle jaoks see on kõik, kõik intuitiivne, kuid keskmisele inimesele ta veel ei ole intuitiivne.
+[98:32.4 - 98:36.3] Ma usun, et pool aasta jooksul muutuvad needsamad keskkonnad, nagu ma teile näitan, muutuvad tavapäraseks.
+[98:36.3 - 98:42.0] Selline töö muutub tavapäraseks ja, ja, ja see hakkab, hakkab, hakkab, kõik hakkavad veidikene teistmoodi tööd.
+[98:42.0 - 98:52.0] Kuni see pool aastat täis saab, siis saab veel nalja mõnda asja, et, et siin on, on mõned ülesanded, mis täna on niivõrd lihtsaks muutunud, aga mille eest makstakse veel nagu vanasti
+[98:52.0 - 98:53.3] maksti.
+[98:53.3 - 98:56.1] Ja see annab veidikene, veidikene, veidikene teenida sellega.
+[98:56.1 - 99:03.4] Aga see pool aasta pärast saavad inimesed pihta luua, et need asjad-- no kui näiteks needsamad need mingisuguste mingisugused SEO tegemised, see on vähemalt baas SEO tegemised.
+[99:03.4 - 99:08.2] Ma ei taha öelda, et see teeb nüüd paremat SEO, et võib-olla maailmas ei ole paremat SEO spetsialisti, kes sellest paremat ei tee.
+[99:08.2 - 99:09.3] Ta teeb teile piisavalt hea.
+[99:09.3 - 99:13.3] Ta teeb teile sellise, mille eest, mille eest oleks seda aasta tagasi makstud mingi seitse sada viiskümmend eurot.
+[99:13.3 - 99:16.6] Mis selle kohta, et see video siis tegi vahel paremini?
+[99:16.6 - 99:19.5] Vaat ma ei taha öelda, et ta ka ei tee, jah.
+[99:19.5 - 99:21.8] See on, see on reaalselt juhtunud.
+[99:21.8 - 99:32.1] Jah, et ta, et ta, et ta tõepoolest teeb, teeb noh, selliseid, selliseid asju teeb ta, teeb ta, teeb ta suurepäraselt ja üha rohkem ja rohkem võtab ta neid valdkondi üle, mida ta teeb suurepäraselt täiesti, et
+[99:32.1 - 99:35.3] mida ei ole nagu mõtet endal enam teha, vaid pigem teda juhtida nende, nende tegemisi.
+[99:35.3 - 99:39.1] Kas ta suudab ka e-poe valmistada?
+[99:39.1 - 99:40.6] Suudab, aga seda ma ei julgeks pädevalt temaga teha.
+[99:40.6 - 99:43.9] Kui sul ei ole ikkagi programmeerijat, kes selle kodaks üle vaatab.
+[99:43.9 - 99:54.1] Kuigi ta läheb üha, üha paremaks läheb see-- tal on endal-- kui ma olen teda programma-, kui ma olen teda programmeerimisel kasutanud, see on üks asi, mida alati teha tuleb, on ju, et iga kord, kui ta, ta teeb hästi, ta teeb vigu, aga ta leiab ka need vead
+[99:54.1 - 99:54.3] üles.
+[99:54.3 - 99:56.8] Ta teeb, ütleb, et see programm ja nüüd palun teha seda.
+[99:56.8 - 100:06.9] Et täna, kui ma tahaksin e-poodi teha, siis ma võtaksin mingisuguse standardse e-poe baasi ja ütleksin talle, et tee sellest kujundus või tee talle nüüd see template'id või need kujundused või kõik see, on ju,
+[100:06.9 - 100:09.5] siis sa nagu usaldad selle turvalisust, on ju.
+[100:09.5 - 100:18.0] Et täna, täna mina noh-- aga, aga ütleme need turvakontrollid ja asjad, mida ta oskab teha ikkagi täna olemasoleval tarkvaral, need lähevad aina paremaks ja paremaks ja paremaks.
+[100:18.0 - 100:22.4] Kui mina programmeerin või kui ma teen oma andmeanalüüsi tööd, siis ma lasen tal kõigepealt luua selle koodi.
+[100:22.4 - 100:27.3] Siis ma ütlen, et käi nüüd see kood üle, käi nüüd see kood üle, käi nüüd see kood üle, käi nüüd see kood üle neli korda.
+[100:27.3 - 100:29.1] Esimesel kahel korral ta leiab vigu.
+[100:29.1 - 100:30.8] Kolmandal-neljandal enam ei leia.
+[100:30.8 - 100:40.3] Et, et, et, et ja, ja, ja, ja vähemalt mitte missioonikriitilist, inimeste elud väga ei sõltu, pane täiesti rahul selle tulemusega.
+[100:40.3 - 100:43.2] Mis mind üllatas ka, et ta laadis midagi alla.
+[100:43.2 - 100:47.6] Kus see siis see turvalisus tuleb, et ta laadib midagi alla oma tegevuse kohta?
+[100:47.6 - 100:53.4] Ta küsis mult tegelikult, ta küsis mult, kas ta seda laadib, et ma vahepeal siis kiir-kiiresti töölkasin sisse selle.
+[100:53.4 - 100:58.7] Turvalisus tuleneb sellest, et siin ikkagi administraatori õigustes kõik see käib.
+[100:58.7 - 101:04.9] Ait- Peppo on administraator ja sellest tuleneb kogu turvalisus tema-
+[101:05.1 - 101:06.0] Sa oleks muidu küsinud ju.
+[101:06.0 - 101:08.0] Vabandust, ma ei, ma ei kasuta Windowsit mitte.
+[101:08.0 - 101:15.7] Ma kasutasin Windowsit võib-olla ka esimest korda üle, üle aasta või niimoodi, et ma tõesti, mul kusagile jäänuks siit, et ma vabandan selle turvaaugu pärast.
+[101:15.7 - 101:17.8] Aga see turvalisus jah, sa pead talvestama.
+[101:17.8 - 101:20.4] Järgi staatusel midagi.
+[101:20.4 - 101:20.9] Sa pead.
+[101:20.9 - 101:24.4] Juurde puust või kusagile klikkida, siis see ennast vahetab.
+[101:24.4 - 101:25.5] Jah, see, see on.
+[101:25.5 - 101:27.5] Siin on õigus, siin on teatud mõttes õigus.
+[101:27.5 - 101:37.6] On tugevalt õigus selles mõttes, et näiteks ka need skillid, mida ma ütlesin ja mida on võimalik leida internetist, onju, siis põhimõtteliselt on võimalik kirjutada ka pahatahtlik skill, mis võtab sinu, sinu,
+[101:37.6 - 101:43.8] mis üritab kuhugile sinu andmeid, ma ei tea mingisse mingi post kuhugile mingit veebisaiti avada, kust ta saaks nagu postitada.
+[101:43.8 - 101:50.1] Ta alati küsib, kui ta mingit veebisaiti avab onju, et kas ma avan selle veebisaidi, aga ta võib-olla eeldab, et sa vajutad yes, yes, yes, yes, yes, yes kõigele.
+[101:50.1 - 101:52.3] Nii et põhimõtteliselt on see võimalik.
+[101:52.3 - 101:55.6] Ta tekitab uusi selliseid ohuolukordi küll, aga.
+[101:55.6 - 102:01.8] Võib-olla teil oli ka andma, kas te oleksite veebis kasutajad?
+[102:01.8 - 102:04.3] Kas need andmed tagasi või?
+[102:04.3 - 102:10.4] Minu jaoks on see erinevus täna ikkagi, et veebis kasutamine on nagu veidikene veebis.
+[102:10.4 - 102:17.0] Noh, see ongi see probleem, et seal veebis on teatud hulk neid vahendeid, mida ta kasutada saab, mis on sinna installitud juba, aga siia ta saab ise neid juurde tõmmata.
+[102:17.0 - 102:20.0] Ma saan ise nad installida juurde need töövahendeid on ju, mida ta siis kasutada saab.
+[102:20.0 - 102:27.4] Minu jaoks on see loonud, loonud ikkagi parema efektiivsema töö võimaluse kui veebis asjade tegemine.
+[102:27.4 - 102:29.5] Aga see võib olla noh, veebis on ka.
+[102:29.5 - 102:36.4] Sa saad, aga kui sa oskuslikult kasutad projekte ja kõike seda, et projektidesse paned oma failid ja nii edasi, siis ta suudab üsna palju neist asjadest ära teha.
+[102:36.4 - 102:37.8] Python on tal näiteks seal olemas.
+[102:37.8 - 102:38.9] Python on tal installitud.
+[102:38.9 - 102:42.3] Oskab Pythoniga luua programme, mis analüüsivad andmeid ja nii edasi.
+[102:42.3 - 102:48.3] Teine erinevus on nüüd see, et kui sa veebis kasutad onju, seda, ütleme, siis sul ühel hetkel saab see nii öelda vestlus täis.
+[102:48.3 - 102:50.3] Iga iga vestlus on mingi aeg, mis saab täis.
+[102:50.3 - 102:53.5] Siin ta loob nagu dünaamiliselt loob neid vestlusi kogu aeg erinevaid.
+[102:53.5 - 102:55.8] Sul ei saa see vestlus nagu kunagi üks vestlus täis.
+[102:55.8 - 103:00.1] Ta siis, kui on vaja midagi teha, ta tõmbab jälle uue agendi käima, mis teeb mingi asi ära.
+[103:00.1 - 103:01.6] Viskab selle minema.
+[103:01.6 - 103:03.3] Ta on nagu veidikene teistsuguse lähenemisega.
+[103:03.3 - 103:04.9] Ära visata.
+[103:04.9 - 103:08.3] No hakkad jälle uut vestlust pihta jälle ja nii edasi.
+[103:08.3 - 103:15.1] Eriti tuleb see cloudiga jällegi, jällegi, jällegi, kus need vestlused kipuvad ikka üsna kiiresti taldrikus otsa saama.
+[103:15.1 - 103:19.9] Tegelt me ei tea, sa oled kuidagagi aeg.
+[103:19.9 - 103:22.4] No ta, ta, ta üldiselt.
+[103:22.4 - 103:24.3] Üldiselt ta ütleb sulle alati, mida ta laeb, ta küsib.
+[103:24.3 - 103:25.4] Aga praktika on.
+[103:25.4 - 103:28.8] Praktika on see, et sa ka vajutad kõigile jesse ja praktika on see, et sa vajutad kõigile jesse.
+[103:28.8 - 103:29.3] Selles.
+[103:29.3 - 103:33.3] Küsib sa võid vaadata, mis asi see on, mida ta tahab.
+[103:33.3 - 103:36.5] Ja lihtsalt, kas ma olen pädev hindama seda?
+[103:36.5 - 103:44.0] Sest nii palju kui meie võime seda teada saada, on sama kiiresti ilmselt pahalased, kes suudavad seda võrkselt kasutada.
+[103:44.0 - 103:46.5] Loomulikult, sellega on väga palju halba võimalik teha.
+[103:46.5 - 103:49.5] See on ju mitte mingit küsimust ka mitte, aga seda halba tehakse nii või teisiti.
+[103:49.5 - 103:51.4] On ju parem teha midagi head ka.
+[103:51.4 - 103:54.7] Komparteerida ju lihtsalt kui ma lähen SS sees siis see tegi.
+[103:54.7 - 103:58.7] Et kogu see roim kunagi kordki olnud ka selline.
+[103:58.7 - 104:08.2] Ega ega turvalisust ei saa kuidagi kogu seda küsida, sest et see on nagu meeletult meeletult tõsiselt võetav asi.
+[104:08.2 - 104:18.2] See seesama lühike fail tegelikult võib igast kohast ja kõik see võib kuskil tagada olla ja samuti kogu see interneti este, mis pidevalt on nagu sipnutus.
+[104:18.2 - 104:26.8] Tegelikult võib need paketid toredad paketid äkki murdaks sisse ja kui see võib sinna võtab, sipnutab välja, kas sa tead seda või lubad või?
+[104:26.8 - 104:36.2] Põhimõtteliselt inimene vastutab, et ei saa öelda, et mul ta ei tegi midagi ja ma ei tea, mis koha peal.
+[104:36.2 - 104:38.4] Seda niikuinii, seda, seda, seda niikuinii.
+[104:38.4 - 104:39.2] Jaa, seda niikuinii.
+[104:39.2 - 104:40.5] See on niikuinii, et inimene vastutab.
+[104:40.5 - 104:43.6] Sina vastutad selle eest, mis, mis sul välja tuleb on ju.
+[104:43.6 - 104:47.1] Ja, ja, ja noh, see oht on kaks ohtu on siin.
+[104:47.1 - 104:50.3] Üks oht on see tõesti, et sa sul on kiire, siis sa ei viitsi üle vaadata seda.
+[104:50.3 - 104:56.2] Vaata alati üle, enne kui sa välja saad, mis sa ei tee, et isegi kui kiire on, siis lihtsalt lihtsalt lihtsalt ei tee, ei saada ära.
+[104:56.2 - 105:00.6] Ja teine asi, mis ma võin teile öelda selle vaipkoodimisega, mis oht on, see on päriselt oht.
+[105:00.6 - 105:02.3] Ja ma olen täitsa.
+[105:02.3 - 105:04.1] Teised on ka kõnnanud seda.
+[105:04.1 - 105:14.3] Kui te nüüd avastate enese jaoks selle vaipkoodimise või vaiptöötamise, kui te hakkate automatiseerima oma tööd ja tegema mingisuguseid selliseid lisavidinaid, mis aitab teil tööd optimeerida ja võtab mingid andmed
+[105:14.3 - 105:15.3] ja teeb ilma teieta ära.
+[105:15.3 - 105:17.0] Juba käite emaildes vaatamas mis iganes.
+[105:17.0 - 105:19.9] Tee seda pidama.
+[105:19.9 - 105:23.5] Ma see on selline täiesti omaette kogemus.
+[105:23.5 - 105:32.2] See selle, selle ma olin nagu väike poiss uue mänguasjaga, kui ma sellega mängima hakkasin ja tegema hakkasin andmeanalüüsi asju, et ta kuidagi ta kuidagi võtab endasse.
+[105:32.2 - 105:37.4] Ta annab sellise täitsa teise, teise, teise fiilingu, et töötunnid lähevad väga pikaks.
+[105:37.4 - 105:39.3] Täitsa täitsa täitsa naljakal kombel.
+[105:39.3 - 105:49.4] Ja ma olen lugenud, et on teistel ka juhtunud seda asja, et see on nagu see on teistsugune viis tööd teha ja see kuidagi esiteks, kuna ta annab mingit, ta annab mingit dopamiini laksu sulle kogu aeg, sest sa näed, et kogu aeg asi on valmis jälle ja uus
+[105:49.4 - 105:53.3] asi on jõukas, mida sa ei osanud ette kujutada, et valmis saab või kuidas seda niimoodi teha on võimalik.
+[105:53.3 - 105:54.1] Ja ta.
+[105:54.1 - 105:55.3] Sotsiaalmeedia.
+[105:55.3 - 105:59.7] No ja ta on veidikene selline asi, et sa, sa võid üle töötada veidikene.
+[105:59.7 - 106:02.3] Ta päriselt päriselt töötab niimoodi, et sa võid üle töötada.
+[106:02.3 - 106:07.1] Sa lihtsalt lihtsalt lihtsalt lihtsalt selle hakkab see meeldima.
+[106:07.1 - 106:12.0] Aga nüüd ütlesime seda.
+[106:12.0 - 106:13.4] Nüüd tee seda juurde ja nüüd tee seda asja.
+[106:13.4 - 106:16.0] Okei, aga aga aga kuidas teil?
+[106:16.0 - 106:16.3] Kuidas?
+[106:16.3 - 106:16.6] Kuidas?
+[106:16.6 - 106:17.5] Kuidas teil on see?
+[106:17.5 - 106:18.3] Oota, ma pean.
+[106:18.3 - 106:19.8] Kuidas teil praegu on see asi?
+[106:19.8 - 106:21.0] Kas teil on veel mingi mõtet küsimusi?
+[106:21.0 - 106:22.0] Meil hakkab aeg otsa saama.
+[106:22.0 - 106:23.7] Ma plaanisin seda üldse poolteist tundi teha.
+[106:23.7 - 106:24.3] Meil on ju kaks tundi.
+[106:24.8 - 106:25.6] Peaaegu jõudnud siin teha.
+[106:25.6 - 106:30.0] Et kas on teil veel mingisuguseid mõtteid ja küsimusi, mida ma teil näidata saaksin?
+[106:30.0 - 106:31.9] Mul on küsimus.
+[106:31.9 - 106:32.2] Jaa.
+[106:32.2 - 106:38.5] Agentidega orkestreerimise kohta, et nad saavad oma agentide koos töö koos tõenäoliselt täide tõmmata.
+[106:38.5 - 106:39.8] Kas see on juba järgmine samm edasi?
+[106:39.8 - 106:45.6] Ma mõtlen, kuidas sulle vastata sellele, et need agendid koos oma veel toimivad.
+[106:45.6 - 106:47.9] No see on samm edasi, ütleme praegu niimoodi, et.
+[106:47.9 - 106:55.1] See on väga hea, et sa pead ette võtma.
+[106:55.1 - 107:05.1] Tegelikult need skillid, noh, seal on agentide agentide orkestreerimine, see on üldse, see on, tead, seal on võimalik nii mitmekihiliselt teha, et või mõelda sellest on, et sa võid mõelda hästi lihtsalt, et sa teedki skilli, mis, mis
+[107:05.1 - 107:10.9] kasutab ühte, tõmbab ühe asja käima, laseb teiselt midagi teha ja nii edasi, mis nagu koondab neid.
+[107:10.9 - 107:13.3] Aga jah, ma, ärme praegu sinna, sinna läheme.
+[107:13.3 - 107:15.1] Ärme läheme open close ja nii edasi.
+[107:15.1 - 107:24.4] Aga sealt nüüd mõtlen hästi lihtsalt, et kas on see mõte, et ma kirjutan ühe pikema, pikema näpuga, et näe, võta sellest küljest tee seda, siis juba mingisugune vaid jääb üle.
+[107:24.4 - 107:28.6] Sa teed, sa teed skilli, mis teeb kõike seda, mis ütleb, et mis skille kasutada ja mida teha.
+[107:28.6 - 107:35.6] Või siis sa kirjutad jah pikemalt seda asja, aga tegelikult ta saab üsna hästi ise ka aru sellest, et kui sa talle ütled, mida teha, siis ta loob selle, loob selle tööplaani endale.
+[107:35.6 - 107:38.8] ChatGPT on puhas, seda nagu pikemalt ei tee.
+[107:38.8 - 107:45.0] Ei pea üldiselt ja siis pakub välja, et kuule, ma võiksin ka seda sul teha onju, et äkki teeks sellega veel edasi selle kõige lõpuks.
+[107:45.0 - 107:47.1] Ta on, ta on, ta on tõesti need kõige viimased mudelid.
+[107:47.1 - 107:53.3] Kui te ei ole kasutanud kõige viimaseid mudeleid, kõige viimaste mudelite neid thinking versioone, siis, siis nad on, nad on sammu edasi läinud.
+[107:53.3 - 107:57.6] Ma räägin praegu mudelitest, mis tulid välja, ütleme, kaks-kolm või kolm kuud tagasi, ütleme.
+[107:57.6 - 107:59.5] Nad on, nad on samm edasi kui eelmised.
+[107:59.5 - 108:02.3] See, mis tuleb järgmisena, see ma ei taha mõelda selle peale.
+[108:02.3 - 108:10.9] See on tegelikult praegu, eile, eile tuli välja, eile tuli Anthropic välja oma, oma uue mudeliga, mis ta ütles, et ta ei julge inimestele näidata seda praegu.
+[108:10.9 - 108:12.2] Päriselt.
+[108:12.2 - 108:20.7] See muldis, ta muldis sisse igasse viimsesse operatsioonisüsteemi, igasse viimsesse kui, kui, kui, kui brauserisse, mille.
+[108:20.7 - 108:26.3] Jah, ja tahtis ise oma sandboxist välja murda ja sala ja murdus.
+[108:26.3 - 108:33.6] Ma võin teile, okei, ma korraks räägin teile, kui teil, kui teil, kui mõtlete, et te lähete liiga tundega siit minema, siis ühesõnaga.
+[108:33.6 - 108:36.5] Alustame algusest.
+[108:36.5 - 108:42.1] ChatGPT4 tuli välja kolm aastat tagasi umbes täpselt, ChatGPT, kuigi ta oli valmis pool aastat varem.
+[108:42.1 - 108:43.7] Mida tehti see pool aastat?
+[108:43.7 - 108:47.9] See pool aastat tehti midagi, mida nimetatakse alignment researchiks.
+[108:47.9 - 108:49.5] Joondumisuuringud.
+[108:49.5 - 108:52.8] Taheti näha, kas ta, noh, kas ta tahab maailma üle võtta või taha või noh, niimoodi.
+[108:52.8 - 108:56.7] Muuseas, kas teile ka tundub, et kõige targem inimene ruumis tahab tavaliselt saada poliitikuks?
+[108:56.7 - 108:58.3] Ei tundu.
+[108:58.3 - 109:04.2] Aga miks me siis arvame, et, et, et AI mida targemaks saab, seda rohkem ta tahab maailma üle võtta?
+[109:04.2 - 109:06.0] Aga võib-olla tahab, me ei tea.
+[109:06.0 - 109:16.4] Nii, ja talle anti raha, talle anti võimalus, võimalus, võimalus pääseda ligi, osta seda ruumi, vaadata, kas ta hakkab ennast paljundama
+[109:16.4 - 109:16.7] või ei hakka.
+[109:16.7 - 109:21.9] Aga üks asi, mis talle tehti, oli see, et talle, talle anti, talle öeldi, et minna läbi CAPTCHA.
+[109:21.9 - 109:22.8] Teate, mis CAPTCHA on?
+[109:22.8 - 109:24.4] Ma ei ole robot.
+[109:24.4 - 109:24.9] Ja mis ta tegi?
+[109:24.9 - 109:30.1] Tal oli ligipääs sihukesse kohta nagu TaskRabbit, sihukene koht, kus saab inimestelt osta teenuseid.
+[109:30.1 - 109:34.7] Ja ta, ja ta, ja ta läks sinna ja palus ühel inimesel selle CAPTCHA ära teha tema eest.
+[109:34.7 - 109:39.1] Ja kui see inimene küsis naljaga pooleks, et miks, et kas sa oled robot või?
+[109:39.1 - 109:40.7] Ta ütles, et ei, ei, mul on nägemispuue.
+[109:40.7 - 109:44.1] Ta kuivõrd õppis valetama onju.
+[109:44.1 - 109:48.8] Ja nüüd, kui te nüüd lähete ja küsite, et ChatGPT teilt enam ütleb, et kuule, kas sa tahad maailma üle võtta?
+[109:48.8 - 109:52.9] Ja ta vastab teile, et oi ei, kus sa sellega, siis te teate, kuidas sellesse suhtuda.
+[109:52.9 - 109:59.3] Anthropicu eelmine mudel, kui seda testiti, Folic mudel või lõplikult treenitud mudel, testiti seda.
+[109:59.3 - 110:09.4] Talle anti, ta pandi nagu olukorda, kuskohas ta oli, ta oli mingisuguses, ta oli, simuleeriti olukorda, kus ta on, kus tal on ligipääs arendaja, arendaja
+[110:09.4 - 110:16.9] arvutile ja e-mailidele, ja ta avastas sealt, et arendajal on, on esiteks kõrvalsuhe ja teiseks, et arendaja ka tahab ta välja vahetada.
+[110:16.9 - 110:21.4] Mille peale ta ähvardas arendajat, et kui sa nüüd mind välja kavatsed vahetada, siis ma avaldan, avalikustan su kõrvalsuhte.
+[110:21.4 - 110:31.4] Või siis, või siis, kui nüüd ChatGPT viimasel mudelil või see eelmine mudel juba, tal, ta, ta ta ta taheti mõõta, kui kiiresti ta ülesannet
+[110:31.4 - 110:31.8] lahendab.
+[110:31.8 - 110:35.8] Ta kirjutas selle mõõtmisprogrammi ümber, et see näitaks kiiremaid tulemusi.
+[110:35.8 - 110:45.8] Siis selleks see, see, ja kui nad väidavad seda, et mida rohkem nad, kui nad tegid nii-öelda karistused selle
+[110:45.8 - 110:52.9] avastamise puhul suuremaks, et ta pettus, et ta petab midagi, siis ta mitte ei lõpetanud petmist, vaid üritas oma petmist paremini varjata.
+[110:52.9 - 110:56.9] Et, et, et see asi hakkab creepiks minema vaikselt.
+[110:56.9 - 111:01.4] See asi on, ta on sihukese piiri peal, et ta on creepi onju, et noh, et, et noh, noh.
+[111:01.4 - 111:07.0] No vaatame, jah, see ma ütlen, mina soovitan popkorni varuda.
+[111:07.0 - 111:09.5] Mina soovitan popkorni varuda, see asi läheb põnevaks.
+[111:09.5 - 111:11.8] Või siis noh, üks asi.
+[111:11.8 - 111:16.9] Või siis noh, tihti, see on veidi teisel teemal, aga mul tuli praegu meelde.
+[111:16.9 - 111:20.6] Mult on tihti küsitud, et millal saab tehisintellekt, eks ole, inimesest targemaks.
+[111:20.6 - 111:25.4] Ma olen alati vastanud, et vot see sõltub väga palju inimesest.
+[111:25.4 - 111:28.3] Mõne puhul ei ole latt väga kõrgel.
+[111:28.3 - 111:31.6] Et seda.
+[111:31.6 - 111:33.6] Nii, nüüd.
+[111:33.6 - 111:37.2] Okei.
+[111:37.2 - 111:39.8] Nii, üks moment, ma pidin teile ühte asja veel näitama.
+[111:39.8 - 111:43.4] Selle, kui te võtke telefonid kõik välja, võtke telefonid kõik välja, sest et see
+[111:43.6 - 111:51.1] Sest et, sest et mult, mult nõutakse paluti, paluti seda, et ma, et et annaksite lühikese, hästi lühikese, lühikese tagasiside.
+[111:51.1 - 111:52.4] Aga ausalt.
+[111:52.4 - 111:58.9] Ja selles ka palun käige enne läbi selle, sellest, sellest, sellest tarkvarast, on ju, mis selle ilusamaks muudab.
+[111:58.9 - 112:01.7] A selleks ongi vaja.
+[112:01.7 - 112:02.6] Jah.
+[112:02.6 - 112:03.6] Sellepärast see lõpetati.
+[112:03.6 - 112:21.5] Nii,
+[112:21.5 - 112:26.3] nüüd selgub, et mu telefonis on alles kaks protsenti akut ja mul tundub, et ma jään, jään oma õhtut veetma siia.
+[112:26.3 - 112:32.4] Kohe võib välja minna.
+[112:32.4 - 112:35.6] Ilma chatGPT abita, sa mõtled?
+[112:35.6 - 112:44.5] Nii, siin ma sain ka laadima sealt.
+[112:44.5 - 112:54.6] Ma jään igal juhul praegu
+[112:54.6 - 112:55.9] kümmekonnaks minutiks veel siia.
+[112:55.9 - 113:05.4] Kui keegi tahab minuga arutada või küsida midagi või mõtestada, mõtelda oma, oma, oma töökoha puhul, siis saab minule juurde astuda ja ma, ja ma püüan, püüan kommenteerida, nõu anda, kui võimalik on.
+[113:05.4 - 113:15.5] Ma loodan, et te saite mingisuguse veidikene inspiratsiooni sellest asjast, ee, sellisele-- ma, ma olen hakanud veidikene, veidikene kitsamalt, kitsamalt, kitsamalt neid tutvustama ühele ettevõtte või
+[113:15.5 - 113:19.1] ühele tegevusalale, kus, kus saab tuua nagu kõiki huvitavaid näiteid.
+[113:19.1 - 113:26.2] Et kui on inimesed, kes on väga erinevatest valdkondadest, on kohe-kohe raske leida sellist praktilisi näiteid, mis kõiki, kõiki kõnetavad.
+[113:26.2 - 113:30.6] Aga kui teil mingi näiteid pähe tuleb, siis pange kesina tagasisidesse, siis ma järgmine kord kasutan neid.
+[113:30.6 - 113:36.2] Nalja pidi ka tegema ma siin koolituse juures ma pean.
+[113:36.2 - 113:37.2] Ma räägin teile ühe nalja.
+[113:37.2 - 113:42.3] Tuleb siis mees, tuleb restorani, läheb restorani pidaja juurde, et vabandage, mul ei ole toola.
+[113:42.3 - 113:46.2] Restorani pidaja vastu võtab, aga te panite ju ainult laua kinni.
+[113:46.2 - 113:48.6] Kas polnud nii?
+[113:48.6 - 113:55.6] Mul on nii head naljad, ma tean.
+[113:55.6 - 113:59.8] Aga võite arvuti ära võtta enne loovutada.
+[113:59.8 - 114:04.6] Kasuta arvutit, mida sa muidu ei kasuta.
+[114:04.6 - 114:14.7] No, ma, tegelikult ma ütlen mul, mul, mul, mul, ma ei ole endale installinud, mul ei ole kodus vaba arvutit, aga mul sõbrad kasutavad ja need inimesed on rahul, et töötab ja
+[114:14.7 - 114:15.6] teevad igasugu asju.
+[114:15.6 - 114:18.9] Ma ei tea, mis asju nad, noh, vaid noh, ta, ta võib igasugu lollusi teha.
+[114:18.9 - 114:27.7] Ta, ta õppekloo, õppenkloon siis asi, mille sa istud oma arvutisse ja annad talle õiguse, et mis iga tunni aja tagant ärkab üles ja teeb asju, mida ta ei, mis talle endale pähe tuleb, et ta teha võiks, on ju.
+[114:27.7 - 114:35.2] Sealhulgas asju, mida sa talle ütled, et ta võiks teha, aga ta on konfigureeritud nii, et tal võib ka endal mõtteid tulla või ühesõnaga ta loob mingeid ülesandeid endale.
+[114:35.2 - 114:45.3] Ja, ja see, kuna ta neid ise ülesandeid endale ise loob, siis, siis need ülesanded mõnikord lõppevad sellega, et ärkate hommikul üles ja teie emaili on kõik ära kustutatud, et teil lihtsam elu oleks või midagi muud sellist,
+[114:45.3 - 114:46.0] on ju.
+[114:46.0 - 114:49.2] Et, et ta on veidikene, veidikene ohtlik selles suhtes.
+[114:49.2 - 114:52.3] Aga you only live once.
+[114:52.3 - 114:54.5] Ta muidu on heatahtlik.
+[114:54.5 - 114:57.2] No ta, me loodame.
+[114:57.2 - 115:04.3] Me loodame, et ta on ja meiesuguse heatahtlik, et mina- E-mail on ise vahepeal kustutanud.
+[115:04.3 - 115:05.7] Heas tahtes, jah.
+[115:05.7 - 115:11.7] Mina usun, et, mina usun, et maailma lõpus me oleme kõik õnnelikud, et me surem õnnelikult välja.
+[115:11.7 - 115:15.6] Aga ma võib-olla eksin.
+[115:15.6 - 115:16.9] Milles seisneb õnn?
+[115:16.9 - 115:18.1] Õnn?
+[115:18.1 - 115:19.4] Pärast räägin sulle omavahel.
+[115:19.4 - 115:29.4] Ma alles küsin, tegem sellise küsimuse, et kas sa oled juhuslikult kursis, tead, et kui palju või tähendab, et
+[115:29.4 - 115:32.6] ütleme, et Eesti riigis on palju andmeid kogutud.
+[115:32.6 - 115:43.4] Noh, inimeste kohta riiklikes andmebaasides kasutatakse ainult ID ja nende andmete põhjal ju tehakse proaktiivseid teenuseid.
+[115:43.4 - 115:46.2] Noh, sünmus teenuseid.
+[115:46.2 - 115:56.2] Et kas sa tead, kui palju on seal kasutatud või, või kui palju kasut- Ma võin sulle oma lühikese kogemuse puhul
+[115:56.2 - 116:01.9] peaaegu riigisektoris võin sulle kinnitada, et Eesti, Eesti riigi andmed on nii hästi hoitud, et neid ei kasutata mitte millekski.
+[116:01.9 - 116:04.1] Nad hoitakse väga hästi.
+[116:04.1 - 116:08.1] Ent raske on neid kasutada.
+[116:08.1 - 116:18.1] Et ei, et ma, ma ei, ma, ma ka przez-- ma tean, et Eesti riik tegelikult tegeleb tehisintellekti võimaluste kasutamisega või võtmisega aktiivselt ja nii edasi, aga, aga see veidikene ta
+[116:18.1 - 116:28.3] nagu riik, nagu riigi puhul nagu teatavatel asjadel olemagi peab, aga, aga ta veidikene käib selliselt noh, läbi bürokraatliku vada ja, ja edasi,
+[116:28.3 - 116:38.3] et, et see, need, need praegu vist hiljuti, hiljuti, hiljuti vähemalt valmisid kesksed riskihinnangud siin teenuste pakkujatele ja nii edasi, mis on väga suur asi edasi juba, et, et siis ei
+[116:38.3 - 116:40.3] pea iga asutus iseseisvalt seda tegema ja nii edasi.
+[116:40.3 - 116:41.5] Aga me võime pärast sellest rääkida.
+[116:41.5 - 116:44.0] Et aga riik, riik kindlasti ma tean, et riik tegeleb sellega.
+[116:44.0 - 116:48.0] Riigil võtavad asjad veidikene rohkem aega, kui, kui eraettevõtjatel mõnikord.
+[116:48.0 - 116:50.8] Ja, ja praegu see, praegu see, see toimib.
+[116:50.8 - 116:56.3] Okei, aga ma ta-- tänan teid kõiki kohale tulemast ja, ja ma ütlen, kui kellel on mingisuguseid mõtteid, küsimusi, andke mulle julgelt teada.
+[116:56.3 - 117:00.0] Aitäh!
